@@ -80,3 +80,5 @@ We welcome contributions to improve the functionality and capabilities of this c
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## [Buy me a beer! 🍺](https://www.buymeacoffee.com/castena)
