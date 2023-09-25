@@ -1,4 +1,4 @@
-# LLM Chatbot for Interacting with Spanish Podcasts
+# Castena: LLM Chatbot for Interacting with Spanish Podcasts
 
 ## Table of Contents
 - [Introduction](#introduction)
