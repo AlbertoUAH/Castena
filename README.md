@@ -93,4 +93,9 @@ We welcome contributions to improve the functionality and capabilities of this c
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Tools
+
+* Colab notebooks (free tier)
+* [TogetherAI](https://together.ai/) (LLM support)
+
 ## [Buy me a beer! 🍺](https://www.buymeacoffee.com/castena)
