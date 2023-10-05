@@ -42,6 +42,7 @@ Before you begin, ensure you have the following requirements in place:
 
 - **Python**: You need Python 3.7 or later installed on your system.
 - **Virtual Environment (Optional)**: It's recommended to create a virtual environment to manage dependencies.
+- **GPU**: not mandatory, but recommended (GPU used: Nvidia T4)
 
 ### Installation
 
