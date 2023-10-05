@@ -22,9 +22,9 @@ This chatbot utilizes advanced natural language processing techniques to provide
 
 ## Our main objectives
 
-![image](https://github.com/AlbertoUAH/Castena/assets/45654081/2a2fe394-8e0d-45fc-9c99-568a727f136e)
-![image](https://github.com/AlbertoUAH/Castena/assets/45654081/b3d0743f-26b5-4b76-a53c-86eceff21fda)
-![image](https://github.com/AlbertoUAH/Castena/assets/45654081/b1a525e3-778f-49ec-a76b-be21873460db)
+![image](./media/worldcast_icon.png)
+![image](./media/wild_project_icon.png)
+![image](./media/negocios_tv.png)
 
 
 ## Features
