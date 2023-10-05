@@ -32,7 +32,7 @@ This chatbot utilizes advanced natural language processing techniques to provide
 - **Transcription**: Get accurate text transcriptions of podcast episodes.
 - **Summarization**: Receive concise summaries of podcast episodes.
 - **Search**: Find specific information, keywords, or topics within podcasts.
-- **Language Support**: Designed to interact with Spanish-language podcasts.
+- **Language Support**: Currently designed only to interact in English, translating the outputs into Spanish (Spanish based LLM models will be available soon...).
 
 ## Getting Started
 
