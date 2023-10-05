@@ -1,0 +1,5 @@
+The following is set of summaries:
+{doc_summaries}
+Take these and distill it into a final, consolidated summary of the main themes in detail.
+Separate every theme by \n
+Summary:
