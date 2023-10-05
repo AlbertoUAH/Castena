@@ -1,7 +1,7 @@
 # Castena: LLM Chatbot for Interacting with Spanish Podcasts
 
 <div style="text-align: center;">
-    <img src="https://github.com/AlbertoUAH/Castena/assets/45654081/c2636675-56e1-4e82-b6f8-ebf9f220b4e4" width="200px">
+    <img src="./media/podcast_icon.png" width="200px" style="margin: 0 auto;">
 </div>
 
 ## Table of Contents
