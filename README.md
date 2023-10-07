@@ -11,6 +11,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Evaluation](#evaluation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -70,6 +71,12 @@ Before you begin, ensure you have the following requirements in place:
   4. Follow the chatbot's prompts to provide additional details or requests.
   
   5. Enjoy your enhanced podcast experience!
+
+## Evaluation
+
+To evaluate our approach, labelled datasets are needed. To do so, we employ [Label Studio library](https://labelstud.io/)
+![image](https://github.com/AlbertoUAH/Castena/assets/45654081/975f5b21-ba6a-4257-b209-f2b0b7e7833d)
+
 
 ## Contributing
 
