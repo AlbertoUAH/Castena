@@ -1,0 +1,1794 @@
+[
+  {
+    "id": 1,
+    "annotations": [
+      {
+        "id": 2,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cuando menciona Roberto Vaquero que años pasados fueron tirados a la basura? Lo menciona desde el instante 00:00:05 hasta 00:00:07"
+              ]
+            },
+            "id": "5UDx391CSv",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-07T11:07:13.340744Z",
+        "updated_at": "2023-10-07T11:14:13.273889Z",
+        "draft_created_at": null,
+        "lead_time": 424.728,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "19927030-7851-4791-8f73-e940af756ab0",
+        "import_id": null,
+        "last_action": null,
+        "task": 1,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 1,
+      "min_time": "00:00:05.400000",
+      "max_time": "00:00:07.400000",
+      "transcript": "Y yo creo que esos años fueron tirados a la basura..¿Escuchas?",
+      "literal_transcript": "Desde el instante 00:00:05.400000 hasta 00:00:07.400000 Roberto Vaquero dice: \"Y yo creo que esos años fueron tirados a la basura..¿Escuchas?\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.128449Z",
+    "updated_at": "2023-10-07T11:14:13.299375Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 5,
+    "annotations": [
+      {
+        "id": 5,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿A qué se refiere Roberto Vaquero en el instante 00:00:25 al 00:01:06 con \"se está fomentando la debilidad\"? Según Roberto Vaquero, \"se está fomentando la debilidad\" hace referencia a que hay gente que siente vergüenza por ser español, blanco o heterosexual; lo cual lo considera ridículo."
+              ]
+            },
+            "id": "MqMO3iQiS7",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:30:34.753380Z",
+        "updated_at": "2023-10-08T09:30:34.753401Z",
+        "draft_created_at": "2023-10-07T14:03:58.878890Z",
+        "lead_time": 464.709,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "130b67be-6ced-4b25-b7bb-9ca7e5a9014f",
+        "import_id": null,
+        "last_action": null,
+        "task": 5,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 5,
+      "min_time": "00:00:25.250000",
+      "max_time": "00:01:06.290000",
+      "transcript": "Poner tuits..O sea que no estabas tuiteando, estaba en la trinchera..Hubo gente, sí, que estuvo en la trinchera..y que ha desplazado a lo que se podría llamar las mujeres biológicas..Y no solo eso, sino que las llaman ter, es decir, porque los nazis y las van a pegar a los sitios..Es que vivimos en una situación distópica en todos los ámbitos..Modelo migratorio, la cuestión de la mujer, la educación de los niños hipersensualizándolos.y metiéndoles teorías horrorosas, de mi punto de vista, en la cabeza..Se está fomentando la debilidad..Hay gente que se avergüenza de ser español..Hay gente que se avergüenza de ser blanco..Hay gente que se avergüenza de ser otorosexual..Es que ya llega un momento en que es ridículo.",
+      "literal_transcript": "Desde el instante 00:00:25.250000 hasta 00:01:06.290000 Roberto Vaquero dice: \"Poner tuits..O sea que no estabas tuiteando, estaba en la trinchera..Hubo gente, sí, que estuvo en la trinchera..y que ha desplazado a lo que se podría llamar las mujeres biológicas..Y no solo eso, sino que las llaman ter, es decir, porque los nazis y las van a pegar a los sitios..Es que vivimos en una situación distópica en todos los ámbitos..Modelo migratorio, la cuestión de la mujer, la educación de los niños hipersensualizándolos.y metiéndoles teorías horrorosas, de mi punto de vista, en la cabeza..Se está fomentando la debilidad..Hay gente que se avergüenza de ser español..Hay gente que se avergüenza de ser blanco..Hay gente que se avergüenza de ser otorosexual..Es que ya llega un momento en que es ridículo.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.128728Z",
+    "updated_at": "2023-10-08T09:30:34.773989Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 6,
+    "annotations": [
+      {
+        "id": 6,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿En qué momento el entrevistados hace referencia a la defensa de la bandera? La defensa de la bandera se hace referencia en el fragmento 00:01:07 al 00:01:11"
+              ]
+            },
+            "id": "_IAjP2mIi5",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:30:37.171016Z",
+        "updated_at": "2023-10-08T09:30:37.171038Z",
+        "draft_created_at": "2023-10-07T14:10:28.411890Z",
+        "lead_time": 83.421,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "216b1e02-5d84-4725-977a-f99d30337872",
+        "import_id": null,
+        "last_action": null,
+        "task": 6,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Entrevistador",
+      "speaker_change": 6,
+      "min_time": "00:01:07.730000",
+      "max_time": "00:01:11.730000",
+      "transcript": "Algo que me gustó mucho de tu discurso es la defensa de la bandera, joder,.porque para mí esto es puro sentido común.",
+      "literal_transcript": "Desde el instante 00:01:07.730000 hasta 00:01:11.730000 Entrevistador dice: \"Algo que me gustó mucho de tu discurso es la defensa de la bandera, joder,.porque para mí esto es puro sentido común.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.128787Z",
+    "updated_at": "2023-10-08T09:30:37.192761Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 8,
+    "annotations": [
+      {
+        "id": 7,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿A qué se refiere el entrevistador cuando menciona que \"la población compra paquetes\"? Según el entrevistador, que \"la población compra paquetes\" hace referencia a que la gente, en los últimos tiempos, defiende a ultranza su ideología, independientemente si es de izquierdas o de derechas."
+              ]
+            },
+            "id": "7p-VcG1pxX",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:30:41.329836Z",
+        "updated_at": "2023-10-08T09:30:41.329878Z",
+        "draft_created_at": "2023-10-07T14:18:14.562536Z",
+        "lead_time": 463.626,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "2ff18835-dee0-410a-bcd1-bd41a00f1152",
+        "import_id": null,
+        "last_action": null,
+        "task": 8,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Entrevistador",
+      "speaker_change": 8,
+      "min_time": "00:01:29.740000",
+      "max_time": "00:03:01.740000",
+      "transcript": "Pues aquí estamos, un día más, una semana más..Una San Miguel, en este caso, con Roberto Vaquero..¿Qué tal? ¿Todo bien?.Encantado de estar aquí..Bienvenido..La verdad que me alegro de que hayas venido..Estamos ahora que estamos con el 23J..Estamos tratando de hacer un poco de contenido electoral..De que nuestros oyentes tengan un poco una visión clara..Veo que los medios, al final, hoy en día están como muy manipulados..Muy sesgados..Y que los partidos, sean del tipo que sean,.no tienen normalmente cancha libre para expresarse tranquilamente..Entonces me gustaría hablar contigo de dos cosas..Por una parte, de ti..Como figura personal..Y luego del partido que vienes representando..También entiendo ahora mismo..Y debo decirte que me parece,.¿sabes?.Que viendo tu partido,.y bueno, en particular tus vídeos, lo que he visto de ti..Me parece que es bastante aire fresco..De cara a lo que se veía..O sea, veo que, últimamente, durante los últimos tiempos,.es como que la población compra paquetes..¿Sabes?.Pues si eres de izquierda, tienes que defender esto, esto y esto..Y si eres de derecha, tienes que defender esto, esto y esto..Y es como que no hay criterio..Y tu partido, al final, es como que despista un poco..Supongo que es difícil de posicionar..Isquierda, derecha..Tiene rasgos, ¿no?.Entonces, por lo menos, sé que estaremos en desacuerdo en algunas cosas..Pero por lo menos me parece aire fresco..¿Sabes?.Que creo que huele a cerrado ya la política española, por último..Supongo que...",
+      "literal_transcript": "Desde el instante 00:01:29.740000 hasta 00:03:01.740000 Entrevistador dice: \"Pues aquí estamos, un día más, una semana más..Una San Miguel, en este caso, con Roberto Vaquero..¿Qué tal? ¿Todo bien?.Encantado de estar aquí..Bienvenido..La verdad que me alegro de que hayas venido..Estamos ahora que estamos con el 23J..Estamos tratando de hacer un poco de contenido electoral..De que nuestros oyentes tengan un poco una visión clara..Veo que los medios, al final, hoy en día están como muy manipulados..Muy sesgados..Y que los partidos, sean del tipo que sean,.no tienen normalmente cancha libre para expresarse tranquilamente..Entonces me gustaría hablar contigo de dos cosas..Por una parte, de ti..Como figura personal..Y luego del partido que vienes representando..También entiendo ahora mismo..Y debo decirte que me parece,.¿sabes?.Que viendo tu partido,.y bueno, en particular tus vídeos, lo que he visto de ti..Me parece que es bastante aire fresco..De cara a lo que se veía..O sea, veo que, últimamente, durante los últimos tiempos,.es como que la población compra paquetes..¿Sabes?.Pues si eres de izquierda, tienes que defender esto, esto y esto..Y si eres de derecha, tienes que defender esto, esto y esto..Y es como que no hay criterio..Y tu partido, al final, es como que despista un poco..Supongo que es difícil de posicionar..Isquierda, derecha..Tiene rasgos, ¿no?.Entonces, por lo menos, sé que estaremos en desacuerdo en algunas cosas..Pero por lo menos me parece aire fresco..¿Sabes?.Que creo que huele a cerrado ya la política española, por último..Supongo que...\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.128913Z",
+    "updated_at": "2023-10-08T09:30:41.353371Z",
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 9,
+    "annotations": [
+      {
+        "id": 8,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cuál es la opinión del entrevistado acerca de la situación política actual? El entrevistado, Roberto Vaquero, comenta que, pese a la polarización entre ambos partidos, en esencia considera la izquierda y derecha como lo mismo, principalmente por los privilegios que presentan frente al resto: mayor financiación y representación. En esencia: quieren perpetuarse. Como consecuencia, otros partidos que surgan nuevos tiene mucho más complicado crecer políticamente."
+              ]
+            },
+            "id": "HKOb6SqlDm",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:30:43.672743Z",
+        "updated_at": "2023-10-08T09:30:43.672762Z",
+        "draft_created_at": "2023-10-07T14:27:34.906186Z",
+        "lead_time": 300.257,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "2d3f1db0-5cfa-48cc-8a4e-383efc121343",
+        "import_id": null,
+        "last_action": null,
+        "task": 9,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 9,
+      "min_time": "00:03:04.680000",
+      "max_time": "00:03:55.680000",
+      "transcript": "No sé si luego me preguntarás por eso o no..Pero a mí me parece que es como un juego de teleñecos.para engañar a la gente..Y en el fondo, aunque parezca que está todo muy polarizado.y que se enfrentan mucho, muchas veces defienden, en esencia, lo mismo..Y, bueno, el panorama político está repartido por ellos,.primero por la financiación..Porque como ellos ya han estado en el poder, tienen derechos,.o sea, ya han tenido representación, tienen derecho a dinero,.tienen derecho a más espacio, tienen derecho a muchas cosas.que los partidos que no tienen representación o los nuevos no tienen..Nosotros tenemos que recoger firmas, por ejemplo, que es una barbaridad..Nosotros nos vamos a presentar en 51 circunscripciones de 52..Sólo nos ha faltado Melilla..Y, claro, es que es difícil de conseguir..Luego veo otros partidos que lo intentan y en tan poco tiempo es imposible..Entonces ellos juegan con una ventaja absoluta.y lo que hacen es perpetuar un poco lo que hay..Entonces es muy difícil que haya aire fresco.porque, en cuanto haya un poco, cierran la ventana.",
+      "literal_transcript": "Desde el instante 00:03:04.680000 hasta 00:03:55.680000 Roberto Vaquero dice: \"No sé si luego me preguntarás por eso o no..Pero a mí me parece que es como un juego de teleñecos.para engañar a la gente..Y en el fondo, aunque parezca que está todo muy polarizado.y que se enfrentan mucho, muchas veces defienden, en esencia, lo mismo..Y, bueno, el panorama político está repartido por ellos,.primero por la financiación..Porque como ellos ya han estado en el poder, tienen derechos,.o sea, ya han tenido representación, tienen derecho a dinero,.tienen derecho a más espacio, tienen derecho a muchas cosas.que los partidos que no tienen representación o los nuevos no tienen..Nosotros tenemos que recoger firmas, por ejemplo, que es una barbaridad..Nosotros nos vamos a presentar en 51 circunscripciones de 52..Sólo nos ha faltado Melilla..Y, claro, es que es difícil de conseguir..Luego veo otros partidos que lo intentan y en tan poco tiempo es imposible..Entonces ellos juegan con una ventaja absoluta.y lo que hacen es perpetuar un poco lo que hay..Entonces es muy difícil que haya aire fresco.porque, en cuanto haya un poco, cierran la ventana.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.128978Z",
+    "updated_at": "2023-10-08T09:30:43.695530Z",
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 12,
+    "annotations": [
+      {
+        "id": 9,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Quién fue el invitado anterior a Roberto Vaquero? El invitado anterior a Roberto Vaquero fue Santiago Abascal"
+              ]
+            },
+            "id": "Zve0s4O3XH",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:30:47.635142Z",
+        "updated_at": "2023-10-08T09:30:47.635164Z",
+        "draft_created_at": "2023-10-07T14:30:43.696323Z",
+        "lead_time": 123.51899999999999,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "688fdaef-3161-4220-8774-3f982bc72fc1",
+        "import_id": null,
+        "last_action": null,
+        "task": 12,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Entrevistador",
+      "speaker_change": 12,
+      "min_time": "00:04:49.690000",
+      "max_time": "00:06:06.690000",
+      "transcript": "Yo antes de entrar en materia, a mí me gustaría mandar un mensaje a la audiencia.porque habrás visto el otro día tuvimos aquí a Abascal..Invitamos a todo el mundo..Fueron los primeros que se prestaron..Ahora estás por aquí tú..Y bueno, si antes de las elecciones conseguimos traer a Pessoa, EPP y el que quiera venir,.pues cojonudo por nuestra parte..Pero algo que no me ha gustado nada con el tema de Abascal.es la cantidad de DMs que he recibido de mensajes diciendo.¿Pero cómo se te ocurre darle voz a...?.Y esto no solo me lo han dicho con Abascal, sino que me lo dicen.pues traemos a una tía que dice que es media marciana..¿Cómo se te ocurre darle voz? Traemos a cualquier persona..Cualquier persona, ¿no?.Entonces... y sé que me lo van a decir contigo también..100%..Totalmente. Totalmente..Y digo, el argumento que utilizan es como que es peligroso..Y digo, a ver, vamos a ver..Lo que es peligroso es no escuchar un poquito de todo.y tratar de extraer lo que consideras que es positivo de cada uno de los argumentos.y tener tu propio criterio y construir tu opinión,.no comprar lo que decía al principio de paquetes..Entonces, invitaría a la audiencia a escuchar sin sesgo,.a escuchar tranquilamente lo que tengas que decir tú y cualquier persona.y a construir su propia opinión porque es que me parecen ovejas, literalmente..Todos los que me están escribiendo eso..¿Cómo se te ocurre darle voz? ¿Cómo se te ocurre? ¿Cómo se te ocurre?.Váyanse a tomar por el culo..O sea, digo, ¿sabes? ¿Entiendes lo que digo, no?",
+      "literal_transcript": "Desde el instante 00:04:49.690000 hasta 00:06:06.690000 Entrevistador dice: \"Yo antes de entrar en materia, a mí me gustaría mandar un mensaje a la audiencia.porque habrás visto el otro día tuvimos aquí a Abascal..Invitamos a todo el mundo..Fueron los primeros que se prestaron..Ahora estás por aquí tú..Y bueno, si antes de las elecciones conseguimos traer a Pessoa, EPP y el que quiera venir,.pues cojonudo por nuestra parte..Pero algo que no me ha gustado nada con el tema de Abascal.es la cantidad de DMs que he recibido de mensajes diciendo.¿Pero cómo se te ocurre darle voz a...?.Y esto no solo me lo han dicho con Abascal, sino que me lo dicen.pues traemos a una tía que dice que es media marciana..¿Cómo se te ocurre darle voz? Traemos a cualquier persona..Cualquier persona, ¿no?.Entonces... y sé que me lo van a decir contigo también..100%..Totalmente. Totalmente..Y digo, el argumento que utilizan es como que es peligroso..Y digo, a ver, vamos a ver..Lo que es peligroso es no escuchar un poquito de todo.y tratar de extraer lo que consideras que es positivo de cada uno de los argumentos.y tener tu propio criterio y construir tu opinión,.no comprar lo que decía al principio de paquetes..Entonces, invitaría a la audiencia a escuchar sin sesgo,.a escuchar tranquilamente lo que tengas que decir tú y cualquier persona.y a construir su propia opinión porque es que me parecen ovejas, literalmente..Todos los que me están escribiendo eso..¿Cómo se te ocurre darle voz? ¿Cómo se te ocurre? ¿Cómo se te ocurre?.Váyanse a tomar por el culo..O sea, digo, ¿sabes? ¿Entiendes lo que digo, no?\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.129176Z",
+    "updated_at": "2023-10-08T09:30:47.659104Z",
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 15,
+    "annotations": [
+      {
+        "id": 10,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Qué relación existe entre Roberto Vaquero y los kurdos? Según la entrevista, Roberto Vaquero colaboró con la comunidad kurda en Siria en su lucha contra el Estado Islámico, dado que él y su movimiento (El Frente Obrero) son contrarios a la islamización de España y en general.  ¿De qué acusaron a Roberto Vaquero? Roberto Vaquero fue acusado de organizar el envío de voluntarios a Siria para luchar contra el Estado Islámico.  ¿Cuántos años se pidieron de cárcel para Roberto Vaquero? Según la entrevista, la petición inicial era de 27 años, pero se quedó finalmente en 1 año y 16 meses.  ¿Estuvo en prisión el entrevistado? Si, Roberto Vaquero estuvo en prisión preventiva durante 1 año y 16 meses."
+              ]
+            },
+            "id": "A5DD6Zwjg3",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:30:51.622151Z",
+        "updated_at": "2023-10-08T09:30:51.622176Z",
+        "draft_created_at": "2023-10-07T14:43:19.099753Z",
+        "lead_time": 617.1020000000001,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "80d343a2-32fd-4209-88e5-ab2060b6309a",
+        "import_id": null,
+        "last_action": null,
+        "task": 15,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 15,
+      "min_time": "00:08:10.830000",
+      "max_time": "00:10:11.830000",
+      "transcript": "Bueno, pues un resumen de lo más peliculero..Si es lo de Siria, por ejemplo,.nosotros siempre hemos colaborado mucho con la comunidad kurda.y España siempre tiene unas relaciones un poco turbias con Turquía,.que es un país que para mí es una dictadura,.pero habrá gente que te diga que es autoritaria,.pero bueno, que no es un sitio donde la gente pueda hacer lo que quiera..Entonces aquí empezó a haber persecución también a la comunidad kurda aquí..Entonces bueno, nosotros dijimos,.esto hay que empezar a organizarnos con ellos y empezamos a trabajar con ellos..A mí me pinchan los teléfonos y todo en 2012, 2013,.simplemente por estar con esta gente,.por ayudar a la gente a la comunidad kurda..Cuando pasa lo del Estado Islámico,.bueno, nosotros somos unas personas con muchas inquietudes en este sentido,.somos contrarios al islamismo, a la islamización de España y también en general..Pero cuando dices nosotros, ¿quiénes son ustedes?.Bueno, nosotros el grupo que funda el Frente Obrero, lo que era el Grupo Motor,.es el grupo de donde vengo yo..Entonces, esto estamos hablando de 2009, 2010, 2011,.o sea de que un trabajo ya de hace bastante tiempo..Cuando pasa lo del Estado Islámico,.nosotros, incluso amigos nuestros, familiares de nuestros amigos,.los asesinan en Siria..Entonces bueno, nosotros estamos muy afectados con eso..Y en ese contexto, yo soy de una relación también que se llama,.bueno, se llamaba Reconstrucción Comunista en esa época..Y se hace una convocatoria parecida a la de las brigadas internacionales que hubo en España,.aquí en la Guerra Civil..Pues igual, pero para ir a luchar contra el Estado Islámico..Entonces, a mí me acusan..Bueno, de hecho, dicen que está aprobado, o sea, lo puedo decir..Dicen que soy yo el que lo ha organizado, porque va gente a combatir allí..Y bueno, cuando vuelven, les detienen, empiezan a presionar,.nos montan un juicio en base a todo esto..Y por luchar contra el Estado Islámico, nos montan un juicio..A mí me tienen preventiva, yo solo estuve en preventiva..Luego no estuve condenado cumpliendo pena..Y al final de una petición de 27 años que me metían a mí,.por ser el malo del final del juego,.pues se quedó en un año y seis meses,.y todavía estoy peleando para quedar limpio..Esa es la situación que tengo ahora.",
+      "literal_transcript": "Desde el instante 00:08:10.830000 hasta 00:10:11.830000 Roberto Vaquero dice: \"Bueno, pues un resumen de lo más peliculero..Si es lo de Siria, por ejemplo,.nosotros siempre hemos colaborado mucho con la comunidad kurda.y España siempre tiene unas relaciones un poco turbias con Turquía,.que es un país que para mí es una dictadura,.pero habrá gente que te diga que es autoritaria,.pero bueno, que no es un sitio donde la gente pueda hacer lo que quiera..Entonces aquí empezó a haber persecución también a la comunidad kurda aquí..Entonces bueno, nosotros dijimos,.esto hay que empezar a organizarnos con ellos y empezamos a trabajar con ellos..A mí me pinchan los teléfonos y todo en 2012, 2013,.simplemente por estar con esta gente,.por ayudar a la gente a la comunidad kurda..Cuando pasa lo del Estado Islámico,.bueno, nosotros somos unas personas con muchas inquietudes en este sentido,.somos contrarios al islamismo, a la islamización de España y también en general..Pero cuando dices nosotros, ¿quiénes son ustedes?.Bueno, nosotros el grupo que funda el Frente Obrero, lo que era el Grupo Motor,.es el grupo de donde vengo yo..Entonces, esto estamos hablando de 2009, 2010, 2011,.o sea de que un trabajo ya de hace bastante tiempo..Cuando pasa lo del Estado Islámico,.nosotros, incluso amigos nuestros, familiares de nuestros amigos,.los asesinan en Siria..Entonces bueno, nosotros estamos muy afectados con eso..Y en ese contexto, yo soy de una relación también que se llama,.bueno, se llamaba Reconstrucción Comunista en esa época..Y se hace una convocatoria parecida a la de las brigadas internacionales que hubo en España,.aquí en la Guerra Civil..Pues igual, pero para ir a luchar contra el Estado Islámico..Entonces, a mí me acusan..Bueno, de hecho, dicen que está aprobado, o sea, lo puedo decir..Dicen que soy yo el que lo ha organizado, porque va gente a combatir allí..Y bueno, cuando vuelven, les detienen, empiezan a presionar,.nos montan un juicio en base a todo esto..Y por luchar contra el Estado Islámico, nos montan un juicio..A mí me tienen preventiva, yo solo estuve en preventiva..Luego no estuve condenado cumpliendo pena..Y al final de una petición de 27 años que me metían a mí,.por ser el malo del final del juego,.pues se quedó en un año y seis meses,.y todavía estoy peleando para quedar limpio..Esa es la situación que tengo ahora.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.129380Z",
+    "updated_at": "2023-10-08T09:30:51.641714Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 17,
+    "annotations": [
+      {
+        "id": 11,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cuántos días pasó Roberto Vaquero en aislamiento antiterrorista? Roberto Vaquero pasó un total de 49 días en aislamiento antiterrorista.  ¿Qué estuvo haciendo el entrevistado durante su estancia en la cárcel? El entrevistado comenta que durante su estancia en prisión aprovechó el tiempo para retomar la rehabilitación de un hombro que se había lesionado; además de retomar sus estudios, consiguiendo un grado en Geografía e Historia, así como un máster y un doctorado en proceso. En resumen, su experiencia en la cárcel le transformó y le hizo mucho más fuerte."
+              ]
+            },
+            "id": "iBELNMgCaW",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:30:53.774093Z",
+        "updated_at": "2023-10-08T09:30:53.774117Z",
+        "draft_created_at": "2023-10-07T14:48:16.575835Z",
+        "lead_time": 294.545,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "33e0d0b2-39f6-44f5-a6e2-48f7f324f217",
+        "import_id": null,
+        "last_action": null,
+        "task": 17,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 17,
+      "min_time": "00:10:23.160000",
+      "max_time": "00:11:40.160000",
+      "transcript": "O sea que no estabas tuiteando, estabas en la trinchea..Hubo gente que sí, que estuvo en la trinchea..A mí me detienen por ser el investigador o el organizador,.y me pasó 49 días en el aislamiento antiterrorista Fiestres,.que me pasa de todo allí..De hecho, la gente dice que escriba un libro sobre eso,.porque me pasa de todo..Y bueno, yo era de una manera antes de entrar ahí..Bueno, yo era un tío que siempre entrenaba mucho,.siempre le daba mucha importancia al estudio, al entrenamiento, etc..Lo que es para mí....Antes de la cárcel también..Ya de antes era así..Me dejé la lesión de hombro, dejé de entrenar,.y cuando me metieron en la cárcel empecé a entrenar muchísimo..Y cuando salí, pues acabé compitiendo..O sea, me puse a entrenar quipo sin acabar compitiendo..Me decían que con el hombro no podía volver a entrenar,.me puse a hacer rehabilitación como un animal,.me puse a entrenar y terminé compitiendo..Yo dejé de estudiar para ponerme a trabajar en su día,.salí, me saqué un grado en geografía en historia,.me saqué el máster y estoy haciendo el doctorado..Es decir, yo como que me discipliné mucho allí..O sea, yo de por sí era una persona,.en comparación con una persona que solo sale de fiestes y demás,.era muy ordenado..Pero cuando salí de allí, salí transformado..Era una persona que me dedicó a trabajar para conseguir mis objetivos.y no miraba otra cosa..Y me dedico también a construirme a mí,.también para aportar a los demás..Entonces, claro, en vez de destruirme,.a mí lo que me hizo fue mucho más fuerte..Yo salí mucho más fuerte allí..Mentalmente y a todos los niveles..¿Y las personas con las que compartiste tiempo en la cárcel?",
+      "literal_transcript": "Desde el instante 00:10:23.160000 hasta 00:11:40.160000 Roberto Vaquero dice: \"O sea que no estabas tuiteando, estabas en la trinchea..Hubo gente que sí, que estuvo en la trinchea..A mí me detienen por ser el investigador o el organizador,.y me pasó 49 días en el aislamiento antiterrorista Fiestres,.que me pasa de todo allí..De hecho, la gente dice que escriba un libro sobre eso,.porque me pasa de todo..Y bueno, yo era de una manera antes de entrar ahí..Bueno, yo era un tío que siempre entrenaba mucho,.siempre le daba mucha importancia al estudio, al entrenamiento, etc..Lo que es para mí....Antes de la cárcel también..Ya de antes era así..Me dejé la lesión de hombro, dejé de entrenar,.y cuando me metieron en la cárcel empecé a entrenar muchísimo..Y cuando salí, pues acabé compitiendo..O sea, me puse a entrenar quipo sin acabar compitiendo..Me decían que con el hombro no podía volver a entrenar,.me puse a hacer rehabilitación como un animal,.me puse a entrenar y terminé compitiendo..Yo dejé de estudiar para ponerme a trabajar en su día,.salí, me saqué un grado en geografía en historia,.me saqué el máster y estoy haciendo el doctorado..Es decir, yo como que me discipliné mucho allí..O sea, yo de por sí era una persona,.en comparación con una persona que solo sale de fiestes y demás,.era muy ordenado..Pero cuando salí de allí, salí transformado..Era una persona que me dedicó a trabajar para conseguir mis objetivos.y no miraba otra cosa..Y me dedico también a construirme a mí,.también para aportar a los demás..Entonces, claro, en vez de destruirme,.a mí lo que me hizo fue mucho más fuerte..Yo salí mucho más fuerte allí..Mentalmente y a todos los niveles..¿Y las personas con las que compartiste tiempo en la cárcel?\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.129506Z",
+    "updated_at": "2023-10-08T09:30:53.795859Z",
+    "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 19,
+    "annotations": [
+      {
+        "id": 12,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Con qué personas estuvo Roberto Vaquero en prisión? Roberto Vaquero compartió su estancia en prisión con diferentes presos: desde gente condenada a 10 u 11 años, un chico que llevaba 31 años en la cárcel, con los tigres de arcán, mafiosos albaneses e italianos, hasta presos de ETA."
+              ]
+            },
+            "id": "Qj-eptOSH_",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:30:57.050602Z",
+        "updated_at": "2023-10-08T09:30:57.050621Z",
+        "draft_created_at": "2023-10-07T14:53:35.496366Z",
+        "lead_time": 332.11,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0a3d9fed-0ee6-461d-bc8d-115fa5e9faf5",
+        "import_id": null,
+        "last_action": null,
+        "task": 19,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 19,
+      "min_time": "00:11:49.930000",
+      "max_time": "00:12:50.930000",
+      "transcript": "De ver gente que iba a diez años, a lo mejor, once..Estuve con un chico que llevaba más tiempo a la cárcel.que años tenía yo cuando estuve..31 años llevaba..Y claro, ahora le escribo, le mando cosas, intento ayudar..O sea, intento hacer cosas para ayudar a la gente que está así..Pero yo vi mucha gente rota..Y vi gente que a pesar de llevar mucho tiempo.y estar un poco mal, salían adelante, se esforzaban..Entonces yo lo veía como algo de ejemplo..Yo allí estuve con gente de las que da miedo..Es decir, yo estuve con gente, sobre todo el primer tiempo que estuve en Soto,.estuve con tigres de arcán, estuve con mafiosos albaneses, italianos..Estuve con gente muy curiosa..Estuve con presos de ETA..Estuve con todo tipo de gente..Y hubo algunos de ellos que aprendí mucho..Y aprendí a relacionarme también de otra manera..Aprendí, por ejemplo, con el chico este que era Serbia..Aprendí a entrenar de otra manera..Porque él era un fenómeno físico..Y yo me dedicé a hacer eso..Yo leía, entrenaba y me preparaba..Y de hecho cuando salí allí, es cuando propuse el plan de hacer el Fento Obrero y de todo esto..O sea, en realidad fue un periodo muy corto, pero muy productivo para mí.",
+      "literal_transcript": "Desde el instante 00:11:49.930000 hasta 00:12:50.930000 Roberto Vaquero dice: \"De ver gente que iba a diez años, a lo mejor, once..Estuve con un chico que llevaba más tiempo a la cárcel.que años tenía yo cuando estuve..31 años llevaba..Y claro, ahora le escribo, le mando cosas, intento ayudar..O sea, intento hacer cosas para ayudar a la gente que está así..Pero yo vi mucha gente rota..Y vi gente que a pesar de llevar mucho tiempo.y estar un poco mal, salían adelante, se esforzaban..Entonces yo lo veía como algo de ejemplo..Yo allí estuve con gente de las que da miedo..Es decir, yo estuve con gente, sobre todo el primer tiempo que estuve en Soto,.estuve con tigres de arcán, estuve con mafiosos albaneses, italianos..Estuve con gente muy curiosa..Estuve con presos de ETA..Estuve con todo tipo de gente..Y hubo algunos de ellos que aprendí mucho..Y aprendí a relacionarme también de otra manera..Aprendí, por ejemplo, con el chico este que era Serbia..Aprendí a entrenar de otra manera..Porque él era un fenómeno físico..Y yo me dedicé a hacer eso..Yo leía, entrenaba y me preparaba..Y de hecho cuando salí allí, es cuando propuse el plan de hacer el Fento Obrero y de todo esto..O sea, en realidad fue un periodo muy corto, pero muy productivo para mí.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.129627Z",
+    "updated_at": "2023-10-08T09:30:57.072823Z",
+    "inner_id": 19,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 23,
+    "annotations": [
+      {
+        "id": 13,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cuándo se empezó a politizar Roberto Vaquero? Roberto Vaquero comenzó a politizarse en el instituto, en asambleas de estudiantes, en la órbita del \"anti-fascismo\". No obstante, cada vez se fue apartando de aquella \"esfera\" hasta que llegó a fundar su propio movimiento.  ¿Dónde vive el entrevistado? El entrevistado, Roberto Vaquero, asegura vivir en el barrio de San Nicasio, en Leganés.  ¿Qué problemas presenta el barrio donde vive Roberto Vaquero? Según Roberto Vaquero, hablando con la gente de su barrio (San Nicasio, Leganés) destacan la falta de trabajo, las malas condiciones laborales, la incapacidad de llegar a fin de mes o la inseguridad en el barrio.  ¿Cuál es el problema de la izquierda actual, según el entrevistado? Según el entrevistado, Roberto Vaquero, considera que la izquierda actual ha traicionado y abandonado a la denominada como \"clase obrera\" o \"clase trabajadora\". Están más preocupados de \"opresiones inventadas\" o en \"modas procedentes de Estados Unidos\".  ¿Roberto Vaquero se considera patriota? ¿Cuándo lo menciona? Si, Roberto Vaquero se considera patriota. Lo menciona entre el instante 00:13:47 y el 00:17:07: \"Yo me considero patriota\""
+              ]
+            },
+            "id": "tC3ymX9z4c",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:01.669978Z",
+        "updated_at": "2023-10-08T09:31:01.670001Z",
+        "draft_created_at": "2023-10-07T15:18:14.495837Z",
+        "lead_time": 1754.029,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c2ad8e7f-ccd5-4d24-b5ec-5c3283288ef1",
+        "import_id": null,
+        "last_action": null,
+        "task": 23,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 23,
+      "min_time": "00:13:47.210000",
+      "max_time": "00:17:07.350000",
+      "transcript": "Yo me empecé a politizar en el instituto, en asambleas de estudiantes, un poco en el rollo antifascista al principio también..Y al final pues fui leyendo más..Yo siempre he sido una persona que ha leído mucho, con muchas inquietudes..Y me fui ya escorando un poco de cómo es lo que yo llamo la moda de la revolución..Que hay gente que tiene como un pacto, se viste de una manera, hablan de una manera, van a unos conciertos, les gusta mucho..Yo empecé ahí, pero enseguida ya empecé a ser como el raro..Y ya empecé a tener problemas desde el principio..Y ya fui apartándome, apartándome hasta que fundé yo una organización en sí, que es un poco el embrión de todo lo que somos ahora..Y hemos llegado hasta hoy..O sea, ha sido como un proceso de ruptura que yo cuando salí de la cárcel creo que es el momento en que dijimos hay que romper con esta gente..O sea, esto es un lastre..Lo único que hace es no acercarnos a la gente normal, que es a quien nos queremos acercar..Porque a mí me critican mucho y me dicen, no es que ya no os dedicáis a la lucha por los trabajadores, habéis traicionado..Y es que no sé, en mi barrio, yo vivo en Leganés, en San Nicasio, que es un barrio obrero de inmigrantes..Y yo cuando hablo con la gente, sean españoles o sean de fuera, sus problemas es que no tienen trabajo, que su trabajo es una basura,.que no llegan a final de mes, que su hija no puede salir a la calle a partir de las 9 de la noche porque le pasa algo, que no roben..Ellos tienen una serie de problemas que nosotros, o por lo menos yo, comparto, vivo en esa situación también y quiero solucionarla..Y todos estos grupos, aunque sean muy radicales de la izquierda, están más preocupados en opresiones inventadas, en modas que vienen de Estados Unidos..Y que no creo que sean beneficiosas para nadie, es algo para la gente que mueve el negocio..Entonces yo como que, ya desde muy joven, empecé a romper con eso..Nosotros dentro de lo que es la escena antifa en su día o en el rollo más comunista o más de extrema izquierda,.estábamos como muy mal vistos ya en esa época, porque no seguíamos estas cosas. No nos gustaba seguir modas..Nosotros podemos ser lo peor para mucha gente y se nos puede criticar por muchas cosas, pero desde luego con ser coherentes con lo que pensamos,.eso es imposible que nos critiquen, porque te puede gustar o no. Eso cada uno es una cuestión de cada uno..Pero nosotros no somos marxistas de Groucho Marx, de tengo unos principios y si no te gustan tengo otros. Es lo que hay..O sea, nosotros somos así y si gustamos bien y si no, pues bueno, es que somos así. No tenemos por qué engañar a nadie..O sea, yo reniego totalmente. La gente lo llama ideología woke, yo lo llamo postmodernismo ideológico, pero viene a ser lo mismo..Es decir, todo este tema del globalismo que se llama así también muchas veces, sí totalmente en contra..Yo me considero patriota. Yo no tengo nada que ver con eso..A mí cuando me dicen, no, es que eres de derecha porque eres patriota, no? Sí, pero defiendo la lucha de clases, no?.Entonces es como que la gente le explota la cabeza, pero es que seguir PACS es lo único que hace sin utilizar..Es decir, que puedes tener cosas acertadas, pero hay cosas que son erróneas y las defiendes única y exclusivamente porque es tu moda, no?.Es como tu tribu urbana y es que funcionan así. Sí, es un criterio..Sí, es un error. A mí me han criticado mucho por sentarme a hablar con gente que no es de mi ideología, supuestamente según ellos..Entonces yo he debatido con muchos liberales, he debatido incluso con gente de derechas de verdad, con conservadores, con gente woke también..Es como que el que si quiera sentar conmigo a debatir y ser una persona con la que se pueda hablar, no tengo ningún problema..Y eso me convierte ya prácticamente primero en un legitimador del fascismo y luego ya directamente en un fascista..Y es como, pues no sé, a lo mejor es que tenemos visiones diferentes de lo que es el fascista, de verdad.",
+      "literal_transcript": "Desde el instante 00:13:47.210000 hasta 00:17:07.350000 Roberto Vaquero dice: \"Yo me empecé a politizar en el instituto, en asambleas de estudiantes, un poco en el rollo antifascista al principio también..Y al final pues fui leyendo más..Yo siempre he sido una persona que ha leído mucho, con muchas inquietudes..Y me fui ya escorando un poco de cómo es lo que yo llamo la moda de la revolución..Que hay gente que tiene como un pacto, se viste de una manera, hablan de una manera, van a unos conciertos, les gusta mucho..Yo empecé ahí, pero enseguida ya empecé a ser como el raro..Y ya empecé a tener problemas desde el principio..Y ya fui apartándome, apartándome hasta que fundé yo una organización en sí, que es un poco el embrión de todo lo que somos ahora..Y hemos llegado hasta hoy..O sea, ha sido como un proceso de ruptura que yo cuando salí de la cárcel creo que es el momento en que dijimos hay que romper con esta gente..O sea, esto es un lastre..Lo único que hace es no acercarnos a la gente normal, que es a quien nos queremos acercar..Porque a mí me critican mucho y me dicen, no es que ya no os dedicáis a la lucha por los trabajadores, habéis traicionado..Y es que no sé, en mi barrio, yo vivo en Leganés, en San Nicasio, que es un barrio obrero de inmigrantes..Y yo cuando hablo con la gente, sean españoles o sean de fuera, sus problemas es que no tienen trabajo, que su trabajo es una basura,.que no llegan a final de mes, que su hija no puede salir a la calle a partir de las 9 de la noche porque le pasa algo, que no roben..Ellos tienen una serie de problemas que nosotros, o por lo menos yo, comparto, vivo en esa situación también y quiero solucionarla..Y todos estos grupos, aunque sean muy radicales de la izquierda, están más preocupados en opresiones inventadas, en modas que vienen de Estados Unidos..Y que no creo que sean beneficiosas para nadie, es algo para la gente que mueve el negocio..Entonces yo como que, ya desde muy joven, empecé a romper con eso..Nosotros dentro de lo que es la escena antifa en su día o en el rollo más comunista o más de extrema izquierda,.estábamos como muy mal vistos ya en esa época, porque no seguíamos estas cosas. No nos gustaba seguir modas..Nosotros podemos ser lo peor para mucha gente y se nos puede criticar por muchas cosas, pero desde luego con ser coherentes con lo que pensamos,.eso es imposible que nos critiquen, porque te puede gustar o no. Eso cada uno es una cuestión de cada uno..Pero nosotros no somos marxistas de Groucho Marx, de tengo unos principios y si no te gustan tengo otros. Es lo que hay..O sea, nosotros somos así y si gustamos bien y si no, pues bueno, es que somos así. No tenemos por qué engañar a nadie..O sea, yo reniego totalmente. La gente lo llama ideología woke, yo lo llamo postmodernismo ideológico, pero viene a ser lo mismo..Es decir, todo este tema del globalismo que se llama así también muchas veces, sí totalmente en contra..Yo me considero patriota. Yo no tengo nada que ver con eso..A mí cuando me dicen, no, es que eres de derecha porque eres patriota, no? Sí, pero defiendo la lucha de clases, no?.Entonces es como que la gente le explota la cabeza, pero es que seguir PACS es lo único que hace sin utilizar..Es decir, que puedes tener cosas acertadas, pero hay cosas que son erróneas y las defiendes única y exclusivamente porque es tu moda, no?.Es como tu tribu urbana y es que funcionan así. Sí, es un criterio..Sí, es un error. A mí me han criticado mucho por sentarme a hablar con gente que no es de mi ideología, supuestamente según ellos..Entonces yo he debatido con muchos liberales, he debatido incluso con gente de derechas de verdad, con conservadores, con gente woke también..Es como que el que si quiera sentar conmigo a debatir y ser una persona con la que se pueda hablar, no tengo ningún problema..Y eso me convierte ya prácticamente primero en un legitimador del fascismo y luego ya directamente en un fascista..Y es como, pues no sé, a lo mejor es que tenemos visiones diferentes de lo que es el fascista, de verdad.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.129885Z",
+    "updated_at": "2023-10-08T09:31:01.736707Z",
+    "inner_id": 23,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 25,
+    "annotations": [
+      {
+        "id": 14,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Se considera Roberto Vaquero comunista? ¿Cuándo lo menciona? Si, Roberto Vaquero se considera comunista. Lo menciona desde el instante 00:18:05 hasta 00:19:49: \"Porque yo si vengo de una tradición, yo si me considero comunista\".  ¿Todos del frente obrero son comunistas? No. Según Roberto Vaquero, considera que hay gente que si lo es (él mismo, por ejemplo), pero hay gente que no.  ¿Cual ha sido la transformación de la izquierda, según el entrevistado? Según el entrevistado, Roberto Vaquero, la izquierda ha sufrido un proceso de transformación: desde paralizar países, querer evolucionar al socialismo, hasta mantener el sistema actual. En resumen, Roberto Vaquero considera la izquierda actual como una gran estafa, siendo los más sistémicos."
+              ]
+            },
+            "id": "UnnWSLs8FQ",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:04.086480Z",
+        "updated_at": "2023-10-08T09:31:04.086503Z",
+        "draft_created_at": "2023-10-07T15:35:02.328072Z",
+        "lead_time": 690.8979999999999,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1de98c57-ebfa-4cc3-a66b-5871ceece597",
+        "import_id": null,
+        "last_action": null,
+        "task": 25,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 25,
+      "min_time": "00:18:05.400000",
+      "max_time": "00:19:49.400000",
+      "transcript": "Yo creo que es todo lo contrario, lo que está es degenerando la sociedad a ritmos acelerados..Gente que incluso está conoce sin martillos, se puede ver en la iconografía de muchos WoW y de organizaciones..Hablan del socialismo, de la revolución y claro, yo pienso....También quiero que se separe, que la gente que vea esto separe a lo que soy yo en sí del frente obrero..Porque yo si vengo de una tradición, yo si me considero comunista, pero la gente del frente obrero no..Hay gente que sí, pero muchísima gente que no..Yo tengo un frente amplio y hay un programa que para mí es de mínimos, que para otros es de máximos,.pero que todos estamos de acuerdo en que hay que, lo que decías del sentido común,.de que hay ciertas cosas que nos podemos poner mucha gente de acuerdo y queremos ser un movimiento transversal..Entonces yo no tengo ningún problema en contestar nada de comunismo ni de nada,.pero quiero que la gente me separe a mí un poco de dónde yo vengo, de lo que es el frente en sí,.porque si no les puedo perjudicar y no es mi intención..Lógico, lógico..Y sobre lo que decías, a mí esta gente me parece al revés, la contrarrevolución de purpurina..A mí me parecen los más sistémicos, porque cuando dices, no, es que para mí son los más racionarios..La gente dice, ¿cómo van a ser racionarios estas gente?.Y me parece que la terminología aquí es importante. Ellos lo que son, son sistémicos..La izquierda ha pasado de paralizar los países, de querer transformar, de querer llegar al socialismo,.de querer hacer cosas, a que de repente lo que hacen es mantener lo que hay..O sea, hacen pequeños cambios, lo que llaman ellos los pequeños avances..Pero avances para quién, avances de qué..Entonces yo lo que veo es que es como una gran estafa y son los más sistémicos,.porque ¿cómo van a defender la revolución en el sentido de transformación de la sociedad.si tienen el mismo discurso y el mismo pack ideológico que Amazon, por ejemplo, que Netflix?.O sea, ¿desde cuándo la izquierda radical subversiva puede tener la misma línea que las grandes corporaciones empresariales?.Es que se te rompe la cabeza cuando analizas eso..Y es lo que mucha gente no ve, porque la gente está muy engañada.",
+      "literal_transcript": "Desde el instante 00:18:05.400000 hasta 00:19:49.400000 Roberto Vaquero dice: \"Yo creo que es todo lo contrario, lo que está es degenerando la sociedad a ritmos acelerados..Gente que incluso está conoce sin martillos, se puede ver en la iconografía de muchos WoW y de organizaciones..Hablan del socialismo, de la revolución y claro, yo pienso....También quiero que se separe, que la gente que vea esto separe a lo que soy yo en sí del frente obrero..Porque yo si vengo de una tradición, yo si me considero comunista, pero la gente del frente obrero no..Hay gente que sí, pero muchísima gente que no..Yo tengo un frente amplio y hay un programa que para mí es de mínimos, que para otros es de máximos,.pero que todos estamos de acuerdo en que hay que, lo que decías del sentido común,.de que hay ciertas cosas que nos podemos poner mucha gente de acuerdo y queremos ser un movimiento transversal..Entonces yo no tengo ningún problema en contestar nada de comunismo ni de nada,.pero quiero que la gente me separe a mí un poco de dónde yo vengo, de lo que es el frente en sí,.porque si no les puedo perjudicar y no es mi intención..Lógico, lógico..Y sobre lo que decías, a mí esta gente me parece al revés, la contrarrevolución de purpurina..A mí me parecen los más sistémicos, porque cuando dices, no, es que para mí son los más racionarios..La gente dice, ¿cómo van a ser racionarios estas gente?.Y me parece que la terminología aquí es importante. Ellos lo que son, son sistémicos..La izquierda ha pasado de paralizar los países, de querer transformar, de querer llegar al socialismo,.de querer hacer cosas, a que de repente lo que hacen es mantener lo que hay..O sea, hacen pequeños cambios, lo que llaman ellos los pequeños avances..Pero avances para quién, avances de qué..Entonces yo lo que veo es que es como una gran estafa y son los más sistémicos,.porque ¿cómo van a defender la revolución en el sentido de transformación de la sociedad.si tienen el mismo discurso y el mismo pack ideológico que Amazon, por ejemplo, que Netflix?.O sea, ¿desde cuándo la izquierda radical subversiva puede tener la misma línea que las grandes corporaciones empresariales?.Es que se te rompe la cabeza cuando analizas eso..Y es lo que mucha gente no ve, porque la gente está muy engañada.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.130018Z",
+    "updated_at": "2023-10-08T09:31:04.108985Z",
+    "inner_id": 25,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 27,
+    "annotations": [
+      {
+        "id": 15,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Qué es la agenda 2030 para Roberto Vaquero? Para Roberto Vaquero, la agenda 2030 es un \"pack ideológico\" impuesto desde Estados Unidos y copiado tanto desde la izquierda como desde la derecha.  ¿Cuál es la opinión de Roberto Vaquero sobre la derecha actual en España? Para Roberto Vaquero, la derecha española copia el estilo americano, a diferencia de la antigua derecha radical de falangistas.  ¿Cree Roberto Vaquero que el feminismo o transgenerismo ha sido importado? Si, Roberto Vaquero parece sostener la opinión de que ciertos aspectos del feminismo y el transgenerismo han sido importados a España desde Estados Unidos y que estos movimientos están influyendo en la cultura y la política españolas. Vaquero menciona que la derecha española está copiando el estilo de la derecha estadounidense, que reacciona a ciertos cambios y tendencias en Estados Unidos."
+              ]
+            },
+            "id": "GlfgKYKH3u",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:07.210104Z",
+        "updated_at": "2023-10-08T09:31:07.210126Z",
+        "draft_created_at": "2023-10-07T15:43:35.004949Z",
+        "lead_time": 475.082,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "daf1b575-d5aa-41a3-b199-0ecdeb3b9491",
+        "import_id": null,
+        "last_action": null,
+        "task": 27,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 27,
+      "min_time": "00:20:39.550000",
+      "max_time": "00:22:35.930000",
+      "transcript": "Eso te iba a preguntar..Y creo que muchas veces las conspiraciones,.la historia de la conspiración lo que hacen es emborronar mucho y alejar mucho a la gente..Y creo que no sirve porque la gente dice,.no, es que la agenda 2030 es una teoría de la conspiración, tú pones en Google agenda 2030 web..Me das y te sale en la web, es decir, no está escondido..No es una conspiración, es una cosa que la gente no se molesta en leerlo, pero está ahí..Y todo este pack ideológico que nos están imponiendo es una cosa que está viniendo de Estados Unidos..Incluso la derecha de aquí está copiando a la derecha de allí,.que es la reacción a lo que está pasando allí..Todo el tema que hablan del trampismo, de gente que empieza a estar harta de cómo está evolucionando Estados Unidos..Y que están copiando ese tipo de derecha aquí..Es decir, la derecha que está resurgiendo aquí en España tiene mucho más que ver con ese estilo americano.que con la derecha radical tradicional española de farangistas haciendo escuadras y yendo por la calle..Eso no pasa en España..La derecha que hay aquí es muy copiada de la que está emergiendo, muy copiada de la de Estados Unidos..Yo creo que copiar todo el rato a Estados Unidos, que es lo que estamos haciendo durante décadas,.creo que no es muy positivo para nosotros..Bueno, en el mundo anglosajón, diría yo..Yo creo que esto viene del mundo anglosajón..Se ha importado a Europa y también se está importando a España..Y es una cuestión continua..Yo me acuerdo cuando yo empecé a militar esto del lenguaje inclusivo..Todo esto era una cosa que cuando llegó yo me reía y decía, qué patético, esto no se va a imponer aquí jamás..¿Quién en su sano juicio va a hacer esto?.Y al rato de....O sea, cuando pasó el tiempo, ahí me echaban de asamblea por no aceptarlo..Y luego leía que en Estados Unidos había pasado 30 años antes o 20 años antes..Y el tema del transgenerismo, eso antes aquí no existía ese movimiento..El feminismo que había aquí era diferente..Es que lo ha desplazado..Lo ha desplazado..Es una cosa que viene constantemente en oledas porque la cultura dominante aquí es la norteamericana..A nivel de tipo de serie, de película, de música, de....Todo viene allí..Y es una cosa que al final caerá en la gente..Las redes sociales....Es que todo viene allí.",
+      "literal_transcript": "Desde el instante 00:20:39.550000 hasta 00:22:35.930000 Roberto Vaquero dice: \"Eso te iba a preguntar..Y creo que muchas veces las conspiraciones,.la historia de la conspiración lo que hacen es emborronar mucho y alejar mucho a la gente..Y creo que no sirve porque la gente dice,.no, es que la agenda 2030 es una teoría de la conspiración, tú pones en Google agenda 2030 web..Me das y te sale en la web, es decir, no está escondido..No es una conspiración, es una cosa que la gente no se molesta en leerlo, pero está ahí..Y todo este pack ideológico que nos están imponiendo es una cosa que está viniendo de Estados Unidos..Incluso la derecha de aquí está copiando a la derecha de allí,.que es la reacción a lo que está pasando allí..Todo el tema que hablan del trampismo, de gente que empieza a estar harta de cómo está evolucionando Estados Unidos..Y que están copiando ese tipo de derecha aquí..Es decir, la derecha que está resurgiendo aquí en España tiene mucho más que ver con ese estilo americano.que con la derecha radical tradicional española de farangistas haciendo escuadras y yendo por la calle..Eso no pasa en España..La derecha que hay aquí es muy copiada de la que está emergiendo, muy copiada de la de Estados Unidos..Yo creo que copiar todo el rato a Estados Unidos, que es lo que estamos haciendo durante décadas,.creo que no es muy positivo para nosotros..Bueno, en el mundo anglosajón, diría yo..Yo creo que esto viene del mundo anglosajón..Se ha importado a Europa y también se está importando a España..Y es una cuestión continua..Yo me acuerdo cuando yo empecé a militar esto del lenguaje inclusivo..Todo esto era una cosa que cuando llegó yo me reía y decía, qué patético, esto no se va a imponer aquí jamás..¿Quién en su sano juicio va a hacer esto?.Y al rato de....O sea, cuando pasó el tiempo, ahí me echaban de asamblea por no aceptarlo..Y luego leía que en Estados Unidos había pasado 30 años antes o 20 años antes..Y el tema del transgenerismo, eso antes aquí no existía ese movimiento..El feminismo que había aquí era diferente..Es que lo ha desplazado..Lo ha desplazado..Es una cosa que viene constantemente en oledas porque la cultura dominante aquí es la norteamericana..A nivel de tipo de serie, de película, de música, de....Todo viene allí..Y es una cosa que al final caerá en la gente..Las redes sociales....Es que todo viene allí.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.130153Z",
+    "updated_at": "2023-10-08T09:31:07.228732Z",
+    "inner_id": 27,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 31,
+    "annotations": [
+      {
+        "id": 16,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Para quién está a servicio los gobiernos, según Roberto Vaquero? Según Roberto Vaquero, los gobiernos están al servicio de quienes los financian, lo que implica que las grandes empresas tienen una influencia significativa en la toma de decisiones gubernamentales. En su opinión, tanto la izquierda (mencionando al PSOE) como la derecha (mencionando al PP) en España defienden intereses similares y han adaptado sus discursos y posiciones políticas para ganar votos de manera amplia, en lugar de enfocarse en segmentos específicos de la población.  ¿A qué se refiere Roberto Vaquero cuando menciona que es un partido \"a trapalo todo\"? Cuando Roberto Vaquero menciona que un partido es \"a trapalo todo,\" se refiere a partidos políticos que adoptan estrategias amplias y flexibles para ganar votos, sin enfocarse en un segmento específico de la población o en una agenda política clara y definida, para atraer a un amplio espectro de votantes. Vaquero utiliza esta expresión para describir cómo cree que tanto el PSOE como el PP en España han abandonado agendas políticas específicas en favor de estrategias más amplias y adaptables, influenciadas por el estilo político de Estados Unidos."
+              ]
+            },
+            "id": "PGiSEHzHhA",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:11.930393Z",
+        "updated_at": "2023-10-08T09:31:11.930412Z",
+        "draft_created_at": "2023-10-07T15:47:27.732795Z",
+        "lead_time": 226.334,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "3c84d86f-e642-47a0-a262-be5b325eb8ae",
+        "import_id": null,
+        "last_action": null,
+        "task": 31,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 31,
+      "min_time": "00:23:03.410000",
+      "max_time": "00:24:04.410000",
+      "transcript": "Porque yo creo que los gobiernos están al servicio de quienes les financian..Entonces, ¿quiénes financian a los gobiernos?.Pues esas grandes empresas..¿De quién dependen a nivel de imagen y de otras cuestiones también?.Entonces, yo creo que tanto la izquierda....Bueno, la izquierda más estilo PSOE, más de los grandes partidos, como decía Margallo, centristas....Tanto el PSOE como el PP defienden cosas parecidas..De hecho, Margallo dice que la Agenda 2030 es el Evangelio..Y ten en cuenta que es el partido que vino de la dictadura, que era gente como muy conservadora..Y ahora, fíjate, qué posiciones están teniendo..Y eso es porque están adaptando discursos de partido a trapalo todo norteamericano..Es que incluso los partidos aquí no eran así..El Partido Socialista en España era un partido de base, un partido que venía del obrerismo, del sindicato..Se ha convertido en un partido a trapalo todo..Quiere coger votos de quien sea..No está enfocado a un segmento, a la población, y defiende sus intereses..Es como que está enfocado a lo que caiga bien..Y el PP es exactamente igual. Se han convertido en partidos a trapalo todo..Y eso también está importado. ¿Por qué?.Porque el Partido Republicano y el Partido de la República también son así..Copiamos mucho.",
+      "literal_transcript": "Desde el instante 00:23:03.410000 hasta 00:24:04.410000 Roberto Vaquero dice: \"Porque yo creo que los gobiernos están al servicio de quienes les financian..Entonces, ¿quiénes financian a los gobiernos?.Pues esas grandes empresas..¿De quién dependen a nivel de imagen y de otras cuestiones también?.Entonces, yo creo que tanto la izquierda....Bueno, la izquierda más estilo PSOE, más de los grandes partidos, como decía Margallo, centristas....Tanto el PSOE como el PP defienden cosas parecidas..De hecho, Margallo dice que la Agenda 2030 es el Evangelio..Y ten en cuenta que es el partido que vino de la dictadura, que era gente como muy conservadora..Y ahora, fíjate, qué posiciones están teniendo..Y eso es porque están adaptando discursos de partido a trapalo todo norteamericano..Es que incluso los partidos aquí no eran así..El Partido Socialista en España era un partido de base, un partido que venía del obrerismo, del sindicato..Se ha convertido en un partido a trapalo todo..Quiere coger votos de quien sea..No está enfocado a un segmento, a la población, y defiende sus intereses..Es como que está enfocado a lo que caiga bien..Y el PP es exactamente igual. Se han convertido en partidos a trapalo todo..Y eso también está importado. ¿Por qué?.Porque el Partido Republicano y el Partido de la República también son así..Copiamos mucho.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.130390Z",
+    "updated_at": "2023-10-08T09:31:11.952316Z",
+    "inner_id": 31,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 35,
+    "annotations": [
+      {
+        "id": 3,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cuál es la opinión de Roberto Vaquero sobre el mes del orgullo y la actitud de España hacia las orientaciones sexuales? Roberto Vaquero cuestiona la necesidad de un mes del orgullo y argumenta que, en general, a la mayoría de la gente en España no le importa la orientación sexual de los demás. Él considera que España es un país abierto y no homófobo ni racista, y critica la idea de que exista una gran polarización ideológica en la sociedad española, a pesar de lo que se muestra en la política y los medios.  ¿Cómo describe Roberto Vaquero la situación social en Francia y su relación con el modelo migratorio? Roberto Vaquero describe la situación en Francia como distópica y menciona que zonas enteras se han lumpenizado, con personas marginadas de la sociedad. También sostiene que el modelo migratorio incentiva esta situación y argumenta que las políticas migratorias han llevado a situaciones problemáticas en la sociedad."
+              ]
+            },
+            "id": "fgWSBLrBN6",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-07T18:33:00.719978Z",
+        "updated_at": "2023-10-07T18:33:00.720000Z",
+        "draft_created_at": null,
+        "lead_time": 9847.567,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "53755890-6d6f-4b1b-9ceb-a48ede67ae55",
+        "import_id": null,
+        "last_action": null,
+        "task": 35,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 35,
+      "min_time": "00:24:48.380000",
+      "max_time": "00:31:17.830000",
+      "transcript": "Pues yo creo que a nivel económico tienen mucho rédito..Ellos tienen un gran negocio montado..En el cual lo que ellos dicen es lo aceptable y ellos inducen a un tipo de consumo..Y lo que hacen es implementarlo. Y es dinero y dinero y dinero..De hecho ahora está empezando a haber una reacción,.incluso las empresas que se han dedicado a ser puro negocio en este sentido,.por ejemplo Disney, Netflix, etcétera, la gente empieza a estar harta..Hay una reacción, incluso bajan sus ventas..Ahora se va a abrir un periodo interesante, pero hasta ahora lo que ha habido es un negocio increíble..Porque incluso con el tema del transgenerismo, etcétera, hay un negocio increíble detrás..Ellos lo que hacen es sacar dinero, redito político y capacidad de mantener su control..Y encima con un manto como de progreso, de que vienen los fascistas de no sé quién a quejarse..Y yo lo he visto con los disturbios de Francia..algunos que están en alcaldías, diciendo que hay que apoyar los disturbios.y que es una cuestión de la revolución en Francia..Y había gente que mandó acentos para inmigrantes, iglesias, bibliotecas,.atacando a gente por su color de piel por la calle..Es como una distopía..Es decir, lo que ha pasado en Francia es que se han lumpenizado zonas enteras..Hay gente que vive en la marginalidad separada de la sociedad..Y el modelo migratorio lo que hace es incentivar que eso pase cada vez más..Y hay millones de personas que no se sienten de ese país y que además están como la moda de los suburbios.de que en cuanto pasa lo que sea, salen a la calle..Es decir, muere un chico en el accidente ese, porque el tío no le tiro la cabeza como dicen..Muere, vale, una pena, lo declara un delincuente, etcétera, da igual..No muere, yo no creo que tuviera que morir..Pero bueno, lo que hizo él tampoco está bien..Pero la cuestión es, muere este chico, arde Francia..se dedica a apuñalar bebés en un parque..Que es muy bien, Luis..Sí, pero ¿salió Francia a la calle?.No salió, no pasó nada..Es que yo creo que ahí es cuando tiene que arder Francia y decir que tiene que haber un cambio..Pero ahí no pasa nada..Muere un delincuente común y arde todo..No puede ser, no puede ser..O sea, es que la implantación de estas medidas a todos los niveles,.tanto migratorias como no migratorias, ha llevado a situaciones distópicas..El feminismo se ha pasado de....El movimiento feminista apostaba por separarse en parte de los hombres,.por realzar a la mujer, una serie de cuestiones que a mí tampoco me parecen bien..Porque yo creo en la igualdad, pero en la igualdad real,.en los cupos, la discriminación, etcétera..Pero la cosa es, se ha pasado de eso a que ahora quienes mandan,.y que ha desplazado a lo que se podría llamar las mujeres biológicas..Y no solo eso, sino que las llaman TERF, es decir, porque los nazis,.y las van a pegar a los sitios..El otro día, a CNT, que es un sindicato nada sospechoso de ser de derechas,.nada por el estilo, le hicieron una concentración e intentaron pegarles.por hacer un acto en contra del borrado de la mujer, que es lo que está pasando..Modelo migratorio, la cuestión de la mujer, la educación de los niños.y persexualizándolos y metiéndoles teorías horrorosas,.desde mi punto de vista, en la cabeza..Fomentar el individualismo, pero a un nivel que está destruyendo a las personas.cuando hay más problemas mentales que nunca,.cuando se supone que hay más medios y más profesionales que nunca..Se está fomentando la debilidad en nuestra sociedad..La gente es cada vez más débil..Hay gente que dice, es que claro, como el hombre blanco ahora es débil,.pues claro, pasan estas cosas porque no se está fomentando la debilidad en todo el mundo..Hay gente que se avergüenza de ser español, hay gente que se avergüenza de ser blanco,.hay gente que se avergüenza de ser otorosexual..Es que ya llega un momento en que es ridículo y ves cosas verdaderamente distópicas..El otro día en la fiesta del orgullo gay, voy a decir una cosa que a lo mejor no es una barbaridad,.hicieron una marcha nudista y salían tíos en pelotas bailando.y me fijé en el lateral y había niños pequeños..No es normal, no es normal..O sea, pueden hacer lo que quieran, pero ¿por qué tiene que haber unos niños ahí?.¿Por qué lo tienen que hacer en la calle?.¿Por qué tenemos un mes del orgullo?.Pues yo te digo, ¿por qué tenemos un mes del orgullo? Porque es un negocio redondo..Hicieron un día y dijeron, esto es un negocio, lo hacemos un mes..¿Les importa realmente las orientaciones sexuales de la gente?.No, porque en España, a la inmensa mayoría de la gente, le da igual la orientación sexual que tengas..Eso es una cosa tuya, de tu vida, y tú harás lo que tú quieras, nadie se mete ahí..Cuando se habla de España, no es que España es horrible, es un país homófobo, racista..Si eso pasase, no habría 8 millones de inmigrantes en España..Es irreal..Que si me dices, no, es que vamos a hablar de Hungría,.pues nos podemos sentar a hablar de Hungría, pero en España,.que es un país que abre las puertas a todo el mundo.y que es un país muy abierto en general,.no vivimos en los años 50 con Franco..Es decir, esto ha evolucionado..Es que hay gente que está todavía con Franco como si estuviera vivo.y están como en una especie de guerra civil entre izquierda y derecha de pax ideológicos.y es ridículo porque incluso en esa época, en los años 30,.tú lees, por ejemplo, la publicación clandestina a la falange.cuando estaban ilegalizados y salen los partes de cuando se mataban.y hablaban con respeto de la gente..Es decir, tú lees las memorias de algunos falangistas o textos.y las de los comunistas que estaban en las brigadas de choque,.es decir, para matarse con ellos que se mataban literalmente.antes de la guerra civil, o sea, durante la República,.y era gente que luego se respetaba..Y cuando han escrito 20 o 30 años después sobre ese momento,.se mataban literalmente por sus ideas y aún así se respetaban..Tú ves ahora, es que es como un gallinero, están ahí unos con otros,.cotorreando, luego salen en fotos riéndose y tomándose no sé qué..Es como que hay una enemistad y crean una enemistad en la población.como si se viviera en una guerra civil, pero no existe..No es que es una guerra entre los comunistas que son los socialcomunistas,.Pedro Sánchez y Podemos, que me da la risa,.y los fascistas que son todos los demás..Y es que ahí no hay ni fascistas ni comunistas, es como una estafa,.se están riéndose a la gente y yo cada vez que digo esto a la gente.le explota la cabeza y me da mal de todo, pero es la verdad..Y cuando veo fotos de Espinosa de Alón Montero con Pablo Iglesias.en el parlamento en su momento, riéndose y haciendo chistes,.digo, entonces ¿por qué luego cuando hablas tenéis esa polarización?.Si es que es irreal, es mentira, es como de cara a la galería..Y la gente está que se dejan de hablar, que se bloquean unos a otros,.que se hacen campañas a nivel social..Y luego los políticos que les representan,.Y tú ves como en las sesiones parlamentarias de la República, por ejemplo,.y era gente que literalmente se quería matar,.pero luego no les veías juntos el Tade, chocá, nos vamos de fiesta luego,.no pasaba. Entonces están riéndose a la gente..Y a mí es una cosa que me cabrea sobremanera.",
+      "literal_transcript": "Desde el instante 00:24:48.380000 hasta 00:31:17.830000 Roberto Vaquero dice: \"Pues yo creo que a nivel económico tienen mucho rédito..Ellos tienen un gran negocio montado..En el cual lo que ellos dicen es lo aceptable y ellos inducen a un tipo de consumo..Y lo que hacen es implementarlo. Y es dinero y dinero y dinero..De hecho ahora está empezando a haber una reacción,.incluso las empresas que se han dedicado a ser puro negocio en este sentido,.por ejemplo Disney, Netflix, etcétera, la gente empieza a estar harta..Hay una reacción, incluso bajan sus ventas..Ahora se va a abrir un periodo interesante, pero hasta ahora lo que ha habido es un negocio increíble..Porque incluso con el tema del transgenerismo, etcétera, hay un negocio increíble detrás..Ellos lo que hacen es sacar dinero, redito político y capacidad de mantener su control..Y encima con un manto como de progreso, de que vienen los fascistas de no sé quién a quejarse..Y yo lo he visto con los disturbios de Francia..algunos que están en alcaldías, diciendo que hay que apoyar los disturbios.y que es una cuestión de la revolución en Francia..Y había gente que mandó acentos para inmigrantes, iglesias, bibliotecas,.atacando a gente por su color de piel por la calle..Es como una distopía..Es decir, lo que ha pasado en Francia es que se han lumpenizado zonas enteras..Hay gente que vive en la marginalidad separada de la sociedad..Y el modelo migratorio lo que hace es incentivar que eso pase cada vez más..Y hay millones de personas que no se sienten de ese país y que además están como la moda de los suburbios.de que en cuanto pasa lo que sea, salen a la calle..Es decir, muere un chico en el accidente ese, porque el tío no le tiro la cabeza como dicen..Muere, vale, una pena, lo declara un delincuente, etcétera, da igual..No muere, yo no creo que tuviera que morir..Pero bueno, lo que hizo él tampoco está bien..Pero la cuestión es, muere este chico, arde Francia..se dedica a apuñalar bebés en un parque..Que es muy bien, Luis..Sí, pero ¿salió Francia a la calle?.No salió, no pasó nada..Es que yo creo que ahí es cuando tiene que arder Francia y decir que tiene que haber un cambio..Pero ahí no pasa nada..Muere un delincuente común y arde todo..No puede ser, no puede ser..O sea, es que la implantación de estas medidas a todos los niveles,.tanto migratorias como no migratorias, ha llevado a situaciones distópicas..El feminismo se ha pasado de....El movimiento feminista apostaba por separarse en parte de los hombres,.por realzar a la mujer, una serie de cuestiones que a mí tampoco me parecen bien..Porque yo creo en la igualdad, pero en la igualdad real,.en los cupos, la discriminación, etcétera..Pero la cosa es, se ha pasado de eso a que ahora quienes mandan,.y que ha desplazado a lo que se podría llamar las mujeres biológicas..Y no solo eso, sino que las llaman TERF, es decir, porque los nazis,.y las van a pegar a los sitios..El otro día, a CNT, que es un sindicato nada sospechoso de ser de derechas,.nada por el estilo, le hicieron una concentración e intentaron pegarles.por hacer un acto en contra del borrado de la mujer, que es lo que está pasando..Modelo migratorio, la cuestión de la mujer, la educación de los niños.y persexualizándolos y metiéndoles teorías horrorosas,.desde mi punto de vista, en la cabeza..Fomentar el individualismo, pero a un nivel que está destruyendo a las personas.cuando hay más problemas mentales que nunca,.cuando se supone que hay más medios y más profesionales que nunca..Se está fomentando la debilidad en nuestra sociedad..La gente es cada vez más débil..Hay gente que dice, es que claro, como el hombre blanco ahora es débil,.pues claro, pasan estas cosas porque no se está fomentando la debilidad en todo el mundo..Hay gente que se avergüenza de ser español, hay gente que se avergüenza de ser blanco,.hay gente que se avergüenza de ser otorosexual..Es que ya llega un momento en que es ridículo y ves cosas verdaderamente distópicas..El otro día en la fiesta del orgullo gay, voy a decir una cosa que a lo mejor no es una barbaridad,.hicieron una marcha nudista y salían tíos en pelotas bailando.y me fijé en el lateral y había niños pequeños..No es normal, no es normal..O sea, pueden hacer lo que quieran, pero ¿por qué tiene que haber unos niños ahí?.¿Por qué lo tienen que hacer en la calle?.¿Por qué tenemos un mes del orgullo?.Pues yo te digo, ¿por qué tenemos un mes del orgullo? Porque es un negocio redondo..Hicieron un día y dijeron, esto es un negocio, lo hacemos un mes..¿Les importa realmente las orientaciones sexuales de la gente?.No, porque en España, a la inmensa mayoría de la gente, le da igual la orientación sexual que tengas..Eso es una cosa tuya, de tu vida, y tú harás lo que tú quieras, nadie se mete ahí..Cuando se habla de España, no es que España es horrible, es un país homófobo, racista..Si eso pasase, no habría 8 millones de inmigrantes en España..Es irreal..Que si me dices, no, es que vamos a hablar de Hungría,.pues nos podemos sentar a hablar de Hungría, pero en España,.que es un país que abre las puertas a todo el mundo.y que es un país muy abierto en general,.no vivimos en los años 50 con Franco..Es decir, esto ha evolucionado..Es que hay gente que está todavía con Franco como si estuviera vivo.y están como en una especie de guerra civil entre izquierda y derecha de pax ideológicos.y es ridículo porque incluso en esa época, en los años 30,.tú lees, por ejemplo, la publicación clandestina a la falange.cuando estaban ilegalizados y salen los partes de cuando se mataban.y hablaban con respeto de la gente..Es decir, tú lees las memorias de algunos falangistas o textos.y las de los comunistas que estaban en las brigadas de choque,.es decir, para matarse con ellos que se mataban literalmente.antes de la guerra civil, o sea, durante la República,.y era gente que luego se respetaba..Y cuando han escrito 20 o 30 años después sobre ese momento,.se mataban literalmente por sus ideas y aún así se respetaban..Tú ves ahora, es que es como un gallinero, están ahí unos con otros,.cotorreando, luego salen en fotos riéndose y tomándose no sé qué..Es como que hay una enemistad y crean una enemistad en la población.como si se viviera en una guerra civil, pero no existe..No es que es una guerra entre los comunistas que son los socialcomunistas,.Pedro Sánchez y Podemos, que me da la risa,.y los fascistas que son todos los demás..Y es que ahí no hay ni fascistas ni comunistas, es como una estafa,.se están riéndose a la gente y yo cada vez que digo esto a la gente.le explota la cabeza y me da mal de todo, pero es la verdad..Y cuando veo fotos de Espinosa de Alón Montero con Pablo Iglesias.en el parlamento en su momento, riéndose y haciendo chistes,.digo, entonces ¿por qué luego cuando hablas tenéis esa polarización?.Si es que es irreal, es mentira, es como de cara a la galería..Y la gente está que se dejan de hablar, que se bloquean unos a otros,.que se hacen campañas a nivel social..Y luego los políticos que les representan,.Y tú ves como en las sesiones parlamentarias de la República, por ejemplo,.y era gente que literalmente se quería matar,.pero luego no les veías juntos el Tade, chocá, nos vamos de fiesta luego,.no pasaba. Entonces están riéndose a la gente..Y a mí es una cosa que me cabrea sobremanera.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.130670Z",
+    "updated_at": "2023-10-07T18:33:00.738338Z",
+    "inner_id": 35,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 39,
+    "annotations": [
+      {
+        "id": 17,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cuál es la opinión de Roberto Vaquero sobre la sostenibilidad del planeta? Roberto Vaquero, en el fragmento citado, expresa su escepticismo hacia el movimiento ecologista actual y la eficacia de las acciones individuales en la promoción de la sostenibilidad del planeta. Aunque defiende la idea de la sostenibilidad global, critica que las personalidades públicas involucradas parecen seguir un guión uniforme y considera que cambiar el comportamiento individual, como dejar de usar vasos de plástico, no resuelve los problemas ambientales de manera efectiva. Argumenta que la sostenibilidad real implica cambios en la producción y la adopción de alternativas a nivel global, y que las tendencias actuales en el ecologismo carecen de un enfoque adecuado para abordar los problemas ambientales en su totalidad."
+              ]
+            },
+            "id": "iT2nXIIzOF",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:24.521812Z",
+        "updated_at": "2023-10-08T09:31:24.521830Z",
+        "draft_created_at": "2023-10-07T18:42:18.241689Z",
+        "lead_time": 324.387,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "5570fab1-3335-4d0a-81e8-c22e5de4e9e4",
+        "import_id": null,
+        "last_action": null,
+        "task": 39,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 39,
+      "min_time": "00:33:38.370000",
+      "max_time": "00:35:08.860000",
+      "transcript": "Hay gente que sí..Por ejemplo, la gente marroquí de mi barrio sí lo puede decir,.pero tú no lo puedes decir..Y vives de eso, es que vives de eso..Hay gente que vive de ser de origen de ella,.pero hay que ver sus condiciones materiales de vida,.porque a lo mejor sus condiciones materiales de vida son mejores que las nuestras..Yo no tengo casa en propiedad, no he tenido esa oportunidad todavía..Es lo que dices tú, de que si no hay una bandera coge otra, le da igual..Y sigue un discurso que dicen todos el mismo, que es repulsivo..Yo lo veo, por ejemplo, esto me insultará mucho la gente luego,.con el tema de los portavoces del rollo ecologista..Yo defiendo la sostenibilidad del planeta, yo creo en la ecología,.pero no en el ecologismo este..O sea, esto es ridículo, es reírse a la gente..Es decir, porque una persona usa vasos de plástico o no, no va a solucionar ningún problema..El problema va a ser que se deje de producir y se dé una alternativa..Y lo que hacen es reírse a la gente..Las Greta Thunberg de turno están todas como prefabricadas..Se visten igual, hablan igual, hacen los mismos gestos..Yo con las de femenlo veo igual..Es decir, a mí vi una charla que dieron que era, tenéis que poner cara de enfadada, hacer así..O sea, es como un cursillo de lobotomizar, de hacer a todo el mundo igual..Entonces es que es una moda, es una moda y se ve clarísimo..No les importa la sostenibilidad, porque la sostenibilidad es global..Si España deja de producir una cosa y se produce, Coca-Cola aquí por ejemplo,.deja de producir una cosa y se produce el triple en China, la misma empresa,.no hay sostenibilidad ninguna..O sea, el problema se va a agravar..Y así es con todas estas modas ridículas.",
+      "literal_transcript": "Desde el instante 00:33:38.370000 hasta 00:35:08.860000 Roberto Vaquero dice: \"Hay gente que sí..Por ejemplo, la gente marroquí de mi barrio sí lo puede decir,.pero tú no lo puedes decir..Y vives de eso, es que vives de eso..Hay gente que vive de ser de origen de ella,.pero hay que ver sus condiciones materiales de vida,.porque a lo mejor sus condiciones materiales de vida son mejores que las nuestras..Yo no tengo casa en propiedad, no he tenido esa oportunidad todavía..Es lo que dices tú, de que si no hay una bandera coge otra, le da igual..Y sigue un discurso que dicen todos el mismo, que es repulsivo..Yo lo veo, por ejemplo, esto me insultará mucho la gente luego,.con el tema de los portavoces del rollo ecologista..Yo defiendo la sostenibilidad del planeta, yo creo en la ecología,.pero no en el ecologismo este..O sea, esto es ridículo, es reírse a la gente..Es decir, porque una persona usa vasos de plástico o no, no va a solucionar ningún problema..El problema va a ser que se deje de producir y se dé una alternativa..Y lo que hacen es reírse a la gente..Las Greta Thunberg de turno están todas como prefabricadas..Se visten igual, hablan igual, hacen los mismos gestos..Yo con las de femenlo veo igual..Es decir, a mí vi una charla que dieron que era, tenéis que poner cara de enfadada, hacer así..O sea, es como un cursillo de lobotomizar, de hacer a todo el mundo igual..Entonces es que es una moda, es una moda y se ve clarísimo..No les importa la sostenibilidad, porque la sostenibilidad es global..Si España deja de producir una cosa y se produce, Coca-Cola aquí por ejemplo,.deja de producir una cosa y se produce el triple en China, la misma empresa,.no hay sostenibilidad ninguna..O sea, el problema se va a agravar..Y así es con todas estas modas ridículas.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.130925Z",
+    "updated_at": "2023-10-08T09:31:24.541976Z",
+    "inner_id": 39,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 41,
+    "annotations": [
+      {
+        "id": 18,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cuáles son las épocas históricas favoritas de Roberto Vaquero? Roberto Vaquero menciona que sus épocas históricas favoritas son la contemporánea, que incluye la época de la república, y la época de los Tercios. Se identifica como historiador y parece tener un interés particular en estas dos épocas. Además, señala que le gusta asistir a charlas sobre los Tercios, dar conferencias y escribir sobre este período histórico."
+              ]
+            },
+            "id": "VqUFA3GCU3",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:27.037739Z",
+        "updated_at": "2023-10-08T09:31:27.037764Z",
+        "draft_created_at": "2023-10-07T18:44:44.089889Z",
+        "lead_time": 131.06,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ee7a427d-bcf9-485f-bedf-dc2675b51a54",
+        "import_id": null,
+        "last_action": null,
+        "task": 41,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 41,
+      "min_time": "00:35:56.490000",
+      "max_time": "00:36:44.680000",
+      "transcript": "O sea, absolutamente todo, hasta el nombre..O sea, más país se llama más país..¿Qué país es ese?.Les da vergüenza..Hacen un acto, Rajon hizo una vez un acto y le dijo a un tío para boicotearle.¡Viva España!.Y dijo ¡Viva!.Pero se tiró media hora justificando, me fue muy lamentable porque decía ¡Viva!.Yo en un meeting, me lo han hecho alguna vez, me dicen ¡Viva España!.Y digo ¡Viva!.Y sigo..Porque no me tengo por qué avergonzar, es que yo soy de aquí..O con la historia, o con las cosas, no sé, yo soy historiador..Y yo además, los periodos que más me gustan son el mío, que es de contemporánea,.que es de república, etcétera, ese periodo, y luego me gusta la época de los Tercios..Entonces yo voy a muchas charlas de los Tercios, doy conferencias sobre eso,.escribo sobre eso también, y la gente me llama fascista..Y es como, no existía el fascismo en esa época..O sea, en la época de los Tercios no existía el fascismo..No tiene ningún sentido.",
+      "literal_transcript": "Desde el instante 00:35:56.490000 hasta 00:36:44.680000 Roberto Vaquero dice: \"O sea, absolutamente todo, hasta el nombre..O sea, más país se llama más país..¿Qué país es ese?.Les da vergüenza..Hacen un acto, Rajon hizo una vez un acto y le dijo a un tío para boicotearle.¡Viva España!.Y dijo ¡Viva!.Pero se tiró media hora justificando, me fue muy lamentable porque decía ¡Viva!.Yo en un meeting, me lo han hecho alguna vez, me dicen ¡Viva España!.Y digo ¡Viva!.Y sigo..Porque no me tengo por qué avergonzar, es que yo soy de aquí..O con la historia, o con las cosas, no sé, yo soy historiador..Y yo además, los periodos que más me gustan son el mío, que es de contemporánea,.que es de república, etcétera, ese periodo, y luego me gusta la época de los Tercios..Entonces yo voy a muchas charlas de los Tercios, doy conferencias sobre eso,.escribo sobre eso también, y la gente me llama fascista..Y es como, no existía el fascismo en esa época..O sea, en la época de los Tercios no existía el fascismo..No tiene ningún sentido.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.131052Z",
+    "updated_at": "2023-10-08T09:31:27.060784Z",
+    "inner_id": 41,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 43,
+    "annotations": [
+      {
+        "id": 19,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cuál es la opinión de Roberto Vaquero sobre el uso de la bandera de España y la actitud de algunas personas hacia su propio país y sus tradiciones? Roberto Vaquero opina que se debería aceptar y respetar el uso de la bandera de España, independientemente de si es la rojigualda o la republicana, ya que ambas representan al país. Además, considera que no tiene sentido atacar tu propio país ni odiar su selección, historia, tradiciones y cultura, y sugiere que esta actitud podría estar influenciada por tendencias que vienen de Estados Unidos."
+              ]
+            },
+            "id": "0IBDa9BaQ3",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:31.563095Z",
+        "updated_at": "2023-10-08T09:31:31.563118Z",
+        "draft_created_at": "2023-10-07T18:51:18.092386Z",
+        "lead_time": 392.70500000000004,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "acf86b21-c20a-42a9-860c-359334058adf",
+        "import_id": null,
+        "last_action": null,
+        "task": 43,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 43,
+      "min_time": "00:36:49.910000",
+      "max_time": "00:37:25.910000",
+      "transcript": "se criminaliza todo..A nuestros actos nosotros usamos la republicana también, porque es una bandera de España..Pero por ejemplo, cuando la gente viene con la rojigualda normal, pues es que vengan..O sea, quiero decirte, me da igual, no es una ofensa, porque la gente se siente española,.se ha criado aquí, es la bandera con la que se ha criado, y ¿qué vas a hacer?.Pues ya está, no pasa nada..Lo aceptas y punto..Y eso es lo que debería hacer todo el mundo, porque no tiene sentido atacar tu propio país..Es como la gente juega a la selección, ¿no?.Y ves un montón de españoles en plan de, vamos, Francia..Y es como, ¿vas con Francia?.O sea, es que ya ha llegado un punto de que parece un meme..O sea, odian a su selección, odian a su país, odian su historia, odian sus tradiciones, odian su cultura..Y eso yo creo que viene mucho de Estados Unidos.",
+      "literal_transcript": "Desde el instante 00:36:49.910000 hasta 00:37:25.910000 Roberto Vaquero dice: \"se criminaliza todo..A nuestros actos nosotros usamos la republicana también, porque es una bandera de España..Pero por ejemplo, cuando la gente viene con la rojigualda normal, pues es que vengan..O sea, quiero decirte, me da igual, no es una ofensa, porque la gente se siente española,.se ha criado aquí, es la bandera con la que se ha criado, y ¿qué vas a hacer?.Pues ya está, no pasa nada..Lo aceptas y punto..Y eso es lo que debería hacer todo el mundo, porque no tiene sentido atacar tu propio país..Es como la gente juega a la selección, ¿no?.Y ves un montón de españoles en plan de, vamos, Francia..Y es como, ¿vas con Francia?.O sea, es que ya ha llegado un punto de que parece un meme..O sea, odian a su selección, odian a su país, odian su historia, odian sus tradiciones, odian su cultura..Y eso yo creo que viene mucho de Estados Unidos.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.131170Z",
+    "updated_at": "2023-10-08T09:31:31.585632Z",
+    "inner_id": 43,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 45,
+    "annotations": [
+      {
+        "id": 4,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cuáles son las cinco principales áreas en las que Roberto Vaquero y su grupo político se enfocarán? Roberto Vaquero y su grupo político se enfocarán en cinco áreas principales: el \"patriotismo revolucionario\", la defensa de los intereses de los trabajadores, la reforma del modelo migratorio, la lucha contra la partitocracia y el rechazo al globalismo. Consideran que estas son las cuestiones clave que deben abordarse de inmediato.  ¿Cuál es la opinión de Roberto Vaquero sobre los sindicatos? Roberto Vaquero critica a los sindicatos tradicionales en España por su falta de acción en la defensa de los intereses de los trabajadores, acusándolos de apoyar reformas laborales perjudiciales y centrarse en temas irrelevantes."
+              ]
+            },
+            "id": "8INbUyi1q3",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:30:28.082342Z",
+        "updated_at": "2023-10-08T09:30:28.082360Z",
+        "draft_created_at": "2023-10-07T19:01:06.570960Z",
+        "lead_time": 573.3789999999999,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d8ba3511-7477-4c83-af81-cc0cad5258b8",
+        "import_id": null,
+        "last_action": null,
+        "task": 45,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 45,
+      "min_time": "00:38:39.120000",
+      "max_time": "00:41:56.490000",
+      "transcript": "Y yo creo que es una cosa que une a mucha gente..Y sin embargo, mira, a mí me critican mucho, por ejemplo, por las formas, ¿no?.Yo soy un tío como muy....Bueno, por ejemplo, la gente feminista diría de masculinidad tóxica, de un tío grande,.que si tiene que decir las cosas, las dice, con gestos fuertes, grave..O sea, soy una persona que no encajo un poco en como ellos hacen política..La gente me dice, ¿no? Es que deberías de ser de otra manera..Y digo, es que yo no interpreto un papel..La gente me dice, no, pero político profesional, yo no quiero ser político profesional..Yo no interpreto un papel, yo sí así..Y claro, es que son como todos calcados..Tú los ves y todos están como cortados un poco por el mismo patrón, ¿no?.De típico portavoz, como asimilable, por la mayoría de la gente..Y a mí, a nosotros eso no nos gusta..Y yo cuando apelo, sobre todo con el frente, nosotros nos centramos en varias cosas..A mí cuando los metes me dicen, no, pero y tu medida concreta sobre no sé qué..Y es como, mira, la mayoría de los políticos hablan de medidas que jamás van a aplicar,.porque no tienen capacidad de gobernar, ni la van a tener, por lo menos a medio o largo plazo..Y lo que hacen es como reírse a la gente para conseguir votos..Nosotros nos vamos a enfocar en cinco cosas muy claras..Una es el patroteismo revolucionario..Que es precisamente llamar a la patria y fusionarlo con la lucha de los trabajadores..El segundo es defender esa lucha..No puede ser que los sindicatos lleven sin hacer una huelga y sin hacer nada cuando hay problemas.y apoyen reformas laborales, que hasta los liberales están de acuerdo con ella,.para que vean el carácter de clase que tiene..Esa reforma hay que se vayan a Francia, hacerse fotos porque van a subir la edad de jubilación.y hay que hacer huelgas..Y luego aquí en España la suben y no hacen nada..Hay sindicatos subvencionados, para mí estatales, y que no tienen absolutamente nada de lucha..Nosotros queremos reconstruir un sindicalismo que defienda los intereses de los trabajadores.y que no sea como los programas de los sindicatos que hablan de ecologismo, de feminismo, de deconstrucción,.de talleres de no sé qué, que es que nos dan igual..Esos no son problemas que afectan a los trabajadores..Esos sindicatos cada vez tienen menos afiliados..Otra cuestión es el tema de la inmigración y del modelo migratorio..Hay que cambiar el modelo migratorio de forma inmediata para no convertirnos en Francia..Y los otros dos son la lucha contra la partitocracia, lo que hemos dicho de izquierda y derecha,.que nosotros pensamos que el régimen en sí no tiene salvación posible, el de aquí,.porque cambia los problemas que tenemos y hace falta algo nuevo..Un proceso constituyente para hacer algo nuevo y que no estemos viviendo con la constitución.que aprobaron la generación de nuestros padres o más..Y luego, por último, una lucha enconada contra el guoquismo, contra el globalismo, como lo queréis llamar,.porque consideramos que hay que echarles de espacios que ellos mismos ya están empezando a abandonar.y que en países como en Francia o en Alemania, donde ganaba antes el Partido Comunista,.gana Le Pen o Alternativa por Alemania..Y eso es un síntoma de que han abandonado toda referencia o toda propuesta de resolución.de los problemas que afectan a los trabajadores..Y nosotros nos vamos a centrar en esas cinco cosas..Todo lo demás para nosotros es secundario..Eso es lo importante. No tenemos un programa en internet, tenemos un programa resumido también,.pero eso es en lo que nos vamos a centrar..Yo no digo, yo no hablo de medidas que sí, algún día haremos..No, no, yo hablo de lo que vamos a hacer ya..La semana que viene estamos haciendo esto ya..no sé si lo has visto..No..Bueno, pues soltamos una lona y salía denunciando lo que están haciendo Marrocos en España.y salen besándose Mohamed Sesto y Pedro Sánchez..Y claro, nos han amenazado de muerte, nos han llamado a hacer atentados, nos han denunciado,.han atacado la lona..Las amenazas.",
+      "literal_transcript": "Desde el instante 00:38:39.120000 hasta 00:41:56.490000 Roberto Vaquero dice: \"Y yo creo que es una cosa que une a mucha gente..Y sin embargo, mira, a mí me critican mucho, por ejemplo, por las formas, ¿no?.Yo soy un tío como muy....Bueno, por ejemplo, la gente feminista diría de masculinidad tóxica, de un tío grande,.que si tiene que decir las cosas, las dice, con gestos fuertes, grave..O sea, soy una persona que no encajo un poco en como ellos hacen política..La gente me dice, ¿no? Es que deberías de ser de otra manera..Y digo, es que yo no interpreto un papel..La gente me dice, no, pero político profesional, yo no quiero ser político profesional..Yo no interpreto un papel, yo sí así..Y claro, es que son como todos calcados..Tú los ves y todos están como cortados un poco por el mismo patrón, ¿no?.De típico portavoz, como asimilable, por la mayoría de la gente..Y a mí, a nosotros eso no nos gusta..Y yo cuando apelo, sobre todo con el frente, nosotros nos centramos en varias cosas..A mí cuando los metes me dicen, no, pero y tu medida concreta sobre no sé qué..Y es como, mira, la mayoría de los políticos hablan de medidas que jamás van a aplicar,.porque no tienen capacidad de gobernar, ni la van a tener, por lo menos a medio o largo plazo..Y lo que hacen es como reírse a la gente para conseguir votos..Nosotros nos vamos a enfocar en cinco cosas muy claras..Una es el patroteismo revolucionario..Que es precisamente llamar a la patria y fusionarlo con la lucha de los trabajadores..El segundo es defender esa lucha..No puede ser que los sindicatos lleven sin hacer una huelga y sin hacer nada cuando hay problemas.y apoyen reformas laborales, que hasta los liberales están de acuerdo con ella,.para que vean el carácter de clase que tiene..Esa reforma hay que se vayan a Francia, hacerse fotos porque van a subir la edad de jubilación.y hay que hacer huelgas..Y luego aquí en España la suben y no hacen nada..Hay sindicatos subvencionados, para mí estatales, y que no tienen absolutamente nada de lucha..Nosotros queremos reconstruir un sindicalismo que defienda los intereses de los trabajadores.y que no sea como los programas de los sindicatos que hablan de ecologismo, de feminismo, de deconstrucción,.de talleres de no sé qué, que es que nos dan igual..Esos no son problemas que afectan a los trabajadores..Esos sindicatos cada vez tienen menos afiliados..Otra cuestión es el tema de la inmigración y del modelo migratorio..Hay que cambiar el modelo migratorio de forma inmediata para no convertirnos en Francia..Y los otros dos son la lucha contra la partitocracia, lo que hemos dicho de izquierda y derecha,.que nosotros pensamos que el régimen en sí no tiene salvación posible, el de aquí,.porque cambia los problemas que tenemos y hace falta algo nuevo..Un proceso constituyente para hacer algo nuevo y que no estemos viviendo con la constitución.que aprobaron la generación de nuestros padres o más..Y luego, por último, una lucha enconada contra el guoquismo, contra el globalismo, como lo queréis llamar,.porque consideramos que hay que echarles de espacios que ellos mismos ya están empezando a abandonar.y que en países como en Francia o en Alemania, donde ganaba antes el Partido Comunista,.gana Le Pen o Alternativa por Alemania..Y eso es un síntoma de que han abandonado toda referencia o toda propuesta de resolución.de los problemas que afectan a los trabajadores..Y nosotros nos vamos a centrar en esas cinco cosas..Todo lo demás para nosotros es secundario..Eso es lo importante. No tenemos un programa en internet, tenemos un programa resumido también,.pero eso es en lo que nos vamos a centrar..Yo no digo, yo no hablo de medidas que sí, algún día haremos..No, no, yo hablo de lo que vamos a hacer ya..La semana que viene estamos haciendo esto ya..no sé si lo has visto..No..Bueno, pues soltamos una lona y salía denunciando lo que están haciendo Marrocos en España.y salen besándose Mohamed Sesto y Pedro Sánchez..Y claro, nos han amenazado de muerte, nos han llamado a hacer atentados, nos han denunciado,.han atacado la lona..Las amenazas.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.131316Z",
+    "updated_at": "2023-10-08T09:30:28.106369Z",
+    "inner_id": 45,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 49,
+    "annotations": [
+      {
+        "id": 20,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Vienen tiempos difíciles según Roberto Vaquero? Si. En su discurso, Roberto Vaquero anticipa la llegada de tiempos difíciles en España, relacionándolos con lo que ocurre en Francia y otros desafíos, y subraya la falta de preparación de la sociedad. Plantea dos opciones: disolverse o luchar por lo que son, optando por la segunda. Destaca la importancia de capacitar a las personas, fomentar la educación y valores como el honor y la palabra, así como ser competitivo para superarse a uno mismo. En resumen, Vaquero enfatiza la necesidad de prepararse para los desafíos futuros fortaleciendo a las personas y sus valores.  ¿Qué solución propone Roberto Vaquero para afrontar los tiempos difíciles que se nos vienen? Roberto Vaquero propone afrontar los tiempos difíciles venideros a través de la preparación y el endurecimiento personal, la formación y capacitación de las personas, el desarrollo de habilidades críticas, la promoción de valores como el honor y la palabra, y la búsqueda constante de la superación personal. También enfatiza la importancia de la competitividad en el sentido de querer mejorar y tener metas personales como medio para enfrentar los desafíos futuros tanto a nivel individual como colectivo.  ¿Cómo han cambiado las vidas de algunos jóvenes que se han acercado a la organización de Roberto Vaquero? Algunos jóvenes que han participado en la organización de Roberto Vaquero han transformado sus vidas, abandonando problemas como el alcoholismo y obteniendo educación y habilidades a lo largo de los años. Se han convertido en personas más preparadas y capaces de enfrentar desafíos."
+              ]
+            },
+            "id": "fCY0lfh-Zc",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:39.434329Z",
+        "updated_at": "2023-10-08T09:31:39.434352Z",
+        "draft_created_at": "2023-10-08T07:29:38.035973Z",
+        "lead_time": 44874.461,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "3b066438-0cbf-44b9-8381-823ce3835619",
+        "import_id": null,
+        "last_action": null,
+        "task": 49,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 49,
+      "min_time": "00:42:55.870000",
+      "max_time": "00:47:39.870000",
+      "transcript": "Y creo que va a estar muy relacionado con lo que está pasando en Francia..Y creo que la gente de aquí, de España, no está preparada ahora mismo a ningún nivel.para afrontar lo que va a pasar..De hecho, en los sitios es otro problema distinto, por ejemplo, el de las pandillas..Pero en El Salvador, Bukele, por ejemplo, él ha demostrado que si se declara la guerra realmente a ciertas cuestiones.se puede llegar a solucionar..Pero ha sido un país en guerra, o sea, para poder conseguirlo..Y que vienen tiempos así, vienen tiempos muy complicados..Y que va a haber dos opciones..Una, disolvernos y ser algo nuevo..O otra, agarrar el toro por los puños y pelear por lo que somos..Y nosotros nos estamos preparando para esa opción, porque yo creo que es lo que va a pasar..De hecho, en Francia creo que va a pasar antes que aquí..Y creo que....Claro, la gente dice, no, pero eso ya es el final..Yo creo que no, porque yo creo....He intentado buscar el origen de la frase, pero no la encuentro, la de....que mucha gente lo dice, ¿no?.De que los tiempos difíciles forjan hombres duros..Sí, el ciclo..Sí, sí, y yo creo que va a ser así..O sea, yo creo que vamos a una situación muy complicada..Que esta situación viene en todas cosas por la debilidad que se ha fomentado..Porque yo creo que esto en otras épocas no se hubiera permitido..O sea, yo hay ciertas cosas que creo que no se hubieran permitido..La gente hubiera salido a la calle y no se hubiera permitido..Y creo que de ahí saldrá gente que se endurecerá con lo que va a pasar..Y que afronte esto..Y nosotros estamos trabajando por ya crear gente así..Nosotros cuando los chavales se acercan a nosotros, por ejemplo,.tenemos una agarrición juvenil muy grande, es lo más fuerte que tenemos..Eso es síntoma de futuro..La gente cuando viene, fomentamos que la gente entrene, que la gente estudie..Que la gente termine..Claro, porque mucha gente viene a veces de determinados barrios o de problemáticas.que la gente no quiere estudiar ni quiere hacer nada..Y nosotros decimos a la gente que tiene que ser productiva..Y que tiene que conseguir capacitarse..Porque una persona, si tiene capacidades, puede aportar mucho a lo colectivo..Si una persona no sabe hacer nada, no puede aportar nada..Tú puedes ser mucha gente, pero en realidad no vale nada..Entonces tú primero tienes que construirte a ti y luego aportar a los demás..Porque si no es que eres como algo parasitario del grupo..Y creo que es una forma de ver la colectividad, sobre todo las organizaciones, errónea..Lo que hay que hacer es capacitar a la gente..Que la gente te haga capacidad crítica, que la gente sea inteligente, que la gente esté formada..Porque la mayoría de las organizaciones lo que hacen es tener gente lobotomizada,.que sabe mucho de los manuales que hacen de repetir cosas, pero no son críticos..Porque ellos no quieren que nadie sea crítico con lo que hacen..Pero nosotros es al revés. Y te puede salir gente mal, obviamente..Pero por cada uno que salga bien así, podrían salir 20 mal, si quieren..Que me daría igual, sería un éxito, que no es el caso..Pero sería un éxito. Porque queremos formar a gente con capacidad..Y yo, hay muchos chavales que han entrado en nuestras cosas..Ya han entrado de que venían de odogarse, de ser unos alcohólicos..Gente muy joven, ¿eh?.Y han terminado a lo largo de los años sacándose carreras, sacándose módulos,.entrenando, compitiendo en cosas de boxeo, de cosas así, en levantamiento de pesas..Nosotros fomentamos que la gente se desarrolle..Y que la gente tenga capacidades para poder aportar a lo colectivo..Porque si no, seríamos como muchas organizaciones que hay que tienen a gente muy débil, muy frágil,.que no está preparada para ninguna complicación..Tú ten en cuenta, yo voy a Barcelona, por ejemplo..Y viene una turba de gente a gritarme, a intentar pegarnos..Nos vamos a Sevilla o a donde sea. Viene gente con cascos, con palos a pegar..Eso pasa. Hay un puesto nuestro y nos vienen a reventar el puesto..Eso nos pasa constantemente..Entonces, ¿qué pasa? Que necesitamos gente que pueda afrontar eso..Ya no es sólo de afrontarlo físicamente, sino afrontarlo psicológicamente, de que es una presión..Entonces nosotros vamos con servicio de orden propio. Tenemos a la gente súper preparada..¿Por qué? Porque nos hemos forjado en la dificultad de que antes nos pasaban cosas.y ahora no permitimos que pasen..Y creo que es una mentalidad muy adecuada a la hora de crear una estructura organizativa.que pueda servir en el futuro para algo..Y creo que es una cuestión de valores..Y eso sobre todo..A mí la gente me dice, no, es que eres muy medieval, pero es que hay cosas como tener honor, tener palabra..Son cosas que dicen, no, pero eso no tiene nada que ver. Pues yo creo que sí..Porque una persona sin palabra, ¿qué nos diferencia de un animal? De verdad te lo digo..O sea, yo a la gente intento fomentar ese tipo de cosas..El compañerismo, o sea, determinadas cosas que en la sociedad están como muy devaluadas.y que yo creo que no tienen que ser así..Por ejemplo, en muchos grupos de izquierda se fomenta el no ser competitivo, ¿no?.Tú si no eres competitivo, o sea, competitivo en el sentido de que te afecte de convertirte en monstruo para ti mismo, no, pero....Tener hambre..En el sentido, sí, de querer superarte, de querer tener metas..Si no tienes eso, no vas a tirar para adelante..Es que a mí hay gente que me dice, no, porque es que tú tienes una mentalidad como muy emprendedora..Y es verdad..Pero porque una persona, independientemente de la sociedad, de las condiciones, tiene que intentar hacerse a sí mismo..Porque si no, en realidad, no vas a estar bien nunca..Porque no estás yendo hacia lo que tú quieres..Y eso es que es para la política y para todo.",
+      "literal_transcript": "Desde el instante 00:42:55.870000 hasta 00:47:39.870000 Roberto Vaquero dice: \"Y creo que va a estar muy relacionado con lo que está pasando en Francia..Y creo que la gente de aquí, de España, no está preparada ahora mismo a ningún nivel.para afrontar lo que va a pasar..De hecho, en los sitios es otro problema distinto, por ejemplo, el de las pandillas..Pero en El Salvador, Bukele, por ejemplo, él ha demostrado que si se declara la guerra realmente a ciertas cuestiones.se puede llegar a solucionar..Pero ha sido un país en guerra, o sea, para poder conseguirlo..Y que vienen tiempos así, vienen tiempos muy complicados..Y que va a haber dos opciones..Una, disolvernos y ser algo nuevo..O otra, agarrar el toro por los puños y pelear por lo que somos..Y nosotros nos estamos preparando para esa opción, porque yo creo que es lo que va a pasar..De hecho, en Francia creo que va a pasar antes que aquí..Y creo que....Claro, la gente dice, no, pero eso ya es el final..Yo creo que no, porque yo creo....He intentado buscar el origen de la frase, pero no la encuentro, la de....que mucha gente lo dice, ¿no?.De que los tiempos difíciles forjan hombres duros..Sí, el ciclo..Sí, sí, y yo creo que va a ser así..O sea, yo creo que vamos a una situación muy complicada..Que esta situación viene en todas cosas por la debilidad que se ha fomentado..Porque yo creo que esto en otras épocas no se hubiera permitido..O sea, yo hay ciertas cosas que creo que no se hubieran permitido..La gente hubiera salido a la calle y no se hubiera permitido..Y creo que de ahí saldrá gente que se endurecerá con lo que va a pasar..Y que afronte esto..Y nosotros estamos trabajando por ya crear gente así..Nosotros cuando los chavales se acercan a nosotros, por ejemplo,.tenemos una agarrición juvenil muy grande, es lo más fuerte que tenemos..Eso es síntoma de futuro..La gente cuando viene, fomentamos que la gente entrene, que la gente estudie..Que la gente termine..Claro, porque mucha gente viene a veces de determinados barrios o de problemáticas.que la gente no quiere estudiar ni quiere hacer nada..Y nosotros decimos a la gente que tiene que ser productiva..Y que tiene que conseguir capacitarse..Porque una persona, si tiene capacidades, puede aportar mucho a lo colectivo..Si una persona no sabe hacer nada, no puede aportar nada..Tú puedes ser mucha gente, pero en realidad no vale nada..Entonces tú primero tienes que construirte a ti y luego aportar a los demás..Porque si no es que eres como algo parasitario del grupo..Y creo que es una forma de ver la colectividad, sobre todo las organizaciones, errónea..Lo que hay que hacer es capacitar a la gente..Que la gente te haga capacidad crítica, que la gente sea inteligente, que la gente esté formada..Porque la mayoría de las organizaciones lo que hacen es tener gente lobotomizada,.que sabe mucho de los manuales que hacen de repetir cosas, pero no son críticos..Porque ellos no quieren que nadie sea crítico con lo que hacen..Pero nosotros es al revés. Y te puede salir gente mal, obviamente..Pero por cada uno que salga bien así, podrían salir 20 mal, si quieren..Que me daría igual, sería un éxito, que no es el caso..Pero sería un éxito. Porque queremos formar a gente con capacidad..Y yo, hay muchos chavales que han entrado en nuestras cosas..Ya han entrado de que venían de odogarse, de ser unos alcohólicos..Gente muy joven, ¿eh?.Y han terminado a lo largo de los años sacándose carreras, sacándose módulos,.entrenando, compitiendo en cosas de boxeo, de cosas así, en levantamiento de pesas..Nosotros fomentamos que la gente se desarrolle..Y que la gente tenga capacidades para poder aportar a lo colectivo..Porque si no, seríamos como muchas organizaciones que hay que tienen a gente muy débil, muy frágil,.que no está preparada para ninguna complicación..Tú ten en cuenta, yo voy a Barcelona, por ejemplo..Y viene una turba de gente a gritarme, a intentar pegarnos..Nos vamos a Sevilla o a donde sea. Viene gente con cascos, con palos a pegar..Eso pasa. Hay un puesto nuestro y nos vienen a reventar el puesto..Eso nos pasa constantemente..Entonces, ¿qué pasa? Que necesitamos gente que pueda afrontar eso..Ya no es sólo de afrontarlo físicamente, sino afrontarlo psicológicamente, de que es una presión..Entonces nosotros vamos con servicio de orden propio. Tenemos a la gente súper preparada..¿Por qué? Porque nos hemos forjado en la dificultad de que antes nos pasaban cosas.y ahora no permitimos que pasen..Y creo que es una mentalidad muy adecuada a la hora de crear una estructura organizativa.que pueda servir en el futuro para algo..Y creo que es una cuestión de valores..Y eso sobre todo..A mí la gente me dice, no, es que eres muy medieval, pero es que hay cosas como tener honor, tener palabra..Son cosas que dicen, no, pero eso no tiene nada que ver. Pues yo creo que sí..Porque una persona sin palabra, ¿qué nos diferencia de un animal? De verdad te lo digo..O sea, yo a la gente intento fomentar ese tipo de cosas..El compañerismo, o sea, determinadas cosas que en la sociedad están como muy devaluadas.y que yo creo que no tienen que ser así..Por ejemplo, en muchos grupos de izquierda se fomenta el no ser competitivo, ¿no?.Tú si no eres competitivo, o sea, competitivo en el sentido de que te afecte de convertirte en monstruo para ti mismo, no, pero....Tener hambre..En el sentido, sí, de querer superarte, de querer tener metas..Si no tienes eso, no vas a tirar para adelante..Es que a mí hay gente que me dice, no, porque es que tú tienes una mentalidad como muy emprendedora..Y es verdad..Pero porque una persona, independientemente de la sociedad, de las condiciones, tiene que intentar hacerse a sí mismo..Porque si no, en realidad, no vas a estar bien nunca..Porque no estás yendo hacia lo que tú quieres..Y eso es que es para la política y para todo.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.131584Z",
+    "updated_at": "2023-10-08T09:31:39.454394Z",
+    "inner_id": 49,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 51,
+    "annotations": [
+      {
+        "id": 21,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Qué significa el término \"cultura militante\"? El término \"cultura militante\" se refiere a un conjunto de valores y prácticas que enfatizan la negación de ciertos comportamientos perjudiciales, el sacrificio personal, la disciplina, el estudio y el entrenamiento como medios para fortalecer a una persona. En este contexto, se utiliza para describir una filosofía de vida que promueve la autosuperación, la reflexión y el crecimiento personal, en contraposición a comportamientos autodestructivos o adictivos. Esta cultura busca que las personas sean más saludables y capaces de contribuir positivamente a la sociedad, independientemente de su ideología política."
+              ]
+            },
+            "id": "25c_r_MKoP",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:42.126846Z",
+        "updated_at": "2023-10-08T09:31:42.126869Z",
+        "draft_created_at": "2023-10-08T07:34:53.677253Z",
+        "lead_time": 306.641,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "40687a7c-2b79-448c-96e8-166e2e651f4b",
+        "import_id": null,
+        "last_action": null,
+        "task": 51,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 51,
+      "min_time": "00:48:24.590000",
+      "max_time": "00:50:18.590000",
+      "transcript": "Cuando yo hablo de la cultura militante, a nivel de cultura de cómo debería ser cualquier persona desde mi punto de vista,.yo hablo de la negación, del sacrificio, de la disciplina, del estudio, del entrenamiento..O sea, son cosas que te fortalecen..Yo te pongo el ejemplo de lo de la cárcel..Yo, por ejemplo, salí siendo un hombre nuevo. ¿Por qué? Porque yo entrenaba todos los días, tres horas..Y el resto me dedicaba a leer y a hacer cosas, y a pensar y a reflexionar..Para armar, reflexionar, es decir, apartar todo, que sólo ahora también, dejo el móvil, dejo las cosas y me pongo a pensar..Me pongo a pensar en qué voy a hacer, qué quiero, me pongo a pensar..Eso la gente no lo hace, no se para a pensar..Están como con el TikTok, casi todo el día, un vídeo, vídeo, vídeo, vídeo..Y tú te apagas y dices ¿cuál es el primer vídeo que has visto? Ni lo sabe..Sólo está consumiendo y está adicto total..Está bien usar las redes, está bien usar las tecnologías, está bien usar todo, pero que sea un instrumento para tú crecer, ¿no?.No algo que te destruye, que tengas una dependencia enfermiza..Y eso pasa con el alcohol. Yo no bobo alcohol, por ejemplo..Y hay gente que me parece bien que si quiere beber que haga lo que quiera, pero yo, por ejemplo, no lo hago..Pero yo estoy en contra de que la gente sea adicta, de que la gente sea alcohólica, de que la gente tenga una dependencia y se destruya la vida..A nivel de juventud, sobre todo que lo óptico que hay ahora es tan así, nosotros fomentamos que la gente no haga esas cosas..Y la gente nos dice, no, es que yo soy de fascistas y yo... No es verdad..Es que las cosas que estoy hablando de honor, de orden personal, ¿no?.Porque, claro, la gente dice, no, es que vosotros con lo del orden y eso os habéis convertido,.pero es que una persona que no tiene orden en su vida y que funciona de forma anárquica y destructiva, no va a poder aportar a nadie..Porque si tú estás destruido por dentro, ¿cómo vas a aportar a nadie?.Ni a familia, ni a amigo, ni a novia, ni a hijos, ni a nada, no puedes aportar..Hay que hacer que la gente esté sana..Yo creo que la sociedad ahora mismo lo que fomenta no es eso, es todo lo contrario..Y esto no es de ideologías. O sea, esto es, para mí, de tener dos dedos de frente..O sea, a mí la gente luego me puede criticar por mi ideología, por lo que quiera..Pero esto que estoy diciendo, pues te puede gustar o no, pero es que es una cosa que mucha gente que no tiene mi ideología me dice,.pues esto que dices me gusta. Es que no tiene nada que ver con la ideología..Es como una forma de entender el desarrollo de persona.",
+      "literal_transcript": "Desde el instante 00:48:24.590000 hasta 00:50:18.590000 Roberto Vaquero dice: \"Cuando yo hablo de la cultura militante, a nivel de cultura de cómo debería ser cualquier persona desde mi punto de vista,.yo hablo de la negación, del sacrificio, de la disciplina, del estudio, del entrenamiento..O sea, son cosas que te fortalecen..Yo te pongo el ejemplo de lo de la cárcel..Yo, por ejemplo, salí siendo un hombre nuevo. ¿Por qué? Porque yo entrenaba todos los días, tres horas..Y el resto me dedicaba a leer y a hacer cosas, y a pensar y a reflexionar..Para armar, reflexionar, es decir, apartar todo, que sólo ahora también, dejo el móvil, dejo las cosas y me pongo a pensar..Me pongo a pensar en qué voy a hacer, qué quiero, me pongo a pensar..Eso la gente no lo hace, no se para a pensar..Están como con el TikTok, casi todo el día, un vídeo, vídeo, vídeo, vídeo..Y tú te apagas y dices ¿cuál es el primer vídeo que has visto? Ni lo sabe..Sólo está consumiendo y está adicto total..Está bien usar las redes, está bien usar las tecnologías, está bien usar todo, pero que sea un instrumento para tú crecer, ¿no?.No algo que te destruye, que tengas una dependencia enfermiza..Y eso pasa con el alcohol. Yo no bobo alcohol, por ejemplo..Y hay gente que me parece bien que si quiere beber que haga lo que quiera, pero yo, por ejemplo, no lo hago..Pero yo estoy en contra de que la gente sea adicta, de que la gente sea alcohólica, de que la gente tenga una dependencia y se destruya la vida..A nivel de juventud, sobre todo que lo óptico que hay ahora es tan así, nosotros fomentamos que la gente no haga esas cosas..Y la gente nos dice, no, es que yo soy de fascistas y yo... No es verdad..Es que las cosas que estoy hablando de honor, de orden personal, ¿no?.Porque, claro, la gente dice, no, es que vosotros con lo del orden y eso os habéis convertido,.pero es que una persona que no tiene orden en su vida y que funciona de forma anárquica y destructiva, no va a poder aportar a nadie..Porque si tú estás destruido por dentro, ¿cómo vas a aportar a nadie?.Ni a familia, ni a amigo, ni a novia, ni a hijos, ni a nada, no puedes aportar..Hay que hacer que la gente esté sana..Yo creo que la sociedad ahora mismo lo que fomenta no es eso, es todo lo contrario..Y esto no es de ideologías. O sea, esto es, para mí, de tener dos dedos de frente..O sea, a mí la gente luego me puede criticar por mi ideología, por lo que quiera..Pero esto que estoy diciendo, pues te puede gustar o no, pero es que es una cosa que mucha gente que no tiene mi ideología me dice,.pues esto que dices me gusta. Es que no tiene nada que ver con la ideología..Es como una forma de entender el desarrollo de persona.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.131720Z",
+    "updated_at": "2023-10-08T09:31:42.149074Z",
+    "inner_id": 51,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 56,
+    "annotations": [
+      {
+        "id": 22,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cómo interpreta el sentido \"emprendimiento\" para Roberto Vaquero? Para Roberto Vaquero, el emprendimiento va más allá de los negocios y abarca una actitud proactiva en la construcción de una vida colectiva y en la consecución de objetivos personales que afectan a su familia. Considera que ser emprendedor implica no conformarse con un trabajo, sino buscar constantemente oportunidades para progresar y mejorar la calidad de vida de su familia, entendiendo que la responsabilidad de tener hijos y criar una familia implica cuidar y construir una colectividad significativa en lugar de verlo como algo meramente individual."
+              ]
+            },
+            "id": "z1661CdK2n",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:46.667507Z",
+        "updated_at": "2023-10-08T09:31:46.667526Z",
+        "draft_created_at": "2023-10-08T07:38:19.973687Z",
+        "lead_time": 175.543,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "17dc0612-f6c2-4d89-b2e1-d25040d7fdbb",
+        "import_id": null,
+        "last_action": null,
+        "task": 56,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 55,
+      "min_time": "00:51:19.080000",
+      "max_time": "00:52:09.080000",
+      "transcript": "Por supuesto..Pero creo que para lo colectivo también hay que ser emprendedor en el sentido de construir..Es que hay mucha gente que le gusta conseguir un trabajo, por ejemplo, se queda ahí y ya está..Y creo que es una mentalidad que también les meten de que, joder,.tú tienes también que saber moverte y saber progresar para....Yo, por ejemplo, quiero tener hijos. Yo tengo novia y quiero tener hijos..Yo tengo que construir ahí algo para poder tenerlo..No me puedo dedicar a tener una dependencia y a esperar a ver si hay suerte y me va bien..No, no, yo tengo un objetivo personal, tendré que conseguirlo..Yo luego aparte hago otras cuestiones que en eso sí que diferimos..Pero en la construcción de mi familia, por ejemplo, yo tendré que mirar también por el bien de mi familia..Pero es que mi familia no es algo individual..Es que también hay mucha gente que piensa, no, es que eso es individual..Si es una familia, no es individual..Es una colectividad pequeña, pero no es algo individual..Y a mí hay gente que me tacha también de reaccionario por esto,",
+      "literal_transcript": "Desde el instante 00:51:19.080000 hasta 00:52:09.080000 Roberto Vaquero dice: \"Por supuesto..Pero creo que para lo colectivo también hay que ser emprendedor en el sentido de construir..Es que hay mucha gente que le gusta conseguir un trabajo, por ejemplo, se queda ahí y ya está..Y creo que es una mentalidad que también les meten de que, joder,.tú tienes también que saber moverte y saber progresar para....Yo, por ejemplo, quiero tener hijos. Yo tengo novia y quiero tener hijos..Yo tengo que construir ahí algo para poder tenerlo..No me puedo dedicar a tener una dependencia y a esperar a ver si hay suerte y me va bien..No, no, yo tengo un objetivo personal, tendré que conseguirlo..Yo luego aparte hago otras cuestiones que en eso sí que diferimos..Pero en la construcción de mi familia, por ejemplo, yo tendré que mirar también por el bien de mi familia..Pero es que mi familia no es algo individual..Es que también hay mucha gente que piensa, no, es que eso es individual..Si es una familia, no es individual..Es una colectividad pequeña, pero no es algo individual..Y a mí hay gente que me tacha también de reaccionario por esto,\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.132020Z",
+    "updated_at": "2023-10-08T09:31:46.686071Z",
+    "inner_id": 56,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 59,
+    "annotations": [
+      {
+        "id": 23,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Por qué Roberto Vaquero cree que la soberanía nacional es esencial? Roberto Vaquero cree que sin soberanía nacional, no se pueden tomar medidas en áreas como la inmigración, las fronteras, el desarrollo industrial o la tecnificación agrícola.  ¿Cuál es la opinión de Roberto Vaquero sobre los partidos políticos como Vox y Podemos? Roberto Vaquero critica a los partidos políticos Vox y Podemos por no abordar de manera efectiva los problemas fundamentales en la política española, considerándolos como \"partidos muleta\" de los grandes partidos. A pesar de sus enfoques opuestos, no proponen cambios profundos en la Constitución y están presentes en gobiernos autonómicos sin abogar por una reforma constitucional o un proceso participativo amplio. Además, señala que algunos miembros de estos partidos podrían estar de acuerdo con ciertas ideas, como medidas antitaurinas o políticas de inmigración más precisas, pero no lo expresan públicamente debido a presiones políticas."
+              ]
+            },
+            "id": "MVc-NHrhC2",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:50.352493Z",
+        "updated_at": "2023-10-08T09:31:50.352511Z",
+        "draft_created_at": "2023-10-08T08:44:06.251921Z",
+        "lead_time": 3938.02,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e7a77f45-9160-4356-949c-09c57ab2521a",
+        "import_id": null,
+        "last_action": null,
+        "task": 59,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 59,
+      "min_time": "00:55:09.840000",
+      "max_time": "00:58:22.050000",
+      "transcript": "yo creo que ahora lo que importa es la recuperación de la soberanía nacional..Porque cualquier medida que queramos tomar, por ejemplo,.con la inmigración, las fronteras, etc.,.sin soberanía nacional no podemos cambiarlo, ni desarrollar la industria,.ni volver a tecnificar el campo y que eso empiece a funcionar..O sea, yo creo que eso es lo principal..Y la gente dice, esa medida la diría cualquiera, no un revuelo….Pues, vale, felicidades, pero yo creo que es lo que se necesita..Y creo que luego hay un déficit, a la hora de….Incluso desde un punto de vista de democratismo, de democracia,.creo que hay un déficit, como son las cosas,.de que la gente no participa realmente en las cosas.y luego, además, las cosas importantes no se votan..La gente siempre está hablando de referéndum,.pero no se ha hecho un referéndum sobre el modelo migratorio,.no se ha hecho un referéndum para cargarse nuestra industria,.no se ha hecho un referéndum para que se dejen tierras sin producción en Andalucía.y lo compramos de Marruecos o las relaciones con Marruecos..Eso no se ha votado en ningún sitio..Entonces, yo creo que por eso tiene que haber un cambio constituyente.de que haya una nueva constitución que realmente solucione ciertos problemas..Por ejemplo, el tema de los independentistas..Aquí en España es que las leyes electorales favorecen que eso sea así..Yo entiendo cuando la hicieron. Es decir, cuando ellos la hicieron.y el Partido Comunista fuera anulado..¿Por qué? Porque podía ser un peligro en el año 75, 76, bueno, en 75 posteriormente..Vale, pero eso ya no es un peligro..Ahora, gente que saca menos votos que el PACMA.están decidiendo o pueden tener incluso la llave del gobierno..Eso no puede ser. No puede ser..Es que es una cosa que ya no da solución a los problemas que hay..Yo por eso muchas veces critico a Vox y a Podemos de que sí, vienen a cambiar no sé qué,.pero están en todos los gobiernos autonómicos que pueden..Bueno, ahora va a ser su mar..Y luego ellos no....Yo no veo que digan, no, es que hay que quitar la constitución.y hay que hacer un proceso en el que participe todo el mundo de algo nuevo..No les veo hacer eso..Al revés, Podemos sacó un documento que era como su programa con la Constitución..Vale, Vox con el tema de la monarquía y todo esto igual..De hecho, con la campaña contra Mohamed VI, como es monarquía con monarquía,.les hemos adelantado por todos los lados..Y creo que en ese sentido ahí se ve, ¿no?.Ahí se ve que, aunque los dos quieren hacer pequeños cambios,.los dos, o sea, los dos partidos, aunque sean en direcciones opuestas,.veo que en el fondo es como los partidos muleta de los grandes..Y esto lo hablo yo con mucho....Es que voy a decir una cosa que a lo mismo la gente se vuelve loca,.pero yo, por ejemplo, me hablo a gente que son diputados de Podemos.o que han sido diputados, porque les conozco de cuando yo era un chaval.y estábamos todos en la juventud comunista..Entonces sí, hay mucha gente que me odia, que lo que tú quieras,.pero a un tío que le conoces hace 25 años o 20,.porque te sigues hablando con él y ahí me hablan y me cuentan las cosas.y tengo... y con gente de Vox también, y yo se lo digo..Y la respuesta es ya, pero es que así por lo menos hacemos algo..o sea, a mí me gustaría lo de los PAC que dices tú..No, a mí me gustaría... yo conozco gente en Vox que es muy antitaurina..Yo conozco gente de Vox que con el tema de la inmigración.piensan que las medidas que decimos nosotros son mucho más precisas.y que tocamos el tema de una forma más general también..No lo van a decir nunca públicamente..A mí hay gente que ahora está en su mar,.pero gente que han sido diputados de aquí, de Madrid, de la comunidad..Y a mí hay con cosas que hacemos, por ejemplo, de lucha obrera,.de los sindicatos y de cosas que hacemos que me dicen,.joder, es que en esto tienen mucha razón..Pero jamás lo dirán, ¿por qué? Porque les quitan..Porque les quitan.",
+      "literal_transcript": "Desde el instante 00:55:09.840000 hasta 00:58:22.050000 Roberto Vaquero dice: \"yo creo que ahora lo que importa es la recuperación de la soberanía nacional..Porque cualquier medida que queramos tomar, por ejemplo,.con la inmigración, las fronteras, etc.,.sin soberanía nacional no podemos cambiarlo, ni desarrollar la industria,.ni volver a tecnificar el campo y que eso empiece a funcionar..O sea, yo creo que eso es lo principal..Y la gente dice, esa medida la diría cualquiera, no un revuelo….Pues, vale, felicidades, pero yo creo que es lo que se necesita..Y creo que luego hay un déficit, a la hora de….Incluso desde un punto de vista de democratismo, de democracia,.creo que hay un déficit, como son las cosas,.de que la gente no participa realmente en las cosas.y luego, además, las cosas importantes no se votan..La gente siempre está hablando de referéndum,.pero no se ha hecho un referéndum sobre el modelo migratorio,.no se ha hecho un referéndum para cargarse nuestra industria,.no se ha hecho un referéndum para que se dejen tierras sin producción en Andalucía.y lo compramos de Marruecos o las relaciones con Marruecos..Eso no se ha votado en ningún sitio..Entonces, yo creo que por eso tiene que haber un cambio constituyente.de que haya una nueva constitución que realmente solucione ciertos problemas..Por ejemplo, el tema de los independentistas..Aquí en España es que las leyes electorales favorecen que eso sea así..Yo entiendo cuando la hicieron. Es decir, cuando ellos la hicieron.y el Partido Comunista fuera anulado..¿Por qué? Porque podía ser un peligro en el año 75, 76, bueno, en 75 posteriormente..Vale, pero eso ya no es un peligro..Ahora, gente que saca menos votos que el PACMA.están decidiendo o pueden tener incluso la llave del gobierno..Eso no puede ser. No puede ser..Es que es una cosa que ya no da solución a los problemas que hay..Yo por eso muchas veces critico a Vox y a Podemos de que sí, vienen a cambiar no sé qué,.pero están en todos los gobiernos autonómicos que pueden..Bueno, ahora va a ser su mar..Y luego ellos no....Yo no veo que digan, no, es que hay que quitar la constitución.y hay que hacer un proceso en el que participe todo el mundo de algo nuevo..No les veo hacer eso..Al revés, Podemos sacó un documento que era como su programa con la Constitución..Vale, Vox con el tema de la monarquía y todo esto igual..De hecho, con la campaña contra Mohamed VI, como es monarquía con monarquía,.les hemos adelantado por todos los lados..Y creo que en ese sentido ahí se ve, ¿no?.Ahí se ve que, aunque los dos quieren hacer pequeños cambios,.los dos, o sea, los dos partidos, aunque sean en direcciones opuestas,.veo que en el fondo es como los partidos muleta de los grandes..Y esto lo hablo yo con mucho....Es que voy a decir una cosa que a lo mismo la gente se vuelve loca,.pero yo, por ejemplo, me hablo a gente que son diputados de Podemos.o que han sido diputados, porque les conozco de cuando yo era un chaval.y estábamos todos en la juventud comunista..Entonces sí, hay mucha gente que me odia, que lo que tú quieras,.pero a un tío que le conoces hace 25 años o 20,.porque te sigues hablando con él y ahí me hablan y me cuentan las cosas.y tengo... y con gente de Vox también, y yo se lo digo..Y la respuesta es ya, pero es que así por lo menos hacemos algo..o sea, a mí me gustaría lo de los PAC que dices tú..No, a mí me gustaría... yo conozco gente en Vox que es muy antitaurina..Yo conozco gente de Vox que con el tema de la inmigración.piensan que las medidas que decimos nosotros son mucho más precisas.y que tocamos el tema de una forma más general también..No lo van a decir nunca públicamente..A mí hay gente que ahora está en su mar,.pero gente que han sido diputados de aquí, de Madrid, de la comunidad..Y a mí hay con cosas que hacemos, por ejemplo, de lucha obrera,.de los sindicatos y de cosas que hacemos que me dicen,.joder, es que en esto tienen mucha razón..Pero jamás lo dirán, ¿por qué? Porque les quitan..Porque les quitan.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.137693Z",
+    "updated_at": "2023-10-08T09:31:50.376526Z",
+    "inner_id": 59,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 63,
+    "annotations": [
+      {
+        "id": 24,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cómo describe Roberto Vaquero las condiciones laborales en España y por qué algunas personas no están dispuestas a aceptar ciertos trabajos? Roberto Vaquero describe las condiciones laborales en España como precarias y menciona que algunas personas no están dispuestas a aceptar ciertos trabajos debido a las condiciones extremadamente desfavorables que solo serían aceptadas por aquellos que no tienen otras opciones. También menciona un ejemplo de un trabajador que encuentra que el costo de trasladarse al lugar de trabajo supera lo que gana, lo que ilustra la falta de incentivos para aceptar empleos precarios.  ¿Por qué según Roberto Vaquero, la población inmigrante en España tiende a ocupar puestos de trabajo como camareros y otros empleos similares? Según Roberto Vaquero, la población inmigrante tiende a ocupar puestos de trabajo como camareros y empleos similares en España debido a que son los que están dispuestos a aceptar estas condiciones laborales precarias. Afirma que a medida que algunos inmigrantes progresan, buscan otros tipos de empleo, y como resultado, se necesita una constante afluencia de nuevos inmigrantes para llenar estos puestos."
+              ]
+            },
+            "id": "GuBRiqnJxM",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:31:59.147538Z",
+        "updated_at": "2023-10-08T09:31:59.147559Z",
+        "draft_created_at": "2023-10-08T08:53:32.664931Z",
+        "lead_time": 114.411,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "5eb43b23-3534-419a-84a2-0156a8602535",
+        "import_id": null,
+        "last_action": null,
+        "task": 63,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 63,
+      "min_time": "00:59:10.920000",
+      "max_time": "01:01:34.190000",
+      "transcript": "creo que también demuestra que hay trabajos muy precarios,.que hay gente que no está dispuesto a cogerlos..¿Por qué?.Porque son unas condiciones que solo va a aceptar alguien que no tenga absolutamente nada..Hace poco había un caso de que salieron unas ofertas de trabajo en Andalucía.que decían que no tenían mano de obra..Y un chico de los que me escribió a mí me dijo,.oye, es que he pedido cuánto dinero ganas con esto.y yo me tengo que trasladar de la ciudad porque yo vivo en una casa..Dice, me cuesta más ir hasta allí que lo que me pagan..¿Por qué? Porque es una oferta de trabajo que está diseñada a parer del poblado chabuelista de al lado al sitio.y gente que no tiene nada..Entonces se depauperizan los puestos de trabajo..Ser camarero cuando yo era un niño era un oficio..Había gente que tenía 60 años, y se jubilaba siendo camarero y era un buen trabajo..¿Hoy en día quién trabaja de camarero?.Yo cuando me paseo por los sitios son gente inmigrante joven en su mayoría..¿Por qué? Porque son los que van a aceptar eso ahora..Esa gente en cuanto progresa va a coger otro tipo de puestos de trabajo..¿Qué pasa? Que necesitan más gente nueva..Entonces los van trayendo. Hay gente que va mejorando, obviamente,.porque se esfuerzan, porque hay gente que se esfuerce, hay gente que no..Pero es un continuo, es un continuo..Entonces no puede ser que el año pasado en el santo migratorio.vinieran más de medio millón de personas..¿Por qué? Porque si esto lo haces en 10, 15, 20 años,.¿qué es lo que nos queda al final?.Ya no hay España, es otra cosa..Entonces un país tiene una capacidad de asimilar a la gente.y en España está desbordada..O sea, en el mismo momento que hay paro en la población inmigrante.y empiezan a aglutinarse en ghettos separados de la sociedad,.pero en Alemania y en otros sitios incluso imponen leyes.como la ley islámica, incluso con policía islámica,.que es como cooficial,.en plan de que está permitida para los asuntos internos..Eso es una distopía..Eso pasa en Francia y en Alemania..Entonces eso es un problema..Eso es un problema muy grave. ¿Por qué?.Porque empezar una reacción alternativa por Alemania está a punto de ser.la primera fuerza en los sondeos..¿Por qué? Porque la gente está harta de esto..Y la izquierda dice, no pasa nada..El tema del sur, la frontera sur en realidad,.o sea hay mucha gente que hace mucha demagogia,.hay partidos que hacen mucha demagogia con esto,.pero el problema no está en el número de gente que se cuela.por el estrecho, porque son decenas de miles.en comparación del medio millón que te acabo de decir.que llegó el año pasado..El número es mucha menos gente. Incluso en la inmigración.ilegal masivamente vienen avión..Vienen avión, vienen aquí.y luego se regularizan con el tiempo..Eso también habría de controlar..El problema del sur es la seguridad, no sabes quién viene..Porque hay gente que no es que huya,.que es refugia político, sino que es a lo mejor un violador.y viene para acá, que rompe los papeles,.llega aquí, no soy nadie y luego aquí se dedica a hacer sus cosas.",
+      "literal_transcript": "Desde el instante 00:59:10.920000 hasta 01:01:34.190000 Roberto Vaquero dice: \"creo que también demuestra que hay trabajos muy precarios,.que hay gente que no está dispuesto a cogerlos..¿Por qué?.Porque son unas condiciones que solo va a aceptar alguien que no tenga absolutamente nada..Hace poco había un caso de que salieron unas ofertas de trabajo en Andalucía.que decían que no tenían mano de obra..Y un chico de los que me escribió a mí me dijo,.oye, es que he pedido cuánto dinero ganas con esto.y yo me tengo que trasladar de la ciudad porque yo vivo en una casa..Dice, me cuesta más ir hasta allí que lo que me pagan..¿Por qué? Porque es una oferta de trabajo que está diseñada a parer del poblado chabuelista de al lado al sitio.y gente que no tiene nada..Entonces se depauperizan los puestos de trabajo..Ser camarero cuando yo era un niño era un oficio..Había gente que tenía 60 años, y se jubilaba siendo camarero y era un buen trabajo..¿Hoy en día quién trabaja de camarero?.Yo cuando me paseo por los sitios son gente inmigrante joven en su mayoría..¿Por qué? Porque son los que van a aceptar eso ahora..Esa gente en cuanto progresa va a coger otro tipo de puestos de trabajo..¿Qué pasa? Que necesitan más gente nueva..Entonces los van trayendo. Hay gente que va mejorando, obviamente,.porque se esfuerzan, porque hay gente que se esfuerce, hay gente que no..Pero es un continuo, es un continuo..Entonces no puede ser que el año pasado en el santo migratorio.vinieran más de medio millón de personas..¿Por qué? Porque si esto lo haces en 10, 15, 20 años,.¿qué es lo que nos queda al final?.Ya no hay España, es otra cosa..Entonces un país tiene una capacidad de asimilar a la gente.y en España está desbordada..O sea, en el mismo momento que hay paro en la población inmigrante.y empiezan a aglutinarse en ghettos separados de la sociedad,.pero en Alemania y en otros sitios incluso imponen leyes.como la ley islámica, incluso con policía islámica,.que es como cooficial,.en plan de que está permitida para los asuntos internos..Eso es una distopía..Eso pasa en Francia y en Alemania..Entonces eso es un problema..Eso es un problema muy grave. ¿Por qué?.Porque empezar una reacción alternativa por Alemania está a punto de ser.la primera fuerza en los sondeos..¿Por qué? Porque la gente está harta de esto..Y la izquierda dice, no pasa nada..El tema del sur, la frontera sur en realidad,.o sea hay mucha gente que hace mucha demagogia,.hay partidos que hacen mucha demagogia con esto,.pero el problema no está en el número de gente que se cuela.por el estrecho, porque son decenas de miles.en comparación del medio millón que te acabo de decir.que llegó el año pasado..El número es mucha menos gente. Incluso en la inmigración.ilegal masivamente vienen avión..Vienen avión, vienen aquí.y luego se regularizan con el tiempo..Eso también habría de controlar..El problema del sur es la seguridad, no sabes quién viene..Porque hay gente que no es que huya,.que es refugia político, sino que es a lo mejor un violador.y viene para acá, que rompe los papeles,.llega aquí, no soy nadie y luego aquí se dedica a hacer sus cosas.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.137936Z",
+    "updated_at": "2023-10-08T09:31:59.169949Z",
+    "inner_id": 63,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 65,
+    "annotations": [
+      {
+        "id": 25,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cuál es la opinión de Roberto Vaquero sobre el control de fronteras y la inmigración ilegal? Roberto Vaquero sostiene que es crucial controlar las fronteras y aboga por un sistema similar al de Australia, donde se detiene a los inmigrantes ilegales en el mar y se los deporta. Él argumenta que un país sin control fronterizo está en desventaja y que se deben tomar medidas drásticas para evitar la inmigración ilegal.  ¿Cómo propone el entrevistado abordar la integración de inmigrantes y evitar la formación de guetos? El entrevistado, Roberto Vaquero, sugiere que se debe evitar la formación de guetos disgregando a la población inmigrante en diferentes áreas geográficas, limitando el porcentaje de inmigrantes en una ciudad y fomentando la integración. Además, menciona la posibilidad de que la policía intervenga si es necesario para evitar la concentración de inmigrantes en un solo lugar.  ¿Qué críticas plantea Roberto Vaquero hacia las políticas migratorias actuales y la falta de control en la inmigración? Roberto Vaquero critica las políticas migratorias actuales como \"suicidas\" y argumenta que durante casi 30 años se ha permitido una inmigración masiva sin un plan adecuado para su integración. Señala la necesidad de medidas drásticas para corregir esta situación y evitar la formación de guetos, sugiriendo un enfoque de decrecimiento temporal mientras se implementan políticas de natalidad y migración diferentes. También critica a la izquierda por su enfoque en el decrecimiento sin abordar las cuestiones migratorias de manera efectiva."
+              ]
+            },
+            "id": "duV029lN9I",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:32:02.917804Z",
+        "updated_at": "2023-10-08T09:32:02.917825Z",
+        "draft_created_at": "2023-10-08T08:58:10.052117Z",
+        "lead_time": 276.926,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c69c0e03-30a9-4a9a-a654-ded766a057df",
+        "import_id": null,
+        "last_action": null,
+        "task": 65,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 65,
+      "min_time": "01:01:37.870000",
+      "max_time": "01:05:41.200000",
+      "transcript": "gente que no sabemos quién viene,.porque no hay control..Y eso es un problema. La gente que viene en avión sí sabes quién es..Pero la gente que viene en esa patera habrá gente.que venga a trabajar y que es muy bien,.pero no me parece bien que vengan así..Yo creo que habría que deportarles,.porque todo el mundo puede venir aquí,.entonces no tiene ningún sentido el país..Un país que no controla sus fronteras está disuelto..Yo creo que hay que controlar la frontera,.que eso se puede hacer con policía y con dotación,.y hay que acabar con el efecto llamada..¿Cómo se hace eso?.Como en Australia. Australia lo que hizo fue.montar un puerto,.que es donde cogen al ejército,.cuando viene la gente con las mafias,.sacan al ejército al mar, tienen control,.como un bloqueo..O sea, chalupa o patera que llega la cogen,.bajan a los inmigrantes, los llevan al puerto seguro,.de allí los mandan directamente a su país,.es decir, el índice de éxito ahora de llegar allí es cero,.a los mafiosos los meten a la cárcel.y les hunden los barcos..¿Qué pasa? Que en los primeros años hubo muchas intervenciones,.pero una mafia es una empresa..Es como una empresa, no se cansan, es que no ganan dinero..Entonces, si no ganan dinero,.pues se ponen a hacer otra cosa..No hay muertos en el mar, y en el Mediterráneo no paran de morir..¿Qué es lo humano?.Acabar con la mafia y acabar con eso,.o el discurso este de las ONG es de.no, es que todo el mundo tiene cabida aquí.y que sigan muriendo en el mar..Yo creo que lo de Australia,.y es lo que propongo aquí. Bueno, es que hoy hay mucha más gente,.no solo yo, pero es que esto es una cosa que en cuanto lo dices eres nazi..Entonces hay que tener cuidado,.a mí es que ya me da igual, yo estoy curado de espanto..Yo lo que pienso lo digo, y si le gusta bien y si no,.pues que me linchen, me da lo mismo..Sobre los visados, hay que dejar de entregar tanto visado,.no puede ser que vengan.en ese balance.más de medio millón al año, no es normal..Y luego lo que hay que hacer es fomentar que los trabajos.tengan unas condiciones dignas.y hacer que la juventud que está en el paro.y los tres millones de parados que tenemos,.pues ir metiéndoles..Obviamente te voy a decir una cosa,.si llevamos desde el 97, 20 y tantos años.con unas políticas migratorias suicidas,.esto empezó con ANAR, por eso digo lo de la izquierda y la derecha.no vale para nada aquí..Y con natalidad,.exactamente igual, ¿qué es lo que pasa?.Que obviamente cuando tomemos medidas.para solucionarlo va a haber.un retraimiento a nivel.poblacional y a todos los niveles, es decir, eso va a pasar..Pero claro, es que para solucionarlo.tiene que ser así, también le decían a Bukele.no, pero es que si pasa esto se va a incrementar la violencia.y va y se incrementó, pero luego se acabó..Entonces, a mí lo que me importa es solucionar.el problema. Toda esta izquierda.dice, no, es que hay que.decrecer, ellos lo dicen, hay que decrecer.a todos los niveles. Bueno, pues si tanto les gusta.el decrecimiento, ¿por qué no podemos decrecer.durante unos años mientras.hacemos medidas de.natalidad, de política migratoria.distinta y de integración.de lo que hay ya aquí? Porque hay gente de aquí.que se tendrá que ir obviamente, y luego.habrá gente que habrá que fomentar que se puedan integrar.para un funcionamiento normal..que propongo, acabar con esa masividad.de crecer de forma ordenada.y luego posteriormente cuando esos planes.vayan funcionando, volver a crecer otra vez..O sea, yo no me refiero al Malthusianismo, pero es una cuestión.objetiva de si llevas casi 30 años con una.política suicida,.arreglarlo es complicado. No es.una cosa mágica. Es decir, si Bukele mañana.llega al poder y acaba con la inmigración ilegal,.no sé que lo consigan. Llegan, ganan las elecciones de aquí.unos años, acaban con la inmigración ilegal.y sigue viniendo medio millón de personas al año..se va a retroalimentar más..Entonces son cosas que hay que tener en.cuenta que va a haber que tomar medidas dodásticas..Y yo te digo que.lo más importante para mí.es evitar los guetos que ya hay..¿Cómo? Disgregando esos guetos..Y si tiene que entrar la policía.y hay que separar a la gente para como.pasan los países nórdicos que parece que todo el mundo.puede tomar medidas menos nosotros..Y lo que hacen es, por ejemplo,.30% de población inmigrante de máximo.en una ciudad, por ejemplo. Si hay más gente.se va a la ciudad al lado. No pueden estar.todos juntos. ¿Por qué? Porque.si no hay algo homogéneo a lo que integrarse.o asimilarse, ellos lo que hacen es.retroalimentarse y no se van a integrar jamás..En zonas donde, por ejemplo, en Francia.hay un 70% de gente de origen.inmigrante que no se ha integrado.a lo largo de los años, ¿cómo se van.a integrar en el 30% que queda, que.seguramente además tiene una media edad altísima..Es imposible.",
+      "literal_transcript": "Desde el instante 01:01:37.870000 hasta 01:05:41.200000 Roberto Vaquero dice: \"gente que no sabemos quién viene,.porque no hay control..Y eso es un problema. La gente que viene en avión sí sabes quién es..Pero la gente que viene en esa patera habrá gente.que venga a trabajar y que es muy bien,.pero no me parece bien que vengan así..Yo creo que habría que deportarles,.porque todo el mundo puede venir aquí,.entonces no tiene ningún sentido el país..Un país que no controla sus fronteras está disuelto..Yo creo que hay que controlar la frontera,.que eso se puede hacer con policía y con dotación,.y hay que acabar con el efecto llamada..¿Cómo se hace eso?.Como en Australia. Australia lo que hizo fue.montar un puerto,.que es donde cogen al ejército,.cuando viene la gente con las mafias,.sacan al ejército al mar, tienen control,.como un bloqueo..O sea, chalupa o patera que llega la cogen,.bajan a los inmigrantes, los llevan al puerto seguro,.de allí los mandan directamente a su país,.es decir, el índice de éxito ahora de llegar allí es cero,.a los mafiosos los meten a la cárcel.y les hunden los barcos..¿Qué pasa? Que en los primeros años hubo muchas intervenciones,.pero una mafia es una empresa..Es como una empresa, no se cansan, es que no ganan dinero..Entonces, si no ganan dinero,.pues se ponen a hacer otra cosa..No hay muertos en el mar, y en el Mediterráneo no paran de morir..¿Qué es lo humano?.Acabar con la mafia y acabar con eso,.o el discurso este de las ONG es de.no, es que todo el mundo tiene cabida aquí.y que sigan muriendo en el mar..Yo creo que lo de Australia,.y es lo que propongo aquí. Bueno, es que hoy hay mucha más gente,.no solo yo, pero es que esto es una cosa que en cuanto lo dices eres nazi..Entonces hay que tener cuidado,.a mí es que ya me da igual, yo estoy curado de espanto..Yo lo que pienso lo digo, y si le gusta bien y si no,.pues que me linchen, me da lo mismo..Sobre los visados, hay que dejar de entregar tanto visado,.no puede ser que vengan.en ese balance.más de medio millón al año, no es normal..Y luego lo que hay que hacer es fomentar que los trabajos.tengan unas condiciones dignas.y hacer que la juventud que está en el paro.y los tres millones de parados que tenemos,.pues ir metiéndoles..Obviamente te voy a decir una cosa,.si llevamos desde el 97, 20 y tantos años.con unas políticas migratorias suicidas,.esto empezó con ANAR, por eso digo lo de la izquierda y la derecha.no vale para nada aquí..Y con natalidad,.exactamente igual, ¿qué es lo que pasa?.Que obviamente cuando tomemos medidas.para solucionarlo va a haber.un retraimiento a nivel.poblacional y a todos los niveles, es decir, eso va a pasar..Pero claro, es que para solucionarlo.tiene que ser así, también le decían a Bukele.no, pero es que si pasa esto se va a incrementar la violencia.y va y se incrementó, pero luego se acabó..Entonces, a mí lo que me importa es solucionar.el problema. Toda esta izquierda.dice, no, es que hay que.decrecer, ellos lo dicen, hay que decrecer.a todos los niveles. Bueno, pues si tanto les gusta.el decrecimiento, ¿por qué no podemos decrecer.durante unos años mientras.hacemos medidas de.natalidad, de política migratoria.distinta y de integración.de lo que hay ya aquí? Porque hay gente de aquí.que se tendrá que ir obviamente, y luego.habrá gente que habrá que fomentar que se puedan integrar.para un funcionamiento normal..que propongo, acabar con esa masividad.de crecer de forma ordenada.y luego posteriormente cuando esos planes.vayan funcionando, volver a crecer otra vez..O sea, yo no me refiero al Malthusianismo, pero es una cuestión.objetiva de si llevas casi 30 años con una.política suicida,.arreglarlo es complicado. No es.una cosa mágica. Es decir, si Bukele mañana.llega al poder y acaba con la inmigración ilegal,.no sé que lo consigan. Llegan, ganan las elecciones de aquí.unos años, acaban con la inmigración ilegal.y sigue viniendo medio millón de personas al año..se va a retroalimentar más..Entonces son cosas que hay que tener en.cuenta que va a haber que tomar medidas dodásticas..Y yo te digo que.lo más importante para mí.es evitar los guetos que ya hay..¿Cómo? Disgregando esos guetos..Y si tiene que entrar la policía.y hay que separar a la gente para como.pasan los países nórdicos que parece que todo el mundo.puede tomar medidas menos nosotros..Y lo que hacen es, por ejemplo,.30% de población inmigrante de máximo.en una ciudad, por ejemplo. Si hay más gente.se va a la ciudad al lado. No pueden estar.todos juntos. ¿Por qué? Porque.si no hay algo homogéneo a lo que integrarse.o asimilarse, ellos lo que hacen es.retroalimentarse y no se van a integrar jamás..En zonas donde, por ejemplo, en Francia.hay un 70% de gente de origen.inmigrante que no se ha integrado.a lo largo de los años, ¿cómo se van.a integrar en el 30% que queda, que.seguramente además tiene una media edad altísima..Es imposible.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.138070Z",
+    "updated_at": "2023-10-08T09:32:02.938016Z",
+    "inner_id": 65,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 69,
+    "annotations": [
+      {
+        "id": 26,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cómo describe Roberto Vaquero la posición política y los objetivos de su partido? Roberto Vaquero describe a su partido como un partido en movimiento y en construcción, relativamente nuevo en la escena política, con alrededor de dos o tres años de existencia. Él menciona que, hasta el momento, no cuentan con medidas políticas concretas para abordar todos los aspectos mencionados, como la economía y el empleo. Además, destaca que su partido no se identifica mayoritariamente como comunista, sino como un grupo preocupado por el bienestar del país y con una perspectiva favorable a los trabajadores.  ¿Cuándo planea Roberto Vaquero desarrollar medidas políticas más específicas y detalladas? Roberto Vaquero indica que planea desarrollar medidas políticas más específicas y detalladas una vez que tengan representación en el Congreso, lo que espera lograr a mediados del año siguiente antes de las elecciones europeas. En ese momento, planean profundizar en la elaboración de políticas concretas. Sin embargo, enfatiza que actualmente son un partido en movimiento y en construcción, por lo que no tienen la capacidad de implementar cambios inmediatos en todos los aspectos mencionados en el fragmento."
+              ]
+            },
+            "id": "Y20AhRpULB",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:32:10.251251Z",
+        "updated_at": "2023-10-08T09:32:10.251268Z",
+        "draft_created_at": "2023-10-08T09:10:23.184961Z",
+        "lead_time": 633.196,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ee68bbfa-7b19-4d85-8fae-84af7b1b3c45",
+        "import_id": null,
+        "last_action": null,
+        "task": 69,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 69,
+      "min_time": "01:07:43.500000",
+      "max_time": "01:10:17.500000",
+      "transcript": "como te he dicho, nos vamos.porque nosotros no tenemos intención de gobernar.ni entrar en ningún gobierno. O sea, si sacáramos.un representante iremos a la guerra allí. Nosotros.tenemos el enfoque que te hemos dicho,.porque es lo que vamos.a hacer. O sea, realmente creo que hay.prioridades y en lo económico y tú puedes decir.mi visión de que yo creo que haría una depuración.de cómo es todo lo estatal.porque creo que es muy poco operativo..No en el sentido de que hay.que eliminar el Estado, por supuesto, yo.no pienso eso, pero sí creo que debería.de funcionar de otra manera. Incluso.a nivel de los autónomos, por ejemplo, el tema.de las cuotas, de que paguen.por trabajar, de que.de los tramos actuales, que algunos son muy.injustos y que hacen que la gente lo esté pasando.realmente mal. O sea, nosotros.haríamos muchas cuestiones para.optimizar lo que hay. Eso sería.lo primero. Lo segundo sería acabar.por el tema de la soberanía con las dependencias económicas.con otros países, que es otro problema.grave que tenemos, sobre todo con la Unión Europea,.que sí, llega dinero, aunque cada vez.llega menos y al final tendremos que pagar.mucho más nosotros que lo que recibimos..Pero yo creo que eso tampoco.es para un... Que no funciona, ya no es un desarrollo.óptimo. Obviamente a nivel laboral.nosotros vamos a siempre fomentar medidas.que sean, y hacer una reforma laboral,.que sí que sea a favor de los trabajadores.no como lo que hay ahora y.que no haga como hace Yolanda.de, es que cada vez menos paro que nunca y están los fijos.discontinuos que es como te mando medio año.al paro y es una cantidad gigantesca.de gente. O sea, en ese sentido lo tengo.claro, pero no.tenemos una... Como decirlo,.si tenemos el plan económico, está puesto en.Internet, en el programa político.que no es electoral, pero nosotros pensamos.que ahora mismo eso en concreto.no es una cosa que nosotros podamos.cambiar ni podamos desarrollar..Entonces nosotros cuando tengamos el Congreso.a mediados del año que viene,.antes de las Europeas,.sí haremos un desarrollo.más profundo en ese sentido, pero.ten en cuenta que nosotros somos como un partido en.movimientos, hemos partido por Imperativo Legal.en construcción. Nosotros el....antes éramos como Pro Comité,.Pro Frente Obrero, porque éramos.para crearlo y nosotros el Congreso lo tuvimos.hace un año y pico. O sea, en realidad.somos como muy nuevos. Llevamos dos años en total,.dos años y pico, tres, pero.realmente estamos empezando.a andar. Entonces es evidente.que no vamos a tener, lo que decía antes de las medidas,.medidas concretas para todo..Pero vamos, lo que sí puedo decir es que.la gente dice, no, es que van a implantar el comunismo.mañana. No, eso sí es real porque.incluso en el Frente Obrero la mayoría de la gente.no es... Pero la mayoría.aplastante de la gente.no es ni comunista ni nada..O sea, son gente que se preocupa.por su país, que obviamente tiene una perspectiva.a favor de los trabajadores.",
+      "literal_transcript": "Desde el instante 01:07:43.500000 hasta 01:10:17.500000 Roberto Vaquero dice: \"como te he dicho, nos vamos.porque nosotros no tenemos intención de gobernar.ni entrar en ningún gobierno. O sea, si sacáramos.un representante iremos a la guerra allí. Nosotros.tenemos el enfoque que te hemos dicho,.porque es lo que vamos.a hacer. O sea, realmente creo que hay.prioridades y en lo económico y tú puedes decir.mi visión de que yo creo que haría una depuración.de cómo es todo lo estatal.porque creo que es muy poco operativo..No en el sentido de que hay.que eliminar el Estado, por supuesto, yo.no pienso eso, pero sí creo que debería.de funcionar de otra manera. Incluso.a nivel de los autónomos, por ejemplo, el tema.de las cuotas, de que paguen.por trabajar, de que.de los tramos actuales, que algunos son muy.injustos y que hacen que la gente lo esté pasando.realmente mal. O sea, nosotros.haríamos muchas cuestiones para.optimizar lo que hay. Eso sería.lo primero. Lo segundo sería acabar.por el tema de la soberanía con las dependencias económicas.con otros países, que es otro problema.grave que tenemos, sobre todo con la Unión Europea,.que sí, llega dinero, aunque cada vez.llega menos y al final tendremos que pagar.mucho más nosotros que lo que recibimos..Pero yo creo que eso tampoco.es para un... Que no funciona, ya no es un desarrollo.óptimo. Obviamente a nivel laboral.nosotros vamos a siempre fomentar medidas.que sean, y hacer una reforma laboral,.que sí que sea a favor de los trabajadores.no como lo que hay ahora y.que no haga como hace Yolanda.de, es que cada vez menos paro que nunca y están los fijos.discontinuos que es como te mando medio año.al paro y es una cantidad gigantesca.de gente. O sea, en ese sentido lo tengo.claro, pero no.tenemos una... Como decirlo,.si tenemos el plan económico, está puesto en.Internet, en el programa político.que no es electoral, pero nosotros pensamos.que ahora mismo eso en concreto.no es una cosa que nosotros podamos.cambiar ni podamos desarrollar..Entonces nosotros cuando tengamos el Congreso.a mediados del año que viene,.antes de las Europeas,.sí haremos un desarrollo.más profundo en ese sentido, pero.ten en cuenta que nosotros somos como un partido en.movimientos, hemos partido por Imperativo Legal.en construcción. Nosotros el....antes éramos como Pro Comité,.Pro Frente Obrero, porque éramos.para crearlo y nosotros el Congreso lo tuvimos.hace un año y pico. O sea, en realidad.somos como muy nuevos. Llevamos dos años en total,.dos años y pico, tres, pero.realmente estamos empezando.a andar. Entonces es evidente.que no vamos a tener, lo que decía antes de las medidas,.medidas concretas para todo..Pero vamos, lo que sí puedo decir es que.la gente dice, no, es que van a implantar el comunismo.mañana. No, eso sí es real porque.incluso en el Frente Obrero la mayoría de la gente.no es... Pero la mayoría.aplastante de la gente.no es ni comunista ni nada..O sea, son gente que se preocupa.por su país, que obviamente tiene una perspectiva.a favor de los trabajadores.\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.138319Z",
+    "updated_at": "2023-10-08T09:32:10.273668Z",
+    "inner_id": 69,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 79,
+    "annotations": [
+      {
+        "id": 27,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Ve factible Roberto Vaquero una revolución comunista en España? Roberto Vaquero muestra escepticismo sobre la viabilidad de una revolución comunista en la España actual, argumentando que las condiciones materiales no lo respaldan y que es más efectivo centrarse en construir cambios gradualmente en lugar de buscar una revolución abrupta. Además, critica la tendencia de algunos comunistas a copiar el pasado y mezclarlo con conceptos contemporáneos \"woke\", considerando esto una parodia, y enfatiza la importancia de ser coherente con la realidad presente y las capacidades actuales en lugar de aferrarse a consignas y enfoques del pasado."
+              ]
+            },
+            "id": "KWiSF40CHL",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:32:18.346158Z",
+        "updated_at": "2023-10-08T09:32:18.346175Z",
+        "draft_created_at": "2023-10-08T09:14:35.773662Z",
+        "lead_time": 118.779,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4cf826c8-02e9-47fb-8df0-1a96bb18873c",
+        "import_id": null,
+        "last_action": null,
+        "task": 79,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 79,
+      "min_time": "01:14:16.720000",
+      "max_time": "01:17:07.130000",
+      "transcript": "de....Es que las condiciones materiales son importantes..Hay mucha gente que habla de no, la Revolución,.y es que la Revolución de qué?.En tu casa imaginaria..Es irreal. Y con rayos que.nos pidieron a los dos hacer ese debate..Es una cuestión como más ideológica y más.intelectual en el sentido de.cuál sería.nuestro modelo ideal de cuestiones..Pero yo te digo,.es que yo estoy centrado en lo que he dicho..Con el Frente no estoy llamando a la Revolución.socialista porque es que es estúpido..Es como llamar a algo.en la fase actual, con las condiciones actuales.imaginario. Por eso me dedica a construir.algo que para mí es de mínimos,.pero que considero que si lo consiguieramos sería.algo muy revolucionario..Y entonces yo estoy centrado en eso..Y la gente a veces me señala y me dice.no, es que eres un traidor..Ya, pero es que estar hablando de los baños no binarios.eso no es la Revolución tampoco. Y es que.eso es a lo que se dedica esa gente. Entonces yo.es como que todo lo friki como que.me he separado de ello..El rollo friki rojo.que para mí parece, perdón que lo voy a decir,.como un poco de pajillero. Es una cosa que no.le veo el sentido y yo soy una persona que.mi tesis va sobre la República de la Guerra Civil..Es decir, que yo sí estudio y leo.sobre eso, pero precisamente como.estudio sobre eso me parece una falta de respeto.hacer lo que hace otra gente de verdad. Yo creo que.soy coherente con la.realidad que hay y con lo que puedo hacer.con la realidad que hay. Y creo que.mira, voy a poner un ejemplo histórico si me.cuando se habla de los bolcheviques.etc..Una de las consignas con las que se hicieron.grandes era paz, pan.joder, no es una consigna que digas.pero claro es que las condiciones.materiales que tenían y que eran mucho.mejores que las de ahora en el sentido.de la politización de la gente, de capacidad de.movilización era esa..Incluso esa gente supo adaptarse en su momento..Y es lo que hace la mayoría de la gente.comunista ahora lo que hace es.como copiar la época ascendente de la.revolución de esa época que ya ha pasado.ese ciclo todo eso ya ha pasado y lo intentan.como copiar, traerlo ahora.y luego mezclarlo con lo woke..Y sale un engendro mutante para mí.que claro es que es.una parodia entonces no te acercas.a nadie. A mí hay un montón de gente muy mayor.de aspectos muy diferentes.pero te hablo ahora de gente que era.como comunista pero la comunista de claro tiene.80 años ahora. Quiero decirte gente que ha vivido.y me dicen joder lo que estés haciendo es.esto es lo que hay que hacer ahora porque.y me dicen esas cosas y cuando.me viene un moderno de 20 años que.no ha hecho nada en su vida me dice.no, no, si es unos traidores porque no sé qué es como.retírate o sea respétate un poco.y déjanos hacer porque.lo importante es hacer cosas.y hacer esas cosas en provecho de lo que.crees y creo que estar autorizando.sobre cosas imaginarias ahora mismo.es",
+      "literal_transcript": "Desde el instante 01:14:16.720000 hasta 01:17:07.130000 Roberto Vaquero dice: \"de....Es que las condiciones materiales son importantes..Hay mucha gente que habla de no, la Revolución,.y es que la Revolución de qué?.En tu casa imaginaria..Es irreal. Y con rayos que.nos pidieron a los dos hacer ese debate..Es una cuestión como más ideológica y más.intelectual en el sentido de.cuál sería.nuestro modelo ideal de cuestiones..Pero yo te digo,.es que yo estoy centrado en lo que he dicho..Con el Frente no estoy llamando a la Revolución.socialista porque es que es estúpido..Es como llamar a algo.en la fase actual, con las condiciones actuales.imaginario. Por eso me dedica a construir.algo que para mí es de mínimos,.pero que considero que si lo consiguieramos sería.algo muy revolucionario..Y entonces yo estoy centrado en eso..Y la gente a veces me señala y me dice.no, es que eres un traidor..Ya, pero es que estar hablando de los baños no binarios.eso no es la Revolución tampoco. Y es que.eso es a lo que se dedica esa gente. Entonces yo.es como que todo lo friki como que.me he separado de ello..El rollo friki rojo.que para mí parece, perdón que lo voy a decir,.como un poco de pajillero. Es una cosa que no.le veo el sentido y yo soy una persona que.mi tesis va sobre la República de la Guerra Civil..Es decir, que yo sí estudio y leo.sobre eso, pero precisamente como.estudio sobre eso me parece una falta de respeto.hacer lo que hace otra gente de verdad. Yo creo que.soy coherente con la.realidad que hay y con lo que puedo hacer.con la realidad que hay. Y creo que.mira, voy a poner un ejemplo histórico si me.cuando se habla de los bolcheviques.etc..Una de las consignas con las que se hicieron.grandes era paz, pan.joder, no es una consigna que digas.pero claro es que las condiciones.materiales que tenían y que eran mucho.mejores que las de ahora en el sentido.de la politización de la gente, de capacidad de.movilización era esa..Incluso esa gente supo adaptarse en su momento..Y es lo que hace la mayoría de la gente.comunista ahora lo que hace es.como copiar la época ascendente de la.revolución de esa época que ya ha pasado.ese ciclo todo eso ya ha pasado y lo intentan.como copiar, traerlo ahora.y luego mezclarlo con lo woke..Y sale un engendro mutante para mí.que claro es que es.una parodia entonces no te acercas.a nadie. A mí hay un montón de gente muy mayor.de aspectos muy diferentes.pero te hablo ahora de gente que era.como comunista pero la comunista de claro tiene.80 años ahora. Quiero decirte gente que ha vivido.y me dicen joder lo que estés haciendo es.esto es lo que hay que hacer ahora porque.y me dicen esas cosas y cuando.me viene un moderno de 20 años que.no ha hecho nada en su vida me dice.no, no, si es unos traidores porque no sé qué es como.retírate o sea respétate un poco.y déjanos hacer porque.lo importante es hacer cosas.y hacer esas cosas en provecho de lo que.crees y creo que estar autorizando.sobre cosas imaginarias ahora mismo.es\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.138886Z",
+    "updated_at": "2023-10-08T09:32:18.365272Z",
+    "inner_id": 79,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 81,
+    "annotations": [
+      {
+        "id": 28,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿Cuántos años tiene Roberto Vaquero? Roberto Vaquero afirma tener 37 años."
+              ]
+            },
+            "id": "6CX-VQgnfh",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:32:23.424010Z",
+        "updated_at": "2023-10-08T09:32:23.424037Z",
+        "draft_created_at": "2023-10-08T09:15:35.861727Z",
+        "lead_time": 58.17,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ddfd9307-38f9-4e48-83cc-65db34ac2f47",
+        "import_id": null,
+        "last_action": null,
+        "task": 81,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 81,
+      "min_time": "01:17:14.770000",
+      "max_time": "01:17:40.770000",
+      "transcript": "y yo era así antes, cuando llevo.20 años, bueno 21.21 años militando y yo tengo 37 años.y hago 21 años militando, o sea.llevo toda la vida dentro de grupos.de comunistas y siempre me iba yendo.y me iba apartando porque veía que es.irreal y son los mismos.10, 15 personas porque más no son.repitiendo los mismos errores.cíclicamente y yo dije.claro yo soy una persona muy crítica, es que ese es el problema.entonces como no sigo packs dije fuera.me voy, yo quiero hacer algo coherente",
+      "literal_transcript": "Desde el instante 01:17:14.770000 hasta 01:17:40.770000 Roberto Vaquero dice: \"y yo era así antes, cuando llevo.20 años, bueno 21.21 años militando y yo tengo 37 años.y hago 21 años militando, o sea.llevo toda la vida dentro de grupos.de comunistas y siempre me iba yendo.y me iba apartando porque veía que es.irreal y son los mismos.10, 15 personas porque más no son.repitiendo los mismos errores.cíclicamente y yo dije.claro yo soy una persona muy crítica, es que ese es el problema.entonces como no sigo packs dije fuera.me voy, yo quiero hacer algo coherente\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.138991Z",
+    "updated_at": "2023-10-08T09:32:23.445659Z",
+    "inner_id": 81,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 83,
+    "annotations": [
+      {
+        "id": 29,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "text": [
+                "¿En qué redes está disponible Roberto Vaquero? Roberto Vaquero menciona que está disponible en varias redes sociales, incluyendo YouTube y Twitch, y está dispuesto a interactuar en cualquier plataforma en la que lo deseen."
+              ]
+            },
+            "id": "dd3OnDKRkK",
+            "from_name": "answer",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-10-08T09:32:25.955847Z",
+        "updated_at": "2023-10-08T09:32:25.955870Z",
+        "draft_created_at": "2023-10-08T09:17:26.186251Z",
+        "lead_time": 107.852,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "2eb10af2-cda1-44aa-adda-a9d6b3d3e124",
+        "import_id": null,
+        "last_action": null,
+        "task": 83,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "8fc35b00-original_transcription_grouped.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "speaker": "Roberto Vaquero",
+      "speaker_change": 83,
+      "min_time": "01:17:51.940000",
+      "max_time": "01:18:09.940000",
+      "transcript": "yo en todas las redes soy Roberto Vaquero.yo hago mucho Youtube.sobre todo y ahí donde pongo las novedades.de cuando saco libros, artículos.cuando hago lo que sea y bueno hago.Twitch también porque yo me adapto mucho a las cosas.de hoy en día porque creo que es la forma de llegar a la gente.herramienta y me pueden ver.en cualquier red social, estoy en todas.en la que quieran",
+      "literal_transcript": "Desde el instante 01:17:51.940000 hasta 01:18:09.940000 Roberto Vaquero dice: \"yo en todas las redes soy Roberto Vaquero.yo hago mucho Youtube.sobre todo y ahí donde pongo las novedades.de cuando saco libros, artículos.cuando hago lo que sea y bueno hago.Twitch también porque yo me adapto mucho a las cosas.de hoy en día porque creo que es la forma de llegar a la gente.herramienta y me pueden ver.en cualquier red social, estoy en todas.en la que quieran\""
+    },
+    "meta": {},
+    "created_at": "2023-10-07T09:55:12.139097Z",
+    "updated_at": "2023-10-08T09:32:25.975234Z",
+    "inner_id": 83,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+  }
+]
