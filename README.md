@@ -75,9 +75,14 @@ Before you begin, ensure you have the following requirements in place:
 ## Evaluation
 
 To evaluate our approach, labelled datasets are needed. To do so, we employ [Label Studio library](https://labelstud.io/)
-![image](https://github.com/AlbertoUAH/Castena/assets/45654081/975f5b21-ba6a-4257-b209-f2b0b7e7833d)
 
-![image](https://github.com/AlbertoUAH/Castena/assets/45654081/812cc0c0-2560-4c52-90a0-e93bb249daff)
+<p align="center">
+ <img src="./media/label_studio.png">
+</p>
+
+<p align="center">
+ <img src="./media/label_studio_sample.png">
+</p>
 
 ## Contributing
 
