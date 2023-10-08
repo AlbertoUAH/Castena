@@ -11,7 +11,10 @@ jobs:
 
     steps:
       - name: Checkout source code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v
+        
+      - name: Move to source folder
+        run: cd src
 
       - name: Install dependencies
         run: pip install pandas
