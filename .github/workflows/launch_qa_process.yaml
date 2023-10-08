@@ -2,7 +2,7 @@ name: wandb-comparative-report
 on:
   push:
     paths:
-      - './data/eval/*.json'  # Triggers when new json file is added at ./data/eval
+      - '../../data/eval/*.json'  # Triggers when new json file is added at ./data/eval
 jobs:
   detectar_json:
     runs-on: ubuntu-latest
@@ -15,4 +15,4 @@ jobs:
         run: pip install pandas
         
       - name: Run script
-        run: python .github/workflows/process_qa_json.py
+        run: python process_qa_json.py
