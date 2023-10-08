@@ -5,6 +5,10 @@ on:
     paths:
       - 'data/eval/**/*.json'
 
+permissions:
+  contents: read
+  pull-requests: write
+
 jobs:
   detectar_json:
     runs-on: ubuntu-latest
