@@ -5,6 +5,9 @@ import json
 import re
 import os
 
+print("CURRENT DIRECTORY")
+print(os.getcwd())
+
 # -- Auxiliar function to elaborate a cleaned dictionary with all questions and answers
 def elaborate_qa_dict(text):
     pattern = r'(.*?)\? (.*?)((?:\?|$))'
