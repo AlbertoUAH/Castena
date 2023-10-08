@@ -5,7 +5,7 @@ import json
 import re
 import os
 
-BASE_DIR = '../../'
+BASE_DIR = '../'
 
 # -- Auxiliar function to elaborate a cleaned dictionary with all questions and answers
 def elaborate_qa_dict(text):
