@@ -16,8 +16,8 @@ def elaborate_qa_dict(text):
         question_answer_dictionary[question] = answer
     return question_answer_dictionary
 
-list_original_qa_json_files = os.listdir(BASE_DIR + '/data/eval/')
-list_original_cleaned_qa_json_files = os.listdir(BASE_DIR + '/data/eval/eval_cleaned/')
+list_original_qa_json_files = [file for file in os.listdir(BASE_DIR + '/data/eval/') if '.json' in file]
+list_original_cleaned_qa_json_files = [file for file in os.listdir(BASE_DIR + '/data/eval/eval_cleaned/') if '.json' in file]
 
 for original_qa_json_file in list_original_qa_json_files:
   if original_qa_json_file not in list_original_cleaned_qa_json_files:
