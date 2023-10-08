@@ -77,11 +77,11 @@ Before you begin, ensure you have the following requirements in place:
 To evaluate our approach, labelled datasets are needed. To do so, we employ [Label Studio library](https://labelstud.io/)
 
 <p align="center">
- <img src="./media/label_studio.png" width="500px">
+ <img src="./media/label_studio.png" width="650px">
 </p>
 
 <p align="center">
- <img src="./media/label_studio_sample.png" width="500px">
+ <img src="./media/label_studio_sample.png" width="650px">
 </p>
 
 ## Contributing
