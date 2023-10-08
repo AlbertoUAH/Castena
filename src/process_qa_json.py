@@ -17,8 +17,8 @@ def elaborate_qa_dict(text):
         question_answer_dictionary[question] = answer
     return question_answer_dictionary
 
-list_original_qa_json_files = os.listdir('../data/eval/')
-list_original_cleaned_qa_json_files = os.listdir('../data/eval/eval_cleaned/')
+list_original_qa_json_files = os.listdir('/data/eval/')
+list_original_cleaned_qa_json_files = os.listdir('/data/eval/eval_cleaned/')
 
 for original_qa_json_file in list_original_qa_json_files:
   if original_qa_json_file not in list_original_cleaned_qa_json_files:
@@ -31,7 +31,7 @@ for original_qa_json_file in list_original_qa_json_files:
                                       )
     df['qa_dict'] = df['qa'].apply(lambda x: elaborate_qa_dict(x))
     final_json_file = list(df['qa_dict'])
-    with open('../data/eval/eval_cleaned/' + original_qa_json_file, 'w') as f:
+    with open('/data/eval/eval_cleaned/' + original_qa_json_file, 'w') as f:
       json.dump(data, final_json_file)
 
 print("Processing finished successfully!")
