@@ -1,8 +1,10 @@
 name: process-json-files
+
 on:
   push:
     paths:
-      - '../../data/eval/*.json'  # Triggers when new json file is added at ./data/eval
+      - 'data/eval/**/*.json'
+
 jobs:
   detectar_json:
     runs-on: ubuntu-latest
