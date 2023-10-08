@@ -17,4 +17,4 @@ jobs:
         run: pip install pandas
         
       - name: Run script
-        run: python .github/workflows/process_qa_json.py
+        run: python src/process_qa_json.py
