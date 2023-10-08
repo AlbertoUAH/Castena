@@ -31,6 +31,6 @@ for original_qa_json_file in list_original_qa_json_files:
     df['qa_dict'] = df['qa'].apply(lambda x: elaborate_qa_dict(x))
     final_json_file = list(df['qa_dict'])
     with open(BASE_DIR + '/data/eval/eval_cleaned/' + original_qa_json_file, 'w') as f:
-      json.dump(data, final_json_file)
+      json.dump(final_json_file, f)
 
 print("Processing finished successfully!")
