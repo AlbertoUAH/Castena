@@ -1,0 +1,43 @@
+name: format-transcriptions
+
+on:
+  push:
+    paths:
+      - 'data/original_spanish_transcriptions/**/*.txt'
+
+permissions:
+  contents: write
+  packages: write
+  pull-requests: write
+
+jobs:
+  detectar_json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v3
+        
+      - name: Move to source folder
+        run: cd src
+
+      - name: Install dependencies
+        run: pip install pandas
+        
+      - name: Run script
+        run: python src/format_transcriptions.py
+
+      - name: Commit files
+        run: | 
+          git config remote.origin.url https://github.com/AlbertoUAH/Castena.git
+          git config --global user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+          git config --global user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git add -A
+          git commit -am "update"
+        shell: bash
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
