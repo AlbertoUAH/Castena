@@ -22,7 +22,10 @@ jobs:
         run: cd src
 
       - name: Install dependencies
-        run: pip install pandas
+        run: pip install pandas spacy googletrans==3.1.0a0
+
+      - name: Install spacy spanish corpus
+        run: python -m spacy download es_core_news_sm
         
       - name: Run script
         run: python src/format_transcriptions.py
