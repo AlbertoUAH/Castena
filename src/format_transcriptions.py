@@ -84,7 +84,7 @@ for original_transcription in list_original_transcriptions:
 		
 		result['literal_transcript'] = 'Desde el instante ' + result['min_time'] + ' hasta ' + result['max_time'] +\
 						' ' + result['speaker'] + ' dice: \"' + result['transcript'] + '\"'
-		result['literal_transcript'] = result['literal_transcript'].progress_apply(translate_text)
+		result['literal_transcript'] = result['literal_transcript'].apply(translate_text)
 		
 		result = result.sort_values('min_time')
 		result_text = '\n\n'.join(result['literal_transcript'])
