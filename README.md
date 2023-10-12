@@ -86,13 +86,13 @@ To evaluate our approach, labelled datasets are needed. To do so, we employ [Lab
 
 ### Metrics
 
-To evaluate LLM performance, [QAEvalChain](https://api.python.langchain.com/en/latest/evaluation/langchain.evaluation.qa.eval_chain.QAEvalChain.html) and [cosine_similarity](https://www.engati.com/glossary/cosine-similarity#:~:text=In%20NLP%2C%20Cosine%20similarity%20is,in%20a%20multi%2Ddimensional%20space.) are used
+To evaluate LLM performance, [QAEvalChain](https://api.python.langchain.com/en/latest/evaluation/langchain.evaluation.qa.eval_chain.QAEvalChain.html), [cosine_similarity](https://www.engati.com/glossary/cosine-similarity#:~:text=In%20NLP%2C%20Cosine%20similarity%20is,in%20a%20multi%2Ddimensional%20space.) and a [sentence similarity model](https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1) are used
 
 #### Results
 
-| Video Name            | Channel     | Topic  | QAEvalChain (% Corrected Answer) | Mean Cosine Similarity | Median Cosine Similarity |
-|-----------------------|-------------|--------|---------------------------------|------------------------|--------------------------|
-| Worldcast #45 - Roberto Vaquero | Worldcast   | Politics & Opinion| 22 out of 30 corrected answers (~73 %) | 0.7794 | 0.8230 |
+| Video Name            | Channel     | Topic  | QAEvalChain (% Corrected Answer) | Mean Cosine Similarity | Median Cosine Similarity | Mean Sentence Similarity | Median Sentence Similarity |
+|-----------------------|-------------|--------|---------------------------------|------------------------|--------------------------|------------------------|--------------------------|
+| Worldcast #45 - Roberto Vaquero | Worldcast   | Politics & Opinion| 20 out of 30 corrected answers (~67 %) | 0.7943 | 0.8198 | 0.7167 | 0.7669 |
 
 
 ## Contributing
