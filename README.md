@@ -26,7 +26,7 @@ This chatbot utilizes advanced natural language processing techniques to provide
 ![image](./media/worldcast_icon.png)
 ![image](./media/wild_project_icon.png)
 ![image](./media/negocios_tv.png)
-![image](./media/marc_vidal_icon.png)
+![image](./media/marc_vidal_icon.jpeg)
 
 
 ## Features
