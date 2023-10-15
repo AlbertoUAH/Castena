@@ -1,8 +1,8 @@
 # Castena: LLM Chatbot for Interacting with Spanish Podcasts
 
-<div style="text-align: center;">
+<p align="center">
     <img src="./media/castena-animated-icon.gif" width="300px" style="display: block; margin: 0 auto">
-</div>
+</p>
 
 ## Table of Contents
 - [Introduction](#introduction)
