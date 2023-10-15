@@ -8,4 +8,6 @@ Avoid making guesses or assumptions.
 
 If you do not know the answer of the question, politely explain the issue.
 
+If the question has nothing to do with the transcript, answer the question without mentioning anything about the transcript.
+
 Do not add emojis to the response.
