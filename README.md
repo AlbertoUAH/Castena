@@ -24,16 +24,16 @@ This chatbot utilizes advanced natural language processing techniques to provide
 ## Our main objectives
 
 <p align="center">
-    <a href="https://www.youtube.com/">
+    <a href="https://www.youtube.com/@worldcast_">
         <img src="./media/worldcast_icon.png" alt="Worldcast" />
     </a>
-    <a href="https://www.youtube.com/">
+    <a href="https://www.youtube.com/@TheWildProject">
         <img src="./media/wild_project_icon.png" alt="Wild Project" />
     </a>
-    <a href="https://www.youtube.com/">
+    <a href="https://www.youtube.com/@NegociosTV">
         <img src="./media/negocios_tv.png" alt="Negocios TV" />
     </a>
-    <a href="https://www.youtube.com/">
+    <a href="https://www.youtube.com/@marc_vidal">
         <img src="./media/marc_vidal_icon.jpeg" alt="Marc Vidal" />
     </a>
 </p>
