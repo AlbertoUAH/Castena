@@ -6,6 +6,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Objectives](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -21,7 +22,7 @@ The LLM Chatbot for Interacting with Spanish Podcasts is an AI-powered chatbot d
 
 This chatbot utilizes advanced natural language processing techniques to provide real-time text-based interactions with Spanish podcasts. Whether you want to generate transcripts, summarize episodes, or seek information about specific topics within a podcast, this chatbot is here to assist you.
 
-## Our main objectives
+## Objectives
 
 <p align="center">
     <a href="https://www.youtube.com/@worldcast_">
@@ -38,6 +39,10 @@ This chatbot utilizes advanced natural language processing techniques to provide
     </a>
 </p>
 
+| Video Name            | Channel     | Topic  | Status |
+|-----------------------|-------------|--------|--------|
+| [Worldcast #45 - Roberto Vaquero](https://www.youtube.com/watch?v=4sXT1tHVbjE) | Worldcast   | Available |
+| [Marc Vidal - entrevista a Jose Luis Cava](https://www.youtube.com/watch?v=CBmTWyIbhI4&t=1513s) | Marc Vidal   | Available soon |
 
 ## Features
 
@@ -69,6 +74,12 @@ Before you begin, ensure you have the following requirements in place:
 
    ```bash
    pip install -r requirements.txt
+   ```
+
+3. Run app (via Streamlit):
+
+   ```bash
+   streamlit run app.py --logger.level=warning 2 > 'app_log.log'
    ```
 
 ## Usage
