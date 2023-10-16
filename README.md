@@ -41,8 +41,8 @@ This chatbot utilizes advanced natural language processing techniques to provide
 
 | Video Name            | Channel     | Topic  | Status |
 |-----------------------|-------------|--------|--------|
-| [Worldcast #45 - Roberto Vaquero](https://www.youtube.com/watch?v=4sXT1tHVbjE) | Worldcast   | Available |
-| [Marc Vidal - entrevista a Jose Luis Cava](https://www.youtube.com/watch?v=CBmTWyIbhI4&t=1513s) | Marc Vidal   | Available soon |
+| [Worldcast #45 - Roberto Vaquero](https://www.youtube.com/watch?v=4sXT1tHVbjE) | Worldcast   | Politics | Available |
+| [Marc Vidal - entrevista a Jose Luis Cava](https://www.youtube.com/watch?v=CBmTWyIbhI4&t=1513s) | Marc Vidal   | Economy and Politics | Available soon |
 
 ## Features
 
