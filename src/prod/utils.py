@@ -53,17 +53,16 @@ class TogetherLLM(LLM):
 
     def clean_duplicates(self, transcription: str) -> str:
       lines = transcription.strip().split('\n')
-      unique_lines = set()
 
       new_transcription = []
 
       for linea in lines:
-          if linea not in unique_lines:
-              new_transcription.append(linea)
-              unique_lines.add(linea)
-
+          if linea.replace('CONTEXT:/n/n ', '').replace('/n', '') not in new_transcription and linea != '':
+              new_transcription.append(linea.replace('CONTEXT:/n/n ', '').replace('/n', ''))
       # Create new transcription without duplicates
-      new_transcription = '\n\n'.join(new_transcription)
+      new_transcription = '\n\n'.join(new_transcription).replace("""<</SYS>>
+      """, """<</SYS>>
+      CONTEXT: """)
       return new_transcription
 
     def _call(
@@ -88,7 +87,7 @@ class TogetherLLM(LLM):
 def setup_app(transcription_path, emb_model, model, _logger):
     # -- Setup enviroment and features
     translator = Translator(service_urls=['translate.googleapis.com'])
-    nlp        = spacy.load('es_core_news_sm')
+    nlp        = spacy.load('es_core_news_lg')
 
     _logger.info('Setup environment and features...')
 
