@@ -454,7 +454,6 @@ together==0.2.5
 tokenizers==0.14.1
 toml==0.10.2
 tomli==2.0.1
-toolz==0.12.0
 torch==2.0.1+cu118
 torchaudio==2.0.2+cu118
 torchdata==0.6.1
@@ -467,7 +466,6 @@ traitlets==5.7.1
 traittypes==0.2.1
 transformers==4.34.0
 triton==2.0.0
-tweepy==4.13.0
 typer==0.9.0
 types-pytz==2023.3.1.1
 types-setuptools==68.2.0.0
