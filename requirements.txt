@@ -111,7 +111,6 @@ fsspec==2023.6.0
 future==0.18.3
 gast==0.4.0
 gcsfs==2023.6.0
-GDAL==3.4.3
 gdown==4.6.6
 geemap==0.28.2
 gensim==4.3.2
@@ -137,7 +136,6 @@ google-cloud-functions==1.13.3
 google-cloud-language==2.9.1
 google-cloud-storage==2.8.0
 google-cloud-translate==3.11.3
-google-colab==1.0.0
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.6.0
