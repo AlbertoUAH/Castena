@@ -275,10 +275,10 @@ def typewrite(text:str):
             {css}
         </style>
         <body>
-          <script src="http://www.youtube.com/player_api"></script>
+          <script src="https://www.youtube.com/player_api"></script>
           <p>{text}</p>
           <br/>
-          <iframe id="player" type="text/html" src="http://www.youtube.com/embed/4sXT1tHVbjE?enablejsapi=1" scrolling="yes" frameborder="0" width="600" height="450"></iframe>
+          <iframe id="player" type="text/html" src="https://www.youtube.com/embed/4sXT1tHVbjE?enablejsapi=1" scrolling="yes" frameborder="0" width="600" height="450"></iframe>
           <script>
             {js}
            </script>
