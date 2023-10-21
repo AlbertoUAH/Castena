@@ -1,30 +1,29 @@
+00:00:00.000|Roberto Vaquero|Yo vengo de la izquierda más suelto, izquierda y más radical que puede dar cualquiera que nos vea imaginarse.
 00:00:05.360|Roberto Vaquero|Y yo creo que esos años fueron tirados a la basura.
 00:00:07.760|Roberto Vaquero|He escuchado Siria, la cárcel...
 00:00:10.640|Entrevistador|¿Por dónde empiezas? Porque esto es muy amplio, eh.
 00:00:12.160|Entrevistador|Bueno, pues un resumen de lo más peliculero.
 00:00:12.160|Roberto Vaquero|Bueno, pues un resumen de lo más peliculero.
 00:00:15.520|Roberto Vaquero|Soy de una nación también que se llama, bueno, se llama la reconstrucción comunista en esa época.
-00:00:18.880|Entrevistador|Para ir a luchar contra el Estado Islámico.
+00:00:18.880|Roberto Vaquero|Para ir a luchar contra el Estado Islámico.
 00:00:20.320|Entrevistador|Dijiste luchar contra el Estado Islámico y hoy en día en la sociedad actual, luchar puede ser poner...
 00:00:25.040|Entrevistador|No, luchar con un fusil en el frente, sí, sí.
 00:00:27.200|Entrevistador|O sea que no estabas tuiteando, estabas en la trincha.
 00:00:29.680|Entrevistador|Hubo gente, sí, que estaba en la trincha.
-00:00:25.040|Roberto Vaquero|No, luchar con un fusil en el frente, sí, sí.
+00:00:31.200|Entrevistador|¿Dirías que hace falta una revolución?
+00:00:33.760|Entrevistador|Ahora quienes mandan, en muchos casos son gente que dice ser mujer y que ha desplazado a lo que se podría llamar las mujeres biológicas.
 00:00:27.200|Roberto Vaquero|O sea que no estabas tuiteando, estabas en la trincha.
 00:00:29.680|Roberto Vaquero|Hubo gente, sí, que estaba en la trincha.
-00:00:31.200|Entrevistador|¿Dirías que hace falta una revolución?
-00:00:33.760|Roberto Vaquero|Ahora quienes mandan, en muchos casos son gente que dice ser mujer y que ha desplazado a lo que se podría llamar las mujeres biológicas.
+00:00:31.200|Roberto Vaquero|¿Dirías que hace falta una revolución?
 00:00:42.720|Roberto Vaquero|Y no solo eso, sino que las llaman TERF, es decir, peor que los nazis, y las van a pegar a los sitios.
 00:00:48.720|Roberto Vaquero|Es que vivimos en una situación distópica en todos los ámbitos.
 00:00:51.120|Roberto Vaquero|Modelo migratorio, la cuestión de la mujer, la educación de los niños hipersesualizándolos
 00:00:55.760|Roberto Vaquero|metiéndoles teorías horrorosas, de mi punto de vista, en la cabeza.
 00:01:00.240|Roberto Vaquero|Se está fomentando la debilidad, hay gente que se avergüenza de ser español, hay gente que se avergüenza de ser blanco,
 00:01:04.320|Roberto Vaquero|hay gente que se avergüenza de ser otorosexual, es que ya llega un momento en que es ridículo.
-00:01:07.680|Roberto Vaquero|Algo que me gustó mucho de tu discurso es la defensa de la bandera, joder, porque para mí esto es puro sentido común.
+00:01:07.680|Entrevistador|Algo que me gustó mucho de tu discurso es la defensa de la bandera, joder, porque para mí esto es puro sentido común.
 00:01:14.240|Entrevistador|Los socialcomunistas, Pedro Sánchez y Podemos, me da la risa, y los fascistas que son todos los demás.
 00:01:20.000|Roberto Vaquero|Y es que ahí no hay ni fascistas ni comunistas, es como una estafa, se están riendo de la gente.
-00:01:25.680|Entrevistador|¿Qué tal? ¿Todo bien?
-00:01:26.800|Entrevistador|Encantado de estar aquí.
 00:01:34.960|Entrevistador|Estamos tratando de hacer un poco de contenido electoral, de que nuestros oyentes tengan un poco una visión clara, ¿sabes?
 00:01:43.360|Entrevistador|Veo que los medios, al final, hoy en día están como muy manipulados.
 00:01:46.720|Entrevistador|Y es que estamos tratando de hacer un poco de contenido electoral, de que nuestros oyentes tengan un poco una visión clara, ¿sabes?
@@ -54,9 +53,9 @@
 00:03:45.120|Roberto Vaquero|Y claro, es que es difícil de conseguir. Luego veo otros partidos que lo intentan y en tan poco tiempo es imposible.
 00:03:50.240|Roberto Vaquero|Entonces ellos juegan con una ventaja absoluta y lo que hacen es perpetuar un poco lo que hay.
 00:03:54.240|Roberto Vaquero|Entonces es muy difícil que haya aire fresco porque en cuanto haya un poco cierran la ventana.
+00:03:57.360|Entrevistador|Claro. Y supongo que continuamente de un lado y de otro te intentan posicionar como izquierda o derecha.
 00:04:02.960|Entrevistador|¿Te consideras, supongo, que fuera de...?
 00:04:05.520|Entrevistador|Sí, sí. Yo vengo de la izquierda más ultraizquierda y más radical que pueden dar cualquiera que nos vea imaginarse.
-00:04:05.520|Roberto Vaquero|Sí, sí. Yo vengo de la izquierda más ultraizquierda y más radical que pueden dar cualquiera que nos vea imaginarse.
 00:04:11.840|Roberto Vaquero|Y yo creo que esos años fueron tirados a la basura y estuve jugándome el tipo por cosas que en realidad no eran ni mis propios intereses.
 00:04:20.640|Roberto Vaquero|Y yo salí muy renegado de ahí. Y yo no defiendo ni la izquierda ni la derecha.
 00:04:26.080|Roberto Vaquero|Creo que es una dicotomía que ya es caduca y que lo que hay es gente repartiéndose tanto los que son como de izquierda o derecha más moderada,
@@ -64,6 +63,7 @@
 00:04:38.000|Roberto Vaquero|Y nosotros hemos roto con eso.
 00:04:39.200|Roberto Vaquero|Entonces unos nos llaman fascistas, otros nos llaman comunistas, nos llaman de todo, todos, pero nos dan poco igual.
 00:04:44.720|Roberto Vaquero|Nosotros queremos construir algo diferente y sí queremos ser un poco ese aire fresco del que hablabas.
+00:04:49.520|Entrevistador|Claro. Yo antes de entrar en materia, a mí me gustaría mandar un mensaje a la audiencia porque habrás visto el otro día tuvimos aquí a Vascal.
 00:04:56.640|Entrevistador|Invitamos a todo el mundo. Fueron los primeros que se prestaron.
 00:04:59.600|Entrevistador|Ahora estás por aquí tú y bueno, si antes de las elecciones conseguimos traer a PSOE, PP y el que quiera venir, pues cojonudo por nuestra parte.
 00:05:08.160|Entrevistador|Pero algo que no me ha gustado nada con el tema de Vascal es la cantidad de DM que he recibido de mensajes diciendo Pero cómo se te ocurre darle voz a esto?
@@ -76,7 +76,7 @@
 00:06:02.320|Entrevistador|Todos los que me están escribiendo eso. Cómo se te ocurre darle voz? Cómo se te ocurre? Cómo se te ocurre?
 00:06:05.840|Entrevistador|Váyanse a tomar por el culo.
 00:06:07.240|Entrevistador|O sea, digo, sabes, entiendes lo que digo, no?
-00:06:10.120|Roberto Vaquero|No hay mucha gente que tenga esa actitud cuando le hacen eso, eso te honra.
+00:06:10.120|Entrevistador|No hay mucha gente que tenga esa actitud cuando le hacen eso, eso te honra.
 00:06:14.040|Roberto Vaquero|Hay como una dictadura de lo políticamente correcto y en cuanto tú te sales de ese pensamiento único de esos dogmas, enseguida eres lo peor que te puedas imaginar.
 00:06:22.720|Roberto Vaquero|Y creo que es una cosa que demuestra que estamos en una sociedad decadente y que creo que habría que romper con eso.
 00:06:27.160|Roberto Vaquero|Ya basta de que tiene que haber un mensaje y cualquier alternativa que pueda haber hay que fusilarla.
@@ -87,6 +87,7 @@
 00:06:43.320|Roberto Vaquero|Es una verdadera distopía porque es gente que defiende supuestamente la democracia, la libertad de expresión, etcétera,
 00:06:47.920|Roberto Vaquero|pero enseguida señala como discurso de odio peligroso cualquier cosa de forma crítica,
 00:06:52.640|Roberto Vaquero|porque en realidad no se meten a valorar lo que dices, pero directamente eres malo, eres peligroso, estás fuera, no puedes tener ningún espacio.
+00:06:59.120|Roberto Vaquero|Claro, sí, y además que yo aquí no vengo a debatir con nadie, realmente.
 00:07:04.760|Entrevistador|Yo vengo a escuchar todos los puntos de vista.
 00:07:06.760|Entrevistador|Yo, por ejemplo, soy empresario, de hecho sé que tú tienes un enfoque más comunista,
 00:07:11.600|Entrevistador|sé que estarás en contra de lo que hago, pero yo cuando hablo contigo, escucho tu punto de vista,
@@ -109,7 +110,6 @@
 00:08:09.680|Entrevistador|¿Por dónde empiezas? Porque esto es muy amplio.
 00:08:11.240|Entrevistador|Bueno, un resumen de lo más peliculero.
 00:07:49.920|Roberto Vaquero|Es de película tal cual.
-00:08:09.680|Roberto Vaquero|¿Por dónde empiezas? Porque esto es muy amplio.
 00:08:11.240|Roberto Vaquero|Bueno, un resumen de lo más peliculero.
 00:08:14.640|Roberto Vaquero|Si es lo de Siria, por ejemplo,
 00:08:16.480|Roberto Vaquero|nosotros siempre hemos colaborado mucho con la comunidad kurda.
@@ -171,7 +171,6 @@
 00:10:52.440|Roberto Vaquero|Antes de la cárcel también.
 00:10:54.080|Roberto Vaquero|Ya de antes era así.
 00:10:54.960|Roberto Vaquero|Yo tuve una lesión de hombro, dejé de entrenar
-00:10:52.440|Entrevistador|Antes de la cárcel también.
 00:10:57.280|Roberto Vaquero|y cuando me metieron en la cárcel, empecé a entrenar muchísimo.
 00:10:59.760|Roberto Vaquero|Y cuando salí, pues acabé compitiendo.
 00:11:01.560|Roberto Vaquero|Me puse a entrenar qui posis, me acabé compitiendo.
@@ -191,6 +190,8 @@
 00:11:34.880|Roberto Vaquero|Entonces, claro, en vez de destruirme, a mí lo que me hizo fue mucho más fuerte.
 00:11:38.760|Roberto Vaquero|Yo salí mucho más fuerte ahí, mentalmente y a todos los niveles.
 00:11:41.280|Roberto Vaquero|¿Y las personas con las que compartiste tiempo en la cárcel
+00:10:52.440|Entrevistador|Antes de la cárcel también.
+00:10:54.080|Entrevistador|Ya de antes era así.
 00:11:41.280|Entrevistador|¿Y las personas con las que compartiste tiempo en la cárcel
 00:11:43.520|Entrevistador|notaste un efecto similar o fue algo en ti que te disciplinó y te...
 00:11:46.760|Entrevistador|No, en hecho, yo vi mucha gente romperse allí.
@@ -201,7 +202,7 @@
 00:11:57.800|Roberto Vaquero|31 años llevaba.
 00:11:59.280|Roberto Vaquero|Y, claro, ahora le escribo, le mando cosas, intento ayudar.
 00:12:02.360|Roberto Vaquero|O sea, intento hacer cosas para ayudar a la gente que está así.
-00:12:05.480|Entrevistador|Pero yo vi mucha gente rota y vi gente que, a pesar de llevar mucho tiempo
+00:12:05.480|Roberto Vaquero|Pero yo vi mucha gente rota y vi gente que, a pesar de llevar mucho tiempo
 00:12:09.440|Roberto Vaquero|y estar un poco mal, salían adelante, se esforzaban.
 00:12:12.400|Roberto Vaquero|Entonces, yo lo veía como algo de ejemplo.
 00:12:15.160|Roberto Vaquero|Yo allí estuve con gente de las que dan miedo.
@@ -229,30 +230,33 @@
 00:13:14.760|Roberto Vaquero|y había gente de todos los países.
 00:13:16.320|Roberto Vaquero|Y el único país al que le monta en el juicio es el único grupo, es a nosotros.
 00:13:19.680|Roberto Vaquero|De hecho, la gente que decían que eran como nuestros jefes en otros sitios...
-00:13:05.920|Entrevistador|¿Cuánta gente?
 00:13:23.240|Roberto Vaquero|¿Cómo funciona esto de la Brigada Internacional?
+00:13:05.920|Entrevistador|¿Cuánta gente?
 00:13:23.240|Entrevistador|¿Cómo funciona esto de la Brigada Internacional?
 00:13:28.680|Roberto Vaquero|y la gente escribía para...
 00:13:30.000|Roberto Vaquero|¿Tal cual?
 00:13:30.640|Roberto Vaquero|Sí.
-00:13:30.000|Entrevistador|¿Tal cual?
 00:13:34.480|Entrevistador|Sí, pero a través de grupos, claro, porque no sabía quién se iba a meter.
 00:13:34.480|Roberto Vaquero|Sí, pero a través de grupos, claro, porque no sabía quién se iba a meter.
 00:13:37.680|Roberto Vaquero|Pero sí, y hubo gente de Italia, hubo gente de muchísima Alemania,
 00:13:41.480|Roberto Vaquero|hubo gente de Inglaterra, hubo gente de muchos países.
+00:13:44.160|Entrevistador|¿Y tu interés por la política cuándo empieza, digamos?
 00:13:46.760|Entrevistador|No, empieza en el instituto.
+00:13:48.000|Entrevistador|Yo me empecé a politizar en el instituto,
+00:13:49.680|Entrevistador|en asambleas de estudiantes, un poco en el rollo antifascista al principio también.
 00:13:46.760|Roberto Vaquero|No, empieza en el instituto.
 00:13:48.000|Roberto Vaquero|Yo me empecé a politizar en el instituto,
 00:13:49.680|Roberto Vaquero|en asambleas de estudiantes, un poco en el rollo antifascista al principio también.
-00:13:49.680|Entrevistador|en asambleas de estudiantes, un poco en el rollo antifascista al principio también.
 00:13:53.480|Roberto Vaquero|Y al final pues fui leyendo más.
 00:13:55.600|Roberto Vaquero|Yo siempre he sido una persona que ha leído mucho, con muchas inquietudes.
+00:13:59.200|Roberto Vaquero|Y me fui ya escorando un poco de cómo es lo que yo llamo la moda de la revolución.
 00:14:03.960|Roberto Vaquero|Que hay gente que tiene como un pack, ¿no?
 00:14:05.320|Roberto Vaquero|Se visten de una manera, hablan de una manera, van a unos conciertos, les gusta mucho...
 00:14:08.320|Roberto Vaquero|Yo empecé ahí, pero enseguida ya empecé a ser como el raro
 00:14:11.840|Roberto Vaquero|y ya empecé a tener problemas desde el principio.
 00:14:15.240|Roberto Vaquero|Y ya fui apartándome, apartándome hasta que fundé yo una organización en sí,
 00:14:20.280|Roberto Vaquero|que es un poco el embrión de todo lo que somos ahora.
+00:14:22.600|Roberto Vaquero|Y hemos llegado hasta hoy.
 00:14:23.880|Roberto Vaquero|O sea, ha sido como un proceso de ruptura
 00:14:26.000|Roberto Vaquero|que yo cuando salí de la cárcel creo que es el momento en que dijimos
 00:14:28.160|Roberto Vaquero|hay que romper con esta gente.
@@ -304,6 +308,7 @@
 00:15:51.720|Roberto Vaquero|y si gustamos bien y si no,
 00:15:53.080|Roberto Vaquero|pues bueno, es que somos así.
 00:15:54.000|Roberto Vaquero|No tenemos por qué engañar a nadie.
+00:15:55.240|Roberto Vaquero|Claro.
 00:15:55.640|Entrevistador|O sea que a pesar de tener un enfoque bastante de...
 00:15:58.440|Entrevistador|O sea, de extrema izquierda se podría decir,
 00:16:00.520|Entrevistador|en algunos aspectos,
@@ -332,7 +337,6 @@
 00:16:39.400|Roberto Vaquero|Pero es única y exclusivamente porque es tu moda, ¿no?
 00:16:41.560|Roberto Vaquero|Es como tu tribu urbana y es que funcionan así.
 00:16:44.840|Roberto Vaquero|Sí, en criterio.
-00:16:44.840|Entrevistador|Sí, en criterio.
 00:16:45.960|Roberto Vaquero|Sí, es un error.
 00:16:46.680|Roberto Vaquero|A mí me critica mucho por sentarme a hablar con gente
 00:16:48.440|Roberto Vaquero|que no es de mi ideología, supuestamente según ellos.
@@ -389,7 +393,6 @@
 00:18:50.640|Roberto Vaquero|de lo que es el frente en sí, porque si no les puedo perjudicar
 00:18:53.520|Roberto Vaquero|y no es mi intención.
 00:18:54.920|Roberto Vaquero|Lógico, lógico.
-00:18:54.920|Entrevistador|Lógico, lógico.
 00:18:56.160|Roberto Vaquero|Y sobre lo que decías, a mí esta gente me parece al revés,
 00:18:58.880|Roberto Vaquero|la contrarrevolución de purpurina.
 00:19:00.680|Roberto Vaquero|A mí me parecen los más sistémicos.
@@ -414,6 +417,7 @@
 00:19:47.920|Roberto Vaquero|se te rompe la cabeza cuando analizas eso.
 00:19:50.000|Roberto Vaquero|Y es lo que mucha gente no ve, porque la gente está muy
 00:19:52.120|Roberto Vaquero|engañada.
+00:18:54.920|Entrevistador|Lógico, lógico.
 00:19:53.200|Entrevistador|Claro.
 00:19:53.760|Entrevistador|Sí, antes mencionabas que son importadas,
 00:19:57.160|Entrevistador|que son como ideologías importadas.
@@ -445,7 +449,6 @@
 00:20:57.080|Roberto Vaquero|No es una conspiración, es una cosa que la gente no se molesta
 00:20:59.200|Roberto Vaquero|en leerlo.
 00:20:59.920|Roberto Vaquero|Pero está ahí.
-00:20:54.520|Entrevistador|Me das y te sale a la web, es decir, no está escondido.
 00:21:01.080|Roberto Vaquero|Y todo este pack ideológico que nos están imponiendo es una
 00:21:03.800|Roberto Vaquero|cosa que está viniendo de Estados Unidos.
 00:21:05.480|Roberto Vaquero|Incluso la derecha de aquí está copiando a la derecha de allí,
@@ -460,16 +463,19 @@
 00:21:26.720|Roberto Vaquero|haciendo escuadras y yendo por la calle.
 00:21:28.920|Roberto Vaquero|Eso no pasa en España.
 00:21:30.360|Roberto Vaquero|La derecha que hay aquí es muy copiada de la que está
-00:21:30.360|Entrevistador|La derecha que hay aquí es muy copiada de la que está
 00:21:33.240|Roberto Vaquero|emergiendo, muy copiada de la de Estados Unidos.
 00:21:35.200|Roberto Vaquero|Yo creo que copiar todo el rato a Estados Unidos,
 00:21:37.440|Roberto Vaquero|que es lo que hayamos haciendo durante décadas,
 00:21:39.280|Roberto Vaquero|creo que no es muy positivo para nosotros.
+00:21:40.920|Roberto Vaquero|O sea, ¿crees que viene de Estados Unidos que simplemente se
+00:20:54.520|Entrevistador|Me das y te sale a la web, es decir, no está escondido.
+00:21:30.360|Entrevistador|La derecha que hay aquí es muy copiada de la que está
 00:21:40.920|Entrevistador|O sea, ¿crees que viene de Estados Unidos que simplemente se
 00:21:43.640|Entrevistador|sigue en los pasos de Estados Unidos?
 00:21:45.120|Entrevistador|Sí, creo que España está años atrasada respecto a cómo
 00:21:45.120|Roberto Vaquero|Sí, creo que España está años atrasada respecto a cómo
 00:21:48.440|Roberto Vaquero|ha evolucionado desde Estados Unidos.
+00:21:50.240|Roberto Vaquero|Bueno, en el mundo anglosajón, diría yo.
 00:21:51.680|Roberto Vaquero|Yo creo que esto viene del mundo anglosajón.
 00:21:53.440|Roberto Vaquero|Se ha importado Europa y también se está importando España.
 00:21:55.880|Roberto Vaquero|Y es una cuestión continua.
@@ -490,13 +496,11 @@
 00:22:34.920|Roberto Vaquero|Las redes sociales, es que todo viene allí.
 00:22:37.840|Entrevistador|Sí, tiene mucha influencia en lo que es el estilo de vida.
 00:22:41.520|Entrevistador|Claro, y a nivel de ideología sobre la población y de
-00:22:41.520|Roberto Vaquero|Claro, y a nivel de ideología sobre la población y de
 00:22:44.360|Roberto Vaquero|cultura, es la cultura que empuja a las culturas nacionales.
 00:22:47.840|Roberto Vaquero|Y se están erosionando las nacionales y todo el mundo está
 00:22:50.240|Roberto Vaquero|cogiendo esta cultura tan cosmopolita, globalista.
 00:22:53.080|Roberto Vaquero|Y lo que se hace es borrarlo de aquí en vez de seguir
 00:22:55.440|Roberto Vaquero|evolucionando y adaptar cosas que no son de aquí.
-00:22:53.080|Entrevistador|Y lo que se hace es borrarlo de aquí en vez de seguir
 00:22:58.920|Entrevistador|¿Y crees que viene por parte de los gobiernos,
 00:23:00.920|Entrevistador|por parte de las empresas?
 00:23:02.320|Entrevistador|Sí, yo creo que es una conjunción.
@@ -523,7 +527,6 @@
 00:23:51.040|Roberto Vaquero|No está enfocado a un segmento, a la población,
 00:23:53.440|Roberto Vaquero|y defiende sus intereses.
 00:23:55.160|Roberto Vaquero|Es como que está enfocado a lo que caiga bien.
-00:23:55.160|Entrevistador|Es como que está enfocado a lo que caiga bien.
 00:23:57.240|Roberto Vaquero|Y el PP es exactamente igual.
 00:23:58.400|Roberto Vaquero|Se han convertido en partidos atrapalotodo.
 00:24:00.360|Roberto Vaquero|Y eso también está importado. ¿Por qué?
@@ -549,7 +552,6 @@
 00:24:41.400|Entrevistador|¿cuál puede ser el interés detrás de todo este guauquismo?
 00:24:45.600|Entrevistador|¿Llegar a qué punto?
 00:24:47.080|Entrevistador|¿A quién le interesa qué?
-00:24:47.080|Roberto Vaquero|¿A quién le interesa qué?
 00:24:48.320|Roberto Vaquero|Pues yo creo que a nivel económico tienen mucho rédito.
 00:24:51.480|Roberto Vaquero|Ellos tienen un gran negocio montado,
 00:24:53.440|Roberto Vaquero|en el cual lo que ellos dicen es lo aceptable y ellos inducen a
@@ -612,7 +614,6 @@
 00:27:04.040|Roberto Vaquero|por separarse en parte de los hombres,
 00:27:06.480|Roberto Vaquero|por realzar a la mujer, una serie de cuestiones que a mí
 00:27:09.560|Roberto Vaquero|tampoco me parecen bien.
-00:26:59.520|Entrevistador|El feminismo se ha pasado de, el movimiento feminista apostaba
 00:27:10.640|Roberto Vaquero|Porque yo creo en la igualdad, pero en la igualdad real.
 00:27:12.480|Roberto Vaquero|Los cupos, la discriminación, etcétera.
 00:27:14.040|Roberto Vaquero|Pero la cosa es, se ha pasado de eso a que ahora quienes mandan,
@@ -644,6 +645,7 @@
 00:28:24.160|Roberto Vaquero|hay gente que se avergüenza de ser otorosexual.
 00:28:25.880|Roberto Vaquero|Es que ya llega un momento en que es ridículo y ves cosas
 00:28:28.360|Roberto Vaquero|verdaderamente distópicas.
+00:28:29.920|Roberto Vaquero|No sé, el otro día en la fiesta del orgullo gay,
 00:28:31.800|Roberto Vaquero|voy a decir una cosa que a lo mejor es una barbaridad,
 00:28:33.920|Roberto Vaquero|hicieron una marcha nudista y salían tíos en pelotas bailando.
 00:28:37.400|Roberto Vaquero|Y me fijé en el lateral y había niños pequeños.
@@ -749,7 +751,6 @@
 00:33:02.320|Roberto Vaquero|Y así lo vemos con los políticos que hay hoy en día.
 00:33:04.320|Roberto Vaquero|O sea, hay políticos de su mar que vienen de ser portavoces de,
 00:33:07.120|Roberto Vaquero|que van a hablar de nada si son gente privilegiada.
-00:33:10.600|Entrevistador|Ahora venimos a hablar del tema del Sahara, por ejemplo.
 00:33:10.600|Roberto Vaquero|Ahora venimos a hablar del tema del Sahara, por ejemplo.
 00:33:12.800|Roberto Vaquero|Yo conozco hijas de jefes del polisario,
 00:33:15.560|Roberto Vaquero|es decir, no precisamente la gente más desatendida,
@@ -758,6 +759,7 @@
 00:33:24.800|Roberto Vaquero|es que yo como persona oprimida y es como mira,
 00:33:28.280|Roberto Vaquero|tú tienes un piso en Moncloa, tú eres una persona que vive de lujo,
 00:33:32.280|Roberto Vaquero|eres una persona con estudios superiores y no has tenido un problema en toda tu vida.
+00:33:10.600|Entrevistador|Ahora venimos a hablar del tema del Sahara, por ejemplo.
 00:33:36.080|Roberto Vaquero|No puedes decir, no, es que nosotros los racializados no, tú no.
 00:33:39.400|Roberto Vaquero|Hay gente que sí, por ejemplo, la gente marroquí de mi barrio sí lo puede decir,
 00:33:43.440|Roberto Vaquero|pero tú no lo puedes decir y vives de eso, es que vives de eso.
@@ -765,11 +767,12 @@
 00:33:50.080|Roberto Vaquero|pero hay que ver sus condiciones materiales de vida,
 00:33:52.440|Roberto Vaquero|porque a lo mejor sus condiciones materiales de vida son mejores que las nuestras.
 00:33:55.440|Roberto Vaquero|Yo no tengo casa en propiedad, no he tenido esa oportunidad todavía
-00:33:59.680|Entrevistador|y no me hago el mártir por ello, pero es que hay gente que vive de hacerse el mártir.
+00:33:59.680|Roberto Vaquero|y no me hago el mártir por ello, pero es que hay gente que vive de hacerse el mártir.
 00:34:03.320|Roberto Vaquero|Es lo que dices tú, de que si no hay una bandera coge otra, le da igual.
 00:34:06.680|Roberto Vaquero|Y sigue un discurso que dicen todos él mismo, que es repulsivo.
 00:34:10.280|Roberto Vaquero|Yo lo veo, por ejemplo, que esto me insultará mucho la gente luego,
 00:34:13.160|Roberto Vaquero|con el tema de los portavoces del rollo ecologista.
+00:33:59.680|Entrevistador|y no me hago el mártir por ello, pero es que hay gente que vive de hacerse el mártir.
 00:34:16.880|Roberto Vaquero|Yo defiendo la sostenibilidad del planeta, yo creo en la ecología,
 00:34:19.840|Roberto Vaquero|pero no en el ecologismo este.
 00:34:21.640|Roberto Vaquero|O sea, esto es ridículo, es reírse a la gente.
@@ -782,7 +785,6 @@
 00:34:41.640|Roberto Vaquero|Es decir, a mí vi una charla que dieron que era
 00:34:44.440|Roberto Vaquero|tenéis que poner cara de enfadada, hacer así.
 00:34:46.680|Roberto Vaquero|Es como un cursillo de lobotomizar, de hacer a todo el mundo igual.
-00:34:50.880|Entrevistador|Entonces es que es una moda, es una moda y se ve clarísimo.
 00:34:50.880|Roberto Vaquero|Entonces es que es una moda, es una moda y se ve clarísimo.
 00:34:53.680|Roberto Vaquero|No les importa la sostenibilidad, porque la sostenibilidad es global.
 00:34:57.200|Roberto Vaquero|Si España deja de producir una cosa y se produce Coca Cola aquí, por ejemplo,
@@ -826,6 +828,7 @@
 00:36:52.000|Roberto Vaquero|A nuestros actos, nosotros usamos la republicana también,
 00:36:53.760|Roberto Vaquero|porque es una bandera de España.
 00:36:55.040|Roberto Vaquero|Pero, por ejemplo, cuando la gente viene con la rojigualdad normal, pues es que vengan.
+00:36:58.440|Roberto Vaquero|O sea, quiero decirte, me da igual, no es una ofensa,
 00:36:59.880|Roberto Vaquero|porque la gente se siente española, se ha criado aquí.
 00:37:02.400|Roberto Vaquero|Esa es la bandera con la que se ha criado.
 00:37:03.720|Roberto Vaquero|Y qué vas a hacer? Pues ya está, no pasa nada.
@@ -845,7 +848,9 @@
 00:37:41.320|Entrevistador|Creo que hiciste algo con él en tu canal Bertrand de Vox, por ejemplo.
 00:37:46.080|Entrevistador|Y hablaba con él algo que digo es que es totalmente cierto decir
 00:37:49.000|Entrevistador|pues, por ejemplo, íñigo de rejón, que te lo ves, las ropas que utilizan,
+00:37:54.400|Entrevistador|que te lo ves como el mensaje de intento vender pena lo que decías de los gestos.
 00:37:58.880|Entrevistador|No es un poco como que está todo estudiado.
+00:38:01.480|Entrevistador|Y digo yo cada vez que salgo a dar un paseo, cada dos por tres
 00:38:04.440|Entrevistador|te veo comiendo en arde que hay en el retiro, que no sé,
 00:38:08.640|Entrevistador|se dan 100, 200 pavos, no sé, nunca he comido ahí, pero digo vamos.
 00:38:13.200|Entrevistador|Y después es que solo te falta un agujero aquí en la camiseta
@@ -867,14 +872,18 @@
 00:39:05.120|Roberto Vaquero|Y yo digo, es que yo no interpreto un papel.
 00:39:07.040|Roberto Vaquero|La gente me dice, no, pero los políticos profesionales, yo no quiero ser político profesional.
 00:39:09.800|Roberto Vaquero|Yo no interpreto un papel. Yo sí, así.
+00:39:11.800|Roberto Vaquero|Y claro, es que son como todos calcados.
 00:39:14.200|Roberto Vaquero|Tú los ves y todos están como cortados un poco por el mismo patrón de típico portavoz
 00:39:21.000|Roberto Vaquero|Y a mí a nosotros eso no nos gusta.
 00:39:22.720|Roberto Vaquero|Y yo cuando apelo, sobre todo con el frente, nosotros nos centramos en varias cosas.
 00:39:27.000|Roberto Vaquero|A mí cuando los mítings me dicen, no, pero y tu medida concreta sobre no sé qué?
 00:39:30.600|Roberto Vaquero|Y es como, mira, la mayoría de los políticos hablan de medidas que jamás van a aplicar,
+00:39:40.240|Roberto Vaquero|Y lo que hacen es como reírse a la gente para conseguir votos.
 00:39:42.840|Roberto Vaquero|Nosotros nos vamos a enfocar en cinco cosas muy claras.
 00:39:45.400|Roberto Vaquero|Una es el patroteismo revolucionario,
+00:39:47.360|Roberto Vaquero|que es precisamente llamar a la patria y fusionarlo con la lucha de los trabajadores.
 00:39:50.600|Roberto Vaquero|El segundo es defender esa lucha.
+00:39:53.000|Roberto Vaquero|No puede ser que los sindicatos lleven sin hacer una huelga y sin hacer nada
 00:39:55.680|Roberto Vaquero|cuando hay problemas y apoyen reformas laborales, que hasta los liberales están de acuerdo con ella
 00:39:59.680|Roberto Vaquero|para que vean el carácter de clase que tiene.
 00:40:02.000|Roberto Vaquero|Esa reforma hay que se vayan a Francia, hacerse fotos porque van a subir la edad de jubilación
@@ -885,6 +894,9 @@
 00:40:21.560|Roberto Vaquero|de deconstrucción, de talleres de no sé qué, que es que nos dan igual.
 00:40:24.560|Roberto Vaquero|Esos no son problemas que afectan a los trabajadores,
 00:40:26.040|Roberto Vaquero|por eso los sindicatos cada vez tienen menos afiliados.
+00:40:29.080|Roberto Vaquero|Otra cuestión es el tema de la inmigración y del modelo migratorio,
+00:40:32.360|Roberto Vaquero|de que hay que cambiar el modelo migratorio de forma inmediata para no convertirnos en Francia,
+00:40:36.120|Roberto Vaquero|y los otros dos son la lucha contra la partitocracia,
 00:40:38.400|Roberto Vaquero|lo que hemos dicho de izquierda y derecha, que nosotros pensamos que el régimen en sí
 00:40:41.800|Roberto Vaquero|no tiene salvación posible, el de aquí, porque en general los problemas que tenemos
 00:40:45.040|Roberto Vaquero|y hace falta algo nuevo, un proceso constituyente para hacer algo nuevo
@@ -898,6 +910,7 @@
 00:41:09.640|Roberto Vaquero|Y eso es un síntoma de que han abandonado toda referencia
 00:41:13.800|Roberto Vaquero|o toda propuesta de resolución de los problemas que afectan a los trabajadores.
 00:41:18.240|Roberto Vaquero|Y nosotros nos vamos a centrar en esas cinco cosas.
+00:41:20.240|Roberto Vaquero|Todo lo demás para nosotros es secundario. Eso es lo importante.
 00:41:22.960|Roberto Vaquero|No tenemos un programa en Internet, tenemos un programa resumido también,
 00:41:25.960|Roberto Vaquero|pero eso es en lo que nos vamos a centrar.
 00:41:27.320|Roberto Vaquero|Yo no digo, yo no hablo de medidas que sí, algún día haremos.
@@ -906,23 +919,28 @@
 00:41:38.120|Roberto Vaquero|Mohamed VI, no sé si lo has visto. No.
 00:41:40.240|Roberto Vaquero|Bueno, pues soltamos una lona y salía denunciando lo que está haciendo Marrocos en España
 00:41:46.520|Roberto Vaquero|y salen besándose en Mohamed VI y Pedro Sánchez.
+00:41:49.600|Roberto Vaquero|Y claro, nos han amenazado de muerte, nos han llamado a hacer atentados,
 00:41:54.400|Roberto Vaquero|nos han denunciado, han atacado la lona.
 00:41:56.880|Roberto Vaquero|Las amenazas y demás por parte de.
-00:41:56.880|Entrevistador|Las amenazas y demás por parte de.
+00:41:58.560|Roberto Vaquero|De islamistas locos de Marrocos, que yo creo que.
 00:42:01.080|Roberto Vaquero|Pero individuales.
 00:42:02.200|Roberto Vaquero|No, no, al frente. Sí, sí, individuales.
 00:42:04.680|Roberto Vaquero|Fui mostrando en Topic en Argelia, claro, porque los argelinos han aprovechado para reírse.
-00:42:01.080|Entrevistador|Pero individuales.
 00:42:09.320|Roberto Vaquero|Y nada, intentan atacarnos en sitios.
 00:42:11.680|Roberto Vaquero|Lo que pasa es que nosotros no somos muy impresionables, porque como ya tenemos
+00:42:14.680|Roberto Vaquero|ya tenemos las hostias duras de la época de lo de Siria y todo eso,
 00:42:17.120|Roberto Vaquero|que los turcos también en ese sentido son dar más tomar, pues nos da un poco igual.
 00:42:20.440|Roberto Vaquero|Pero simplemente es para poner un ejemplo de que la gente vea que no está igual.
 00:42:24.320|Roberto Vaquero|O sea, que a mí ahora mismo puedo salir aquí y me pueden hacer no sé qué,
 00:42:26.880|Roberto Vaquero|pero que me da igual.
 00:42:28.240|Roberto Vaquero|Nosotros somos gente, somos gente dura y promovemos que la gente sea así.
+00:42:32.520|Roberto Vaquero|Y entre las dificultades lo que hay que hacer es crecerse, no hacerse pequeño
 00:42:35.600|Roberto Vaquero|y decir que tienes ansiedad.
 00:42:36.720|Roberto Vaquero|Cuando la tengas, yo creo que hay que petar los puños, salir del problema
 00:42:39.720|Roberto Vaquero|y luego ya después ya lo demás se solucionará.
+00:42:42.000|Roberto Vaquero|Claro, porque cómo?
+00:42:01.080|Entrevistador|Pero individuales.
+00:42:02.200|Entrevistador|No, no, al frente. Sí, sí, individuales.
 00:42:44.120|Entrevistador|Cómo ves a la sociedad que se está debilitando sin duda de cara al futuro?
 00:42:48.800|Entrevistador|O sea, crees que vienen tiempos difíciles y que les va a costar
 00:42:52.600|Entrevistador|navegar esos esos mares?
@@ -935,9 +953,10 @@
 00:43:14.640|Roberto Vaquero|él ha demostrado que si se declara la guerra realmente
 00:43:17.840|Roberto Vaquero|a ciertas cuestiones, se puede llegar a solucionar.
 00:43:20.960|Roberto Vaquero|Pero ha sido un país en guerra para poder conseguirlo.
-00:43:24.160|Entrevistador|Y que vienen tiempos así, vienen tiempos muy complicados
+00:43:24.160|Roberto Vaquero|Y que vienen tiempos así, vienen tiempos muy complicados
 00:43:26.880|Roberto Vaquero|y que va a haber dos opciones.
 00:43:28.120|Roberto Vaquero|Una, disolvernos y ser algo nuevo
+00:43:30.720|Roberto Vaquero|o otra, agarrar el todo por los puños y pelear por lo que somos.
 00:43:33.640|Roberto Vaquero|Y nosotros nos estamos preparando para esa opción,
 00:43:35.720|Roberto Vaquero|porque yo creo que es lo que va a pasar.
 00:43:37.000|Roberto Vaquero|De hecho, en Francia creo que va a pasar antes que aquí.
@@ -958,9 +977,11 @@
 00:44:21.280|Roberto Vaquero|por ejemplo, tenemos una agresión juvenil muy grande.
 00:44:23.000|Roberto Vaquero|Es lo más fuerte que tenemos, que eso es síntoma de futuro.
 00:44:26.560|Roberto Vaquero|La gente cuando viene, fomentamos que la gente entrene, que la gente estudie,
+00:44:31.360|Roberto Vaquero|que la gente pues que termine, claro,
 00:44:33.040|Roberto Vaquero|porque mucha gente viene a veces de determinados barrios
 00:44:35.120|Roberto Vaquero|o de problemáticas que la gente no quiere estudiar ni quiere hacer nada.
 00:44:38.400|Roberto Vaquero|Y nosotros decimos a la gente que tiene que ser productiva
+00:44:40.480|Roberto Vaquero|y que tiene que conseguir capacitarse, porque una persona,
 00:44:44.080|Roberto Vaquero|si tiene capacidades, puede aportar mucho a lo colectivo.
 00:44:46.480|Roberto Vaquero|Si una persona no sabe hacer nada, no puede aportar nada.
 00:44:49.400|Roberto Vaquero|Tú puedes ser mucha gente, pero en realidad no vale nada.
@@ -972,6 +993,7 @@
 00:45:02.560|Roberto Vaquero|Lo que hay que hacer es capacitar a la gente,
 00:45:04.080|Roberto Vaquero|que la gente tenga capacidad crítica, que la gente sea inteligente,
 00:45:06.760|Roberto Vaquero|que la gente esté formada.
+00:45:08.320|Roberto Vaquero|Porque la mayoría de las organizaciones lo que hacen es tener gente lobotomizada,
 00:45:11.600|Roberto Vaquero|que sabe mucho de los manuales que hacen de repetir cosas,
 00:45:15.320|Roberto Vaquero|pero no son críticos,
 00:45:16.320|Roberto Vaquero|porque ellos no quieren que nadie sea crítico con lo que hacen.
@@ -980,6 +1002,7 @@
 00:45:22.320|Roberto Vaquero|pero por cada uno que salga bien así,
 00:45:26.040|Roberto Vaquero|podrían salir 20 más, si quieren, que me daría igual.
 00:45:27.880|Roberto Vaquero|Sería un éxito, que no es el caso, pero sería un éxito.
+00:45:30.480|Roberto Vaquero|Porque queremos formar a gente con capacidad.
 00:45:32.760|Roberto Vaquero|Y yo, hay muchos chavales que han entrado en nuestras cosas,
 00:45:35.880|Roberto Vaquero|ya han entrado de que venían de udogarse, de ser unos alcohólicos,
 00:45:39.280|Roberto Vaquero|gente muy joven.
@@ -1014,7 +1037,6 @@
 00:46:52.440|Roberto Vaquero|Porque una persona sin palabra, ¿qué nos diferencia de un animal?
 00:46:56.320|Roberto Vaquero|De verdad te lo digo.
 00:46:57.480|Roberto Vaquero|O sea, yo a la gente intento fomentar ese tipo de cosas.
-00:47:01.160|Roberto Vaquero|El compañerismo, o sea, determinadas cosas que en la sociedad
 00:47:03.480|Roberto Vaquero|están como muy devaluadas y que yo creo que no tienen que ser así.
 00:47:06.680|Roberto Vaquero|Por ejemplo, en muchos grupos de izquierda se fomenta el no ser competitivo, ¿no?
 00:47:11.480|Roberto Vaquero|Tú si no eres competitivo, competitivo en el sentido de que te afecte
@@ -1032,7 +1054,6 @@
 00:47:40.480|Roberto Vaquero|Y eso es que es para la política y para todo.
 00:47:43.200|Entrevistador|Es súper paradójico hablar contigo, de verdad.
 00:47:45.200|Entrevistador|Ya sé que esto no pega mucho, pero es lo que pienso de verdad.
-00:47:45.200|Roberto Vaquero|Ya sé que esto no pega mucho, pero es lo que pienso de verdad.
 00:47:48.160|Entrevistador|Pero y no había escuchado esta parte de tu mensaje en concreto,
 00:47:51.880|Entrevistador|pero de verdad te felicito porque me parece...
 00:47:54.200|Entrevistador|O sea, me parece que es algo tan simple, tan básico,
@@ -1045,6 +1066,7 @@
 00:48:17.040|Entrevistador|es que son los cuatro pilares que lo que has dicho tú,
 00:48:19.760|Entrevistador|la preparación que tratas de darle a los jóvenes, entiendo, sobre todo.
 00:48:24.480|Entrevistador|Cuando yo hablo de la cultura militante,
+00:47:45.200|Roberto Vaquero|Ya sé que esto no pega mucho, pero es lo que pienso de verdad.
 00:48:24.480|Roberto Vaquero|Cuando yo hablo de la cultura militante,
 00:48:26.080|Roberto Vaquero|que a nivel de cultura de cómo debería ser cualquier persona
 00:48:28.080|Roberto Vaquero|desde mi punto de vista,
@@ -1067,7 +1089,6 @@
 00:49:00.640|Roberto Vaquero|Ni lo sabe, solo está consumiendo y está adicto total.
 00:49:03.800|Roberto Vaquero|Está bien usar las redes, está bien usar las tecnologías,
 00:49:06.400|Roberto Vaquero|está bien usar todo, pero que sea un instrumento para tú crecer, no.
-00:49:03.800|Entrevistador|Está bien usar las redes, está bien usar las tecnologías,
 00:49:10.520|Roberto Vaquero|No algo que te destruye, que tengas una dependencia enfermiza.
 00:49:13.320|Roberto Vaquero|Y eso pasa con el alcohol, con la... Yo no bobo alcohol, por ejemplo.
 00:49:16.440|Roberto Vaquero|Y hay gente que me parece bien, que si quiere beber, que haga lo que quiera,
@@ -1100,7 +1121,6 @@
 00:50:16.720|Roberto Vaquero|Totalmente.
 00:50:17.120|Roberto Vaquero|Y es que no tiene nada que ver con la ideología.
 00:50:18.960|Roberto Vaquero|Es como una forma de entender el desarrollo de persona.
-00:50:16.720|Entrevistador|Totalmente.
 00:50:17.120|Entrevistador|Y es que no tiene nada que ver con la ideología.
 00:50:23.400|Entrevistador|Pues mira, a ver, yo me considero emprendedor por naturaleza
 00:50:26.200|Entrevistador|y la verdad que el mensaje va muy ligado.
@@ -1119,10 +1139,11 @@
 00:51:07.560|Roberto Vaquero|Y yo creo que ahí es donde diferimos.
 00:51:09.760|Roberto Vaquero|Pero priorizas, digamos, la comunidad antes que el individuo.
 00:51:14.320|Entrevistador|Sí, sí.
-00:51:14.320|Roberto Vaquero|Sí, sí.
 00:51:15.680|Entrevistador|Yo creo que ahí está el punto.
-00:51:19.360|Roberto Vaquero|Por supuesto.
+00:51:14.320|Roberto Vaquero|Sí, sí.
+00:51:19.360|Entrevistador|Por supuesto.
 00:51:20.840|Entrevistador|Pero creo que para lo colectivo también hay que ser emprendedor en el sentido de
+00:51:19.360|Roberto Vaquero|Por supuesto.
 00:51:20.840|Roberto Vaquero|Pero creo que para lo colectivo también hay que ser emprendedor en el sentido de
 00:51:25.720|Roberto Vaquero|construir. Es que hay mucha gente que le gusta conseguir un trabajo,
 00:51:28.040|Roberto Vaquero|por ejemplo, se queda ahí y ya está.
@@ -1140,7 +1161,6 @@
 00:51:57.640|Roberto Vaquero|yo tengo que mirar también por el bien de mi familia.
 00:51:59.560|Roberto Vaquero|Pero es que mi familia no es algo individual.
 00:52:00.880|Roberto Vaquero|Es que también hay mucha gente que piensa, no, es que eso es individual.
-00:51:59.560|Entrevistador|Pero es que mi familia no es algo individual.
 00:52:04.360|Roberto Vaquero|Si es una familia, no es individual.
 00:52:06.960|Roberto Vaquero|Es una colectividad pequeña, pero no es algo individual.
 00:52:09.640|Roberto Vaquero|Y a mí hay gente que me tacha también de reaccionario por esto,
@@ -1205,6 +1225,7 @@
 00:55:15.720|Roberto Vaquero|con la inmigración, las fronteras, etcétera, sin soberanía nacional no podemos
 00:55:18.920|Roberto Vaquero|cambiarlo, ni desarrollar la industria, ni volver a tecnificar el campo y que eso
 00:55:22.760|Roberto Vaquero|empiece a funcionar.
+00:55:24.040|Roberto Vaquero|O sea, yo creo que eso es lo principal.
 00:55:25.720|Roberto Vaquero|Y la gente dice, esa medida la diría cualquiera, no un revolucionario.
 00:55:28.440|Roberto Vaquero|Pues vale, felicidades, pero yo creo que es lo que se necesita.
 00:55:31.200|Roberto Vaquero|Y creo que luego hay un déficit a la hora de, incluso desde un punto de vista de
@@ -1216,7 +1237,6 @@
 00:55:50.240|Roberto Vaquero|cargarse nuestra industria, no se ha hecho un referéndum para que se dejen
 00:55:53.360|Roberto Vaquero|tierras sin producción en Andalucía y lo compramos de Marruecos, o las
 00:55:56.440|Roberto Vaquero|relaciones con Marruecos, eso no se ha votado en ningún sitio.
-00:55:59.080|Entrevistador|Entonces yo creo que por eso tiene que haber un cambio constituyente, de que
 00:55:59.080|Roberto Vaquero|Entonces yo creo que por eso tiene que haber un cambio constituyente, de que
 00:56:02.400|Roberto Vaquero|haya una nueva Constitución, que realmente solucione ciertos problemas.
 00:56:06.520|Roberto Vaquero|Por ejemplo, el tema de los independentistas.
@@ -1237,9 +1257,11 @@
 00:56:52.960|Roberto Vaquero|No les veo hacer eso. Al revés, Podemos sacó un documento que era como su
 00:56:56.280|Roberto Vaquero|programa con la Constitución.
 00:56:58.200|Roberto Vaquero|Vale, Vox con el tema de la monarquía y todo esto igual.
+00:57:01.000|Roberto Vaquero|De hecho, con la campaña contra Mohamed VI, como es monarquía con monarquía,
 00:57:04.520|Roberto Vaquero|les hemos adelantado por todos los lados.
 00:57:07.320|Roberto Vaquero|Y creo que en ese sentido ahí se ve, ahí se ve que aunque los dos quieren hacer
 00:57:11.200|Roberto Vaquero|pequeños cambios, los dos, o sea, los dos partidos, aunque sean en direcciones
+00:55:56.440|Entrevistador|relaciones con Marruecos, eso no se ha votado en ningún sitio.
 00:57:15.480|Roberto Vaquero|opuestas, veo que en el fondo es como los partidos muleta de los grandes.
 00:57:20.480|Roberto Vaquero|Y esto lo hablo yo con mucho, es que voy a decir una cosa, que lo mismo la gente
 00:57:24.040|Roberto Vaquero|se vuelve loca, pero yo, por ejemplo, me hablo a gente que son diputados de Podemos
@@ -1247,6 +1269,7 @@
 00:57:30.160|Roberto Vaquero|estábamos todos en la juventud comunista.
 00:57:31.520|Roberto Vaquero|Entonces sí, hay mucha gente que me odia, que lo que tú quieras,
 00:57:33.800|Roberto Vaquero|pero a un tío que le conoces hace 25 años, 20,
+00:57:37.400|Roberto Vaquero|porque te sigues hablando con él y ahí me hablan y me cuentan las cosas.
 00:57:40.080|Roberto Vaquero|Y tengo y con gente de Vox también.
 00:57:42.160|Roberto Vaquero|Y yo se lo digo.
 00:57:43.520|Roberto Vaquero|Y la respuesta es ya, pero es que así por lo menos hacemos algo.
@@ -1255,6 +1278,7 @@
 00:57:51.920|Roberto Vaquero|Yo conozco gente en Vox que es muy antitaurina.
 00:57:56.880|Roberto Vaquero|piensan que las medidas que decimos nosotros son mucho más precisas
 00:58:00.320|Roberto Vaquero|y que tocamos el tema de una forma más general también.
+00:58:03.760|Roberto Vaquero|No lo van a decir nunca públicamente.
 00:58:05.400|Roberto Vaquero|A mí hay gente que ahora está en su mar,
 00:58:08.600|Roberto Vaquero|pero gente que han sido diputados de aquí, de Madrid, de la comunidad.
 00:58:13.160|Roberto Vaquero|Y a mí con cosas que hacemos, por ejemplo, de lucha obrera de los sindicatos
@@ -1262,8 +1286,8 @@
 00:58:20.120|Roberto Vaquero|pero jamás lo dirán, porque les quitan, les quitan.
 00:58:20.120|Entrevistador|pero jamás lo dirán, porque les quitan, les quitan.
 00:58:23.360|Entrevistador|Pero y ahora que lo mencionaste, a nivel migratorio, cuál es la propuesta?
+00:58:26.880|Roberto Vaquero|Bueno, esto es un tema que me puedo tirar 15 horas aquí hablando contigo.
 00:58:29.440|Roberto Vaquero|De hecho, tengo un libro que no llego a saber, te lo traigo,
-00:58:29.440|Entrevistador|De hecho, tengo un libro que no llego a saber, te lo traigo,
 00:58:31.720|Roberto Vaquero|pero bueno, un día que pase por tu tribunal te lo traigo si quieres.
 00:58:34.280|Roberto Vaquero|Yo, en primer lugar, hay una cuestión de concepción.
 00:58:36.880|Roberto Vaquero|Es decir, el problema no es la inmigración en sí ni el inmigrante en sí,
@@ -1277,7 +1301,8 @@
 00:59:00.520|Roberto Vaquero|Pues yo creo que hay unos síntomas muy claros.
 00:59:02.560|Roberto Vaquero|El primero es que el paro ya no solo nacional,
 00:59:05.200|Roberto Vaquero|sino que la población inmigrante tiene un paro importante.
-00:59:08.840|Roberto Vaquero|El paro juvenil que hay en el país, que es en torno al 30%,
+00:58:29.440|Entrevistador|De hecho, tengo un libro que no llego a saber, te lo traigo,
+00:58:50.800|Entrevistador|inmigración va a haber en el futuro. La cuestión es la masividad.
 00:59:11.280|Roberto Vaquero|creo que también demuestra que hay trabajos muy precarios,
 00:59:13.920|Roberto Vaquero|que hay gente que no está dispuesta a cogerlos.
 00:59:15.960|Roberto Vaquero|¿Por qué? Porque son unas condiciones que solo va a aceptar alguien
@@ -1285,6 +1310,7 @@
 00:59:20.160|Roberto Vaquero|Hace poco había un caso de que salieron unas ofertas de trabajo en Andalucía
 00:59:24.200|Roberto Vaquero|que decían que no tenían mano de obra.
 00:59:26.800|Roberto Vaquero|Y un chico de los que me escribió a mí me dijo,
+00:59:30.040|Roberto Vaquero|oye, es que he pedido cuánto dinero ganas con esto
 00:59:34.080|Roberto Vaquero|y yo me tengo que trasladar de la ciudad porque yo vivo en una casa.
 00:59:36.680|Roberto Vaquero|Dice, me cuesta más ir hasta allí que lo que me pagan.
 00:59:38.720|Roberto Vaquero|¿Por qué? Porque es una oferta de trabajo que está diseñada para ir
@@ -1327,8 +1353,10 @@
 01:01:13.520|Roberto Vaquero|que te acabo de decir que llegó el año pasado.
 01:01:16.080|Roberto Vaquero|En números, mucha menos gente.
 01:01:17.720|Roberto Vaquero|Incluso la inmigración ilegal masivamente viene en avión.
+01:01:20.400|Roberto Vaquero|Viene en avión, vienen aquí y luego se regularizan con el tiempo.
 01:01:24.920|Roberto Vaquero|Eso también habría de controlar. El problema del sur es la seguridad.
 01:01:26.960|Roberto Vaquero|No sabes quién viene.
+01:01:28.320|Roberto Vaquero|Porque hay gente que no es que huya que es refugiado político,
 01:01:30.880|Roberto Vaquero|sino que es a lo mejor un violador y viene para acá,
 01:01:33.360|Roberto Vaquero|que rompe los papeles, llega aquí, no soy nadie,
 01:01:35.240|Roberto Vaquero|y luego aquí se dedica a hacer sus cosas.
@@ -1345,6 +1373,9 @@
 01:02:03.320|Roberto Vaquero|y hay que acabar con el efecto llamada.
 01:02:05.440|Roberto Vaquero|¿Cómo se hace eso? Pues como en Australia.
 01:02:06.920|Roberto Vaquero|Australia lo que hizo fue montar un puerto,
+01:02:09.680|Roberto Vaquero|que es donde cogen a la gente, cuando viene la gente con las mafias,
+01:02:13.840|Roberto Vaquero|sacaron al ejército al mar, tienen control, un bloqueo.
+01:02:17.680|Roberto Vaquero|O sea, chalupa o patera que llega la cogen,
 01:02:19.920|Roberto Vaquero|bajan a los inmigrantes, los llevan al puerto seguro,
 01:02:22.320|Roberto Vaquero|de allí los mandan directamente a su país,
 01:02:23.680|Roberto Vaquero|es decir, el índice de éxito ahora de llegar allí es cero,
@@ -1364,8 +1395,10 @@
 01:03:00.920|Roberto Vaquero|yo estoy curado de espanto.
 01:03:02.080|Roberto Vaquero|Yo lo que pienso lo digo y si le gusta bien y si no,
 01:03:04.400|Roberto Vaquero|pues que me linchen, me da lo mismo.
+01:03:06.560|Roberto Vaquero|Sobre los visados, hay que dejar de entregar tanto visado,
 01:03:08.800|Roberto Vaquero|no puede ser que vengan en ese balance
 01:03:12.320|Roberto Vaquero|más de medio millón al año, no es normal.
+01:03:14.640|Roberto Vaquero|Y luego lo que hay que hacer es fomentar que los trabajos
 01:03:17.760|Roberto Vaquero|tengan unas condiciones dignas y hacer que la juventud que está en el paro
 01:03:20.600|Roberto Vaquero|y los tres millones de parados que tenemos,
 01:03:22.640|Roberto Vaquero|pues ir metiéndoles.
@@ -1381,6 +1414,7 @@
 01:03:48.720|Roberto Vaquero|También le decían a Bukele,
 01:03:49.920|Roberto Vaquero|no, pero es que si pasa esto se va a incrementar la violencia y va,
 01:03:52.760|Roberto Vaquero|y se incrementó, pero luego se acabó.
+01:03:54.840|Roberto Vaquero|Entonces, a mí lo que me importa es solucionar el problema.
 01:03:57.120|Roberto Vaquero|Toda esta izquierda dice, no, es que hay que decrecer,
 01:04:00.800|Roberto Vaquero|ellos lo dicen, hay que decrecer a todos los niveles.
 01:04:03.120|Roberto Vaquero|Bueno, pues si tanto les gusta el decrecimiento,
@@ -1426,8 +1460,8 @@
 01:05:39.040|Roberto Vaquero|que seguramente además tiene una media edad altísima?
 01:05:42.040|Roberto Vaquero|Es imposible.
 01:05:42.960|Entrevistador|Y es que tendemos a congregarnos también.
-01:05:45.120|Roberto Vaquero|Claro.
-01:05:45.840|Roberto Vaquero|En todos los lugares del mundo.
+01:05:45.120|Entrevistador|Claro.
+01:05:45.840|Entrevistador|En todos los lugares del mundo.
 01:05:47.560|Roberto Vaquero|Por eso hay que hacer algo ya con el tema de la masividad.
 01:05:51.120|Roberto Vaquero|Pero es que la inmigración, el problema no es la ilegal, es el modelo.
 01:05:54.200|Roberto Vaquero|Porque la inmigración legal de que venga medio millón al año
@@ -1449,7 +1483,6 @@
 01:06:25.480|Roberto Vaquero|Y las políticas que se hacen ahora.
 01:06:27.160|Roberto Vaquero|Y es un problema grave.
 01:06:28.000|Roberto Vaquero|Es que fíjate si es grave que la ONU o otros países,
-01:06:25.480|Entrevistador|Y las políticas que se hacen ahora.
 01:06:31.000|Roberto Vaquero|para calcular, por ejemplo, cuántos inmigrantes hay en un país,
 01:06:33.800|Roberto Vaquero|lo calculan en base a la gente que no ha nacido en el país.
 01:06:38.280|Roberto Vaquero|En España, por ejemplo, no se hace así.
@@ -1532,6 +1565,7 @@
 01:10:19.400|Roberto Vaquero|Eso es una perspectiva un poco más personal tuya, el tema del comunismo.
 01:10:19.400|Entrevistador|Eso es una perspectiva un poco más personal tuya, el tema del comunismo.
 01:10:22.520|Entrevistador|Ah, vale, no sabía.
+01:10:23.520|Entrevistador|Pero el frente no.
 01:10:22.520|Roberto Vaquero|Ah, vale, no sabía.
 01:10:23.520|Roberto Vaquero|Pero el frente no.
 01:10:24.280|Roberto Vaquero|O sea, el frente lo que apuesta es por, bueno, por un...
@@ -1553,6 +1587,7 @@
 01:11:11.600|Roberto Vaquero|porque para ellos los sujetos oprimidos son otros, no los trabajadores.
 01:11:15.480|Entrevistador|Claro, o sea que no se quiere ir por las ramas,
 01:11:17.080|Entrevistador|si no tienen los pilares claros a defender esto.
+01:11:19.520|Entrevistador|Esto que tú estoy diciendo, nos ves en cualquier sitio lo que sea
 01:11:19.520|Roberto Vaquero|Esto que tú estoy diciendo, nos ves en cualquier sitio lo que sea
 01:11:22.280|Roberto Vaquero|y vas a decir, es lo mismo.
 01:11:23.880|Roberto Vaquero|Pues yo no engaño a nadie.
@@ -1580,7 +1615,8 @@
 01:12:27.000|Roberto Vaquero|No me vas a ver ya en sitios defendiendo cosas que no sean lo del frente.
 01:12:30.640|Roberto Vaquero|No sé que me pregunten por mi opinión personal,
 01:12:34.040|Roberto Vaquero|pero nosotros el Frente Obrero no aspira ahora a...
-01:12:39.360|Entrevistador|A implantar el comunismo.
+01:12:39.360|Roberto Vaquero|A implantar el comunismo.
+01:12:14.640|Entrevistador|porque soy un tío con empuje, soy un tío con carisma,
 01:12:40.320|Entrevistador|No, no, es que no es comunista.
 01:12:42.400|Entrevistador|Es que de verdad no es comunista.
 01:12:40.320|Roberto Vaquero|No, no, es que no es comunista.
@@ -1628,7 +1664,6 @@
 01:14:30.600|Roberto Vaquero|Claro.
 01:14:31.080|Roberto Vaquero|Es una cuestión como más ideológica y más intelectual
 01:14:33.280|Roberto Vaquero|en el sentido de cuál sería nuestro modelo ideal de cuestiones.
-01:14:30.600|Entrevistador|Claro.
 01:14:39.120|Roberto Vaquero|Pero yo te digo, es que yo estoy centrado en lo que he dicho.
 01:14:42.000|Roberto Vaquero|O sea, yo no, con el frente, no estoy llamando a la revolución socialista
 01:14:45.440|Roberto Vaquero|porque es que es estúpido.
@@ -1642,7 +1677,6 @@
 01:15:07.000|Roberto Vaquero|eso no es la revolución tampoco.
 01:15:08.360|Roberto Vaquero|Y es que eso es a lo que se dedica esa gente.
 01:15:10.120|Roberto Vaquero|Entonces yo, es como que todo lo friki, como que me he separado de ello.
-01:15:10.120|Entrevistador|Entonces yo, es como que todo lo friki, como que me he separado de ello.
 01:15:14.680|Roberto Vaquero|Incluso el rollo friki rojo, que para mí parece, perdón que lo voy a decir,
 01:15:18.680|Roberto Vaquero|pero como un poco de pajillero.
 01:15:19.640|Roberto Vaquero|O sea, es una cosa que no le ve el sentido.
@@ -1654,6 +1688,7 @@
 01:15:38.280|Roberto Vaquero|hacer con la realidad que hay.
 01:15:39.920|Roberto Vaquero|Y creo que, mira, voy a poner un ejemplo histórico, si me permite.
 01:15:43.160|Roberto Vaquero|Sí, sí.
+01:14:30.600|Entrevistador|Claro.
 01:15:45.200|Roberto Vaquero|Es que la gente, incluso cuando se habla de los bolcheviques,
 01:15:49.920|Roberto Vaquero|etcétera, una de las consignas con las que se hicieron grandes
 01:15:53.280|Roberto Vaquero|era paz, pan y tierra.
@@ -1680,7 +1715,7 @@
 01:16:56.760|Roberto Vaquero|respétate un poco y déjanos hacer, porque lo importante es hacer cosas y
 01:17:01.680|Roberto Vaquero|hacer esas cosas en provecho de lo que crees.
 01:17:04.440|Roberto Vaquero|Y creo que estar autorizando sobre cosas imaginarias ahora mismo es la
-01:17:09.760|Roberto Vaquero|palabra, es la palabra, es imaginario, es humo, está en el aire,
+01:17:09.760|Entrevistador|palabra, es la palabra, es imaginario, es humo, está en el aire,
 01:17:13.480|Entrevistador|está flotando todo y yo era así antes.
 01:17:16.320|Roberto Vaquero|Yo cuando llevo 20 años, bueno, 21 años militando y tengo 37 años y
 01:17:21.240|Roberto Vaquero|hago 21 años militando, o sea, yo llevo toda la vida dentro de grupos
@@ -1691,8 +1726,10 @@
 01:17:37.800|Roberto Vaquero|es que ese es el problema.
 01:17:38.960|Roberto Vaquero|Entonces como no sigo Pax, dije, fuera, me voy.
 01:17:41.160|Roberto Vaquero|Yo quiero hacer algo coherente.
+01:17:43.080|Entrevistador|Oye, antes de cerrar el podcast, si quieres, comenta un poquito dónde te
 01:17:47.320|Entrevistador|pueden encontrar.
 01:17:49.040|Entrevistador|No sé si estás activo en Twitch o algo así también.
+01:17:52.040|Entrevistador|Yo en todas las redes soy Roberto Baquero.
 01:17:52.040|Roberto Vaquero|Yo en todas las redes soy Roberto Baquero.
 01:17:55.040|Roberto Vaquero|Yo hago mucho YouTube sobre todo y ahí donde pongo las novedades de cuando
 01:17:58.800|Roberto Vaquero|saco libros, artículos, cuando hago lo que sea.
@@ -1703,4 +1740,3 @@
 01:18:14.160|Entrevistador|La verdad es que me gustó la conversación.
 01:18:15.760|Entrevistador|Ha sido un placer, un placer venir.
 01:18:17.040|Entrevistador|Gracias.
-01:18:17.040|Roberto Vaquero|Gracias.
