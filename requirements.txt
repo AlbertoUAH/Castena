@@ -384,8 +384,6 @@ requirements-parser==0.5.0
 rfc3986==1.5.0
 rich==13.6.0
 rpds-py==0.10.4
-rpy2==3.4.2
-rsa==4.9
 safetensors==0.4.0
 scikit-image==0.19.3
 scikit-learn==1.2.2
