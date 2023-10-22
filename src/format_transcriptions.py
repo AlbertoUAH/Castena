@@ -91,6 +91,6 @@ for original_transcription in list_original_transcriptions:
 		
 		# -- Save text as .txt file
 		with open(BASE_DIR + '/data/translated_transcriptions/' + original_transcription, 'w') as f:
-			json.dump(result_text, f)
+			f.write(result_text)
 
 print("Processing finished successfully!")
