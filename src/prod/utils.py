@@ -9,7 +9,6 @@ from   langchain.text_splitter     import RecursiveCharacterTextSplitter
 from   langchain.chains            import RetrievalQA
 from   langchain.document_loaders  import TextLoader
 from   langchain.embeddings        import HuggingFaceEmbeddings
-from   langchain.prompts           import PromptTemplate
 from   googletrans                 import Translator
 import streamlit as st
 import together
@@ -17,6 +16,8 @@ import textwrap
 import spacy
 import os
 import re
+
+os.environ["TOGETHER_API_KEY"] = "6101599d6e33e3bda336b8d007ca22e35a64c72cfd52c2d8197f663389fc50c5"
 
 # -- LLM class
 class TogetherLLM(LLM):
@@ -132,7 +133,7 @@ def setup_app(transcription_path, emb_model, model, _logger):
 
     # -- Make a retreiver
     retriever = vectordb.as_retriever(search_type="similarity_score_threshold",
-                                      search_kwargs={"k": 7, "score_threshold": 0.5})
+                                      search_kwargs={"k": 5, "score_threshold": 0.5})
     _logger.info('Creating document database - FINISHED!')
     _logger.info('Setup finished!')
     return translator, nlp, retriever
@@ -210,7 +211,7 @@ def time_to_seconds(time_str):
     return int((hours * 3600) + (minutes * 60) + seconds)
 
 def add_hyperlink_and_convert_to_seconds(text):
-    time_pattern = r'(\d{2}:\d{2}:\d{2}.\d{6})'
+    time_pattern = r'(\d{2}:\d{2}:\d{2}(.\d{6})?)'
     
     def replace_with_hyperlink(match):
         time_str = match.group(1)
@@ -222,7 +223,7 @@ def add_hyperlink_and_convert_to_seconds(text):
     return modified_text
 
 # -- Streamlit HTML template
-def typewrite(text:str):
+def typewrite(text, youtube_video_url):
     js = """var player, seconds = 0;
             function onYouTubeIframeAPIReady() {
                 console.log("player");
@@ -278,7 +279,9 @@ def typewrite(text:str):
           <script src="https://www.youtube.com/player_api"></script>
           <p>{text}</p>
           <br/>
-          <iframe id="player" type="text/html" src="https://www.youtube.com/embed/4sXT1tHVbjE?enablejsapi=1" scrolling="yes" frameborder="0" width="600" height="450"></iframe>
+          <p align="center">
+              <iframe id="player" type="text/html" src="{youtube_video_url}" scrolling="yes" frameborder="0" width="600" height="450"></iframe>
+          </p>
           <script>
             {js}
            </script>
