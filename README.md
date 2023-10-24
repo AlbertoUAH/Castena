@@ -31,8 +31,8 @@ This chatbot utilizes advanced natural language processing techniques to provide
     <a href="https://www.youtube.com/@TheWildProject">
         <img src="./media/wild_project_icon.png" alt="Wild Project" />
     </a>
-    <a href="https://www.youtube.com/@NegociosTV">
-        <img src="./media/negocios_tv.png" alt="Negocios TV" />
+    <a href="https://www.youtube.com/@WallStreetWolverine">
+        <img src="./media/wall_st_wolverine.jpeg" alt="Wall Street Wolverine" />
     </a>
     <a href="https://www.youtube.com/@marc_vidal">
         <img src="./media/marc_vidal_icon.jpeg" alt="Marc Vidal" />
