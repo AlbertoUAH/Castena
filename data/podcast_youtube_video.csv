@@ -1,3 +1,3 @@
-podcast_name;youtube_video_url
-'worldcast_roberto_vaquero';'https://www.youtube.com/embed/4sXT1tHVbjE?enablejsapi=1'
-'marc_vidal_jose_luis_cava';'https://www.youtube.com/embed/CBmTWyIbhI4?enablejsapi=1'
+podcast_name_lit;podcast_name;youtube_video_url
+'Worldcast: Entrevista a Roberto Vaquero';'worldcast_roberto_vaquero';'https://www.youtube.com/embed/4sXT1tHVbjE?enablejsapi=1'
+'Marc Vida: Entrevista a Jose Luis Cava';'marc_vidal_jose_luis_cava';'https://www.youtube.com/embed/CBmTWyIbhI4?enablejsapi=1'
