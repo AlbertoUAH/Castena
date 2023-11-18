@@ -44,6 +44,7 @@ This chatbot utilizes advanced natural language processing techniques to provide
 | [Worldcast #45 - Roberto Vaquero](https://www.youtube.com/watch?v=4sXT1tHVbjE) | Worldcast   | Politics | Available |
 | [Marc Vidal - entrevista a Jose Luis Cava](https://www.youtube.com/watch?v=CBmTWyIbhI4&t=1513s) | Marc Vidal   | Economy and Politics | Available soon |
 | [Wall Street Wolverine - entrevista a Samuel Vázquez](https://www.youtube.com/watch?v=-JSF3nmPI-Y) | Wall Street Wolverine | Politics and Society | Available soon |
+| [The Wild Project - entrevista a Operador Nuclear](https://www.youtube.com/watch?v=k1PvPo8Qa9g) | The Wild Project | Society | Available soon |
 
 ## Features
 
