@@ -1,5 +1,5 @@
-The following is set of summaries:
+Lo siguiente es una lista de resumenes en español:
 {doc_summaries}
-Take these and distill it into a final, consolidated summary of the main themes in detail.
-Separate every theme by \n
-Summary:
+Tómelos y descríbalos en un resumen final consolidado en español. Además, enumera los temas principales de la conversación en español.
+
+Resumen:

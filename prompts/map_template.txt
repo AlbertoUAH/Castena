@@ -1,4 +1,4 @@
-The following is a list of a conversation between two speakers
+Lo siguiente es un extracto de una conversación entre dos hablantes en español.
 {docs}
-Please summarise the conversation in detail
-Summary:
+Por favor resuma la conversación en español.
+Resumen:
