@@ -1,0 +1,908 @@
+00:05:00.000|Entrevistador|¿Qué tal? ¿Cómo estamos? ¿Se escucha bien? ¿Se ve bien?
+00:05:03.280|Entrevistador|Ya sabéis que lo primero que hay que controlar es que todo esto
+00:05:07.200|Entrevistador|esté funcionando perfectamente.
+00:05:08.480|Entrevistador|Y de esa manera continuaremos con el directo que hoy por fin
+00:05:13.240|Entrevistador|tenemos directo con invitado.
+00:05:14.760|Entrevistador|Y, además, un invitado que yo hace muchísimo tiempo quería
+00:05:17.280|Entrevistador|tener por aquí, que me lo habéis pedido un montón de veces y que,
+00:05:20.360|Entrevistador|no sé, no es hora para traerle un cafelito,
+00:05:22.400|Entrevistador|pero algo se tomará con nosotros.
+00:05:27.000|Entrevistador|Voy haciendo tiempo para que vayáis entrando todos.
+00:05:29.560|Entrevistador|Veo, en principio, que estamos en un ratio 1-2.
+00:05:32.360|Entrevistador|Es decir, tenemos más de 1,000 personas,
+00:05:33.960|Entrevistador|pero solo tenemos 500 likes.
+00:05:35.160|Entrevistador|Venga, darle un poquito para que el algoritmo de,
+00:05:37.360|Entrevistador|si es que hay algoritmo de YouTube,
+00:05:38.960|Entrevistador|nos lo levante un poquito.
+00:05:40.800|Entrevistador|Lo que quiero es agradeceros a todos los que entráis tanto por
+00:05:44.360|Entrevistador|YouTube como entráis por LinkedIn.
+00:05:46.840|Entrevistador|Estáis viendo el directo en ambas plataformas.
+00:05:49.320|Entrevistador|Hay gente desde León, desde Turquía, desde Arganda del Rey,
+00:05:52.760|Entrevistador|desde Huesca, desde Monzón, desde Málaga, desde Perú,
+00:05:56.960|Entrevistador|de todas partes.
+00:05:57.880|Entrevistador|Sois la hostia.
+00:05:59.280|Entrevistador|Esto es maravilloso tener a gente de todas partes del mundo,
+00:06:02.480|Entrevistador|por lo tanto, buenas noches a los de aquí,
+00:06:04.400|Entrevistador|buenas tardes a los de en medio y buenos días a los que están en
+00:06:07.080|Entrevistador|estos momentos todavía en las partes más, más,
+00:06:09.200|Entrevistador|más hacia la parte más del oeste de América.
+00:06:14.400|Entrevistador|Lo primero de deciros, tema de suplantación de identidad,
+00:06:17.440|Entrevistador|como cada directo os lo repito, porque así es como me lo ha
+00:06:20.560|Entrevistador|recomendado la Policía Nacional, sobre todo, por favor,
+00:06:23.800|Entrevistador|yo no recomiendo inversiones, yo no me pongo en contacto con
+00:06:26.680|Entrevistador|nadie de vosotros para deciros lo que tenéis que hacer con
+00:06:29.140|Entrevistador|dinero, eso nunca sucede y si tenéis ahí algún comentario de alguien que tiene mi
+00:06:33.040|Entrevistador|cara, mi nombre o simula de alguna manera muy cada vez lo hacen mejor en Telegram,
+00:06:37.900|Entrevistador|en Twitter, en YouTube, en Instagram, yo no soy, yo no lo hago, con lo cual le
+00:06:42.640|Entrevistador|podéis insultar, le podéis decir lo que queráis, pero sobre todo no atendáis a
+00:06:46.480|Entrevistador|sus recomendaciones ni para nada darle vuestros datos. Lo segundo es que ya a
+00:06:51.840|Entrevistador|partir de esta semana, empezamos con José Luis Cava como sabéis todos, pero ya cada
+00:06:55.840|Entrevistador|semana vamos a tener invitados, luego os diré la relación más o menos de los
+00:06:58.720|Entrevistador|invitados que tengo confirmados para los próximos lunes y eso será al final.
+00:07:03.400|Entrevistador|También os diré al final, fundamentalmente, dónde son algunas de
+00:07:08.140|Entrevistador|las conferencias próximas en las que nos podremos ver. De todos modos está
+00:07:12.000|Entrevistador|ya publicada en la en la pestaña comunidad y también está en Instagram y
+00:07:15.880|Entrevistador|por algún sitio más. Todas las fechas, todos los lugares, ahí en Brasil, ahí en
+00:07:19.920|Entrevistador|Ecuador, hay muchos sitios por ahí en los próximos tres meses, por lo cual
+00:07:22.760|Entrevistador|algunos de los que no nos hemos podido ver nunca porque no he estado por esos
+00:07:25.680|Entrevistador|países en los últimos meses, pues nos podremos ver.
+00:07:29.360|Entrevistador|El sorteo y los ganadores también lo diré al final,
+00:07:31.760|Entrevistador|aunque también está publicado.
+00:07:33.120|Entrevistador|Con lo cual, ya sabéis, si alguno no lo ha visto publicado
+00:07:36.840|Entrevistador|y quiere saber si ha ganado, pues tendrá que esperarse al
+00:07:39.480|Entrevistador|final de la entrevista de hoy.
+00:07:41.200|Entrevistador|Los pido el like.
+00:07:42.480|Entrevistador|Os pido también que comentéis, que digáis de dónde estáis
+00:07:46.240|Entrevistador|viendo este directo, que comentéis lo que os parece
+00:07:49.880|Entrevistador|tantas veces como consideréis.
+00:07:51.400|Entrevistador|Dad vuestra opinión a cada una de las preguntas y reflexiones
+00:07:54.040|Entrevistador|con José Luis Cava. Por supuesto que si queréis hacer alguna pregunta en
+00:07:57.520|Entrevistador|concreto al invitado pues sólo tenéis que ponerla ahí en algún tipo de
+00:08:00.760|Entrevistador|resaltado, que en este caso son los súper zangs o súper chat o como se llame, en el
+00:08:05.480|Entrevistador|que de verdad dejad el mínimo, la mínima cantidad, a menos que queráis hacer una
+00:08:09.600|Entrevistador|donación más grande, pero ya sabéis que yo ni Patreon ni suscripciones pagadas,
+00:08:14.720|Entrevistador|nada, a mí todo eso no me interesa y si estos vídeos están monetizados es
+00:08:19.240|Entrevistador|simplemente porque YouTube promociona mejor los vídeos monetizados y no
+00:08:23.160|Entrevistador|promociona para nada los que no están monetizados, porque a ellos les interesa
+00:08:26.580|Entrevistador|que se vean los que están monetizados. Vamos directamente a presentar ya aquí
+00:08:30.620|Entrevistador|al invitado de hoy que no es casi nadie, es el gran José Luis Cava. ¿Cómo estás
+00:08:36.180|Entrevistador|hombre? ¿No me oyes?
+00:08:54.540|Entrevistador|A ver, vamos a ver. Vamos a intentarlo hacer de nuevo. Te quito y te pongo. A ver. Prueba,
+00:09:03.860|Entrevistador|¿tienes algún tipo…? No, no, yo no te escucho. Pues mira que lo hemos probado antes de empezar.
+00:09:07.660|Entrevistador|A ver, ¿toda la gente me escucha a mí? ¿Tampoco? A ti sí, a mí sí, a ti no. ¿Tú a mí
+00:09:25.900|Entrevistador|no me escuchas, José Luis? Ok, haz una cosa, desconectate y conéctate, es lo mejor. Sales
+00:09:35.100|Entrevistador|y entras. Es la mejor manera. A mí sí que me escucháis, espero, porque si después
+00:09:42.300|Entrevistador|de todo este rollo que os he pegado no me habéis escuchado, veo que sí. Aquí todo
+00:09:46.220|Entrevistador|el mundo dice que sí, que se me escucha. Perfecto. Hace un segundo estábamos probando
+00:09:50.580|Entrevistador|el directo con José Luis, que siempre hacemos una previa. Vamos a ver si está aquí. Ahora
+00:09:57.700|Entrevistador|sí que me escucha, era un problemilla de Bolsa Cava.
+00:10:04.660|Entrevistador|Oye, José Luis, lo primero agradecerte que estés aquí, de verdad para mí, a mí me
+00:10:09.740|Entrevistador|hace mucha ilusión porque yo veo tus vídeos por la mañana y algún día me
+00:10:14.660|Entrevistador|lleva algún susto con tus vídeos como como seguramente alguno de los que han
+00:10:17.700|Entrevistador|visto los míos también, pero gracias tío, gracias por venir, la verdad es que para
+00:10:21.540|Entrevistador|mí es un gusto, un honor. Para mí sí que es un honor, yo también veo tus vídeos, ya
+00:10:26.500|Jose Luis Cava|te comentaba antes cuando hemos estado hablando que un íntimo amigo mío de
+00:10:29.520|Jose Luis Cava|Bruselas me dice tienes que ver a este hombre, tienes que ver a este hombre antes de
+00:10:33.820|Jose Luis Cava|hacer cualquier vídeo, entonces yo te seguí y te copié. Al revés, al revés, oye os
+00:10:39.800|Entrevistador|presento los que no sepáis quién es, que seguro que lo sabéis prácticamente todos,
+00:10:42.920|Entrevistador|sabéis que José Luis Cava es probablemente, él no lo dice pero yo lo sé, es
+00:10:46.280|Entrevistador|probablemente el analista independiente ahora mismo más reconocido en España,
+00:10:49.720|Entrevistador|lleva 30 años de experiencia en esta historia, sabéis que es un inversor
+00:10:52.760|Entrevistador|apasionado, él se denomina especulador en el buen sentido de la palabra, él hizo
+00:10:57.920|Entrevistador|ciencias empresariales, además estudios financieros en la CUNEF, comenzó en el
+00:11:01.220|Entrevistador|sector económico durante mucho tiempo en Banco Popular, cuando era Banco Popular,
+00:11:05.880|Entrevistador|donde estaba además en el Departamento de Bolsa, es autor de un libro que os
+00:11:09.800|Entrevistador|recomiendo, ya tiene su tiempo, pero es el arte de especular y además de un curso
+00:11:14.280|Entrevistador|online, él sí que sabe de esto y sí que sabe explicar qué se tiene que hacer, que
+00:11:19.000|Entrevistador|se llama un sistema de especulación que te cambiará la vida, podéis ir a su
+00:11:22.000|Entrevistador|página, está en la descripción y ahí os podéis informar de todo lo que
+00:11:27.000|Entrevistador|hace José Luis Cava. Lo primero, José Luis, vamos directos. ¿Aterrizaje suave, brusco
+00:11:33.480|Entrevistador|o no aterrizaje de la economía de Estados Unidos? Tú sueles hablar de que
+00:11:37.600|Entrevistador|el no aterrizaje va tomando fuerza. ¿Qué quiere decir todo esto? Bueno, nos hemos
+00:11:41.040|Jose Luis Cava|encontrado el siguiente hecho. Yo antes de nada hay un detalle que nadie suele
+00:11:45.480|Jose Luis Cava|comentar y yo creo que debemos de tener en cuenta. La gente habla del déficit
+00:11:49.640|Jose Luis Cava|público estadounidense. Tú ahora te coges el déficit público estadounidense y está
+00:11:52.640|Jose Luis Cava|en torno al 8%. La gente lo piensa y dice está con respecto a la
+00:11:57.640|Jose Luis Cava|gran crisis de 2008. Pues está a un nivel similar de la crisis de 2008. Pero yo no
+00:12:01.400|Jose Luis Cava|quiero que se fijen en ese dato. Yo lo que quiero es que se fijen que el gasto
+00:12:04.960|Jose Luis Cava|público, es decir, el dinero que controla el gobierno de los Estados Unidos, puede
+00:12:09.480|Jose Luis Cava|estar representando en orden del 30-32% del PIB de Estados Unidos. Por eso no se
+00:12:14.960|Jose Luis Cava|producen aterrizajes. No se produce un aterrizaje brusco primero porque los
+00:12:19.360|Jose Luis Cava|consumidores estadounidenses, como sabes bien, tenía un exceso de ahorro. Ese
+00:12:23.140|Jose Luis Cava|exceso de ahorro ya se lo han fundido. Y en segundo lugar, es que Biden está gastando como si no hubiera un mañana, es decir, es que
+00:12:30.300|Jose Luis Cava|desde que han levantado el techo de deuda, pues sabes perfectamente que no
+00:12:33.960|Jose Luis Cava|para de gastar. De tal manera que es difícil que haya un aterrizaje de momento
+00:12:38.020|Jose Luis Cava|mientras sigan gastando a este ritmo. Ahora bien, nos hemos encontrado que en
+00:12:43.840|Jose Luis Cava|el año 2012, en el año 2022, esperábamos que la economía de los Estados Unidos se
+00:12:48.580|Jose Luis Cava|desacelerarse, pero sin embargo lo que ha pasado es que recuperó ritmo, de acuerdo,
+00:12:53.560|Jose Luis Cava|se avivó. La razón es muchas veces cuando vemos la oferta monetaria, nada
+00:12:58.560|Jose Luis Cava|más que nos fijamos en Estados Unidos, pero hay que ver el indicador de
+00:13:01.520|Jose Luis Cava|liquidez global. Nos encontramos que en octubre del 2002 tanto China como Japón
+00:13:05.560|Jose Luis Cava|inyectaron liquidez y entonces eso provocó una recuperación de la economía.
+00:13:09.400|Jose Luis Cava|Estamos viviendo, en mi opinión, ya lo comentamos y entre tú y yo, yo creo que
+00:13:14.320|Jose Luis Cava|estamos viviendo un gran timo piramidal en el que los gobiernos gastan sin tino
+00:13:19.000|Jose Luis Cava|y nos encontramos que los bancos centrales están en connivencia con
+00:13:23.040|Jose Luis Cava|ellos y esto es un timo piramidal pero en toda línea y ahora el estallido de
+00:13:28.000|Jose Luis Cava|la deuda que estamos viendo es que acaba de empezar luego todo esto va a ir a
+00:13:32.600|Jose Luis Cava|peor porque esta gente ya se ha tirado al monte no controlan y ahora tú me
+00:13:36.800|Jose Luis Cava|dices aterrizaje suave aterrizaje brusco o no aterrizaje bueno yo lo que estoy
+00:13:41.480|Jose Luis Cava|viendo es que, en principio, lo que estamos viendo es que la economía se aceleró en
+00:13:45.160|Jose Luis Cava|2022, luego estamos en la tesis, yo estoy en la tesis, puedo estar equivocado
+00:13:49.480|Jose Luis Cava|lógicamente, de no aterrizar. Esto tiene una consecuencia importante. Primero, a
+00:13:54.800|Jose Luis Cava|corto plazo provoca subidas en la bolsa, a corto plazo, pero no es bueno para las
+00:13:58.720|Jose Luis Cava|bolsas porque probablemente no va a favorecer, sí, la tendencia alcista. Y
+00:14:03.000|Jose Luis Cava|luego, en segundo lugar, el FED y el resto de los bancos centrales que le
+00:14:06.240|Jose Luis Cava|siguen, le puede quedar una subida de tipo de interés y ya estamos viendo que
+00:14:09.640|Jose Luis Cava|si está esto ya parecen las primeras grietas fíjate las quiebras en Alemania
+00:14:14.240|Jose Luis Cava|es que se han disparado las estamos viendo también Estados Unidos los bancos
+00:14:18.280|Jose Luis Cava|regionales estadounidenses no nos engañemos están quebrados ahora se le
+00:14:22.000|Jose Luis Cava|está incrementando el porcentaje de impagados de las tarjetas de crédito pero
+00:14:24.600|Jose Luis Cava|el problema fundamental que tiene es la inversión o los préstamos concedido al
+00:14:28.600|Jose Luis Cava|sector inmobiliario de uso industrial y comercial y estamos viendo los impagados
+00:14:32.600|Jose Luis Cava|luego y ya hemos visto que en el mercado laboral ya has visto que las ofertas se
+00:14:36.160|Jose Luis Cava|están contraiendo luego yo creo que van a subir los tipos de interés y al final
+00:14:39.160|Jose Luis Cava|un aterrizaje brusco. Es mi opinión, es mi opinión. En periodo tú
+00:14:44.260|Entrevistador|interpretas esto en cuanto puede pasar? Vamos a ver. Perdona, José Luis, porque la
+00:14:49.520|Entrevistador|sorpresa que llevamos, sorpresa no tanto, porque al final sabemos que en economía
+00:14:54.040|Entrevistador|las cosas son bastante más lentas de lo que la gente que a lo mejor no
+00:14:57.920|Entrevistador|trabaja en economía de una manera constante puede entender. Yo a veces
+00:15:01.600|Entrevistador|explico lo que pasó en el 2008 con respecto, por ejemplo, a Europa. Aquí
+00:15:06.360|Entrevistador|no sé, que estaba preguntando todo en el 2007, principios del 2008 en
+00:15:12.680|Entrevistador|Estados Unidos y aquí nos llegó en el 2011, es decir, el trazo de la cosa.
+00:15:18.240|Jose Luis Cava|Yo te voy a contestar como yo lo hago para mí, yo te lo digo honestamente, yo
+00:15:22.320|Jose Luis Cava|me fío más como especulador que yo como analista macro o como cualquier
+00:15:27.200|Jose Luis Cava|analista macro y la lección la tenemos en noviembre del año 2021. En las notas
+00:15:33.360|Jose Luis Cava|a dos años lideraron la subida de tipos de interés y el FED lo hizo en marzo de
+00:15:38.600|Jose Luis Cava|2022. Luego van a ser el comportamiento de las notas a dos años el que nos
+00:15:44.040|Jose Luis Cava|avise de lo que está por venir. Yo hay una cosa clara, en mi opinión, ahora
+00:15:48.440|Jose Luis Cava|mismo no ha llegado el momento de comprar bonos. Mientras la tendencia de
+00:15:52.480|Jose Luis Cava|los bonos siga siendo alcista vamos a considerar que esto va a continuar.
+00:15:56.360|Jose Luis Cava|¿Cuándo podemos comprar bonos? Bueno pues yo sinceramente tengo una compra
+00:16:00.560|Jose Luis Cava|preparada. Yo ya he picado un poquito, hay que decir la verdad, y además han
+00:16:04.760|Jose Luis Cava|visto hoy el comportamiento de los bonos, que si quieres lo comentamos, que parece
+00:16:07.320|Jose Luis Cava|que ha hecho un escape y no ha podido seguir subiendo. Porque cuando va a haber
+00:16:11.240|Entrevistador|recesión se compran bonos. Cuando se va a ganar mucho dinero en bonos,
+00:16:16.120|Jose Luis Cava|compra en bonos es muy provechosa. Entonces, yo de la experiencia que tengo de
+00:16:19.520|Jose Luis Cava|recesiones anteriores, ahora mismo no se pueden comprar bonos. Hemos picado porque
+00:16:23.200|Jose Luis Cava|hemos picado, pero muy poquita cantidad. Es cuando Powell baje por primera vez los
+00:16:28.300|Jose Luis Cava|tipos de interés. Esta gente se está fijando en el mercado laboral. El mercado
+00:16:32.200|Jose Luis Cava|laboral es un indicador retrasado. Ellos van a bajar tipos cuando vean que el
+00:16:35.980|Jose Luis Cava|indicador, cuando vean que el mercado laboral se deteriora notablemente y
+00:16:39.660|Jose Luis Cava|cuando lleguen ya es tarde. Por eso yo soy de los que piensan que esto va a
+00:16:44.060|Jose Luis Cava|aterrizaje brusco sea como sea. Te comentaré como anécdota que en épocas
+00:16:48.820|Jose Luis Cava|anteriores yo recuerdo que decían aterrizaje suave, aterrizaje suave y
+00:16:52.660|Jose Luis Cava|están diciendo lo mismo que en crisis anteriores porque no se enteran están
+00:16:56.660|Jose Luis Cava|diciendo que hay terrafragia suave porque miran indicadores retrasados cuando tú
+00:17:01.340|Jose Luis Cava|para anticiparlo tienes que ver indicadores adelantados y el mejor
+00:17:04.740|Jose Luis Cava|indicador, el más fiable, notas a dos años y el segundo la primera vez que
+00:17:08.580|Jose Luis Cava|les entra el pánico y esta gente baje los tipos de interés y hay mucho recorrido
+00:17:12.100|Jose Luis Cava|para los bonos. El problema es que están vendiendo tanto bono. Claro, porque la
+00:17:16.620|Entrevistador|historia José Luis es que yo veo la economía dopada absolutamente, o sea
+00:17:21.020|Entrevistador|tenemos un topaje brutal que tiene que ver con esa emisión de deuda
+00:17:25.020|Entrevistador|absolutamente fuera de lugar, el mundo se debe a sí mismo tres veces y medio,
+00:17:28.120|Entrevistador|está enloquecido todo, encima muchas de esa deuda se aplica por ejemplo a
+00:17:33.720|Entrevistador|fondos europeos, se aplica a rellenar en lo que la economía no funciona, de
+00:17:40.560|Entrevistador|manera que te lo inyecto ahí y parecerá que... Entonces claro, lo que está
+00:17:44.280|Entrevistador|haciendo es retrasar una situación que tarde o temprano será irreversible, o sea tú no
+00:17:48.240|Entrevistador|puedes mantener una situación en la que todo esté dopado, se apliquen controles
+00:17:52.680|Entrevistador|de precios en muchísimas cosas, pero estás interviniendo en el propio
+00:17:56.340|Entrevistador|mercado. Esto tiene que reventar de algún modo, por lo menos aunque
+00:18:01.020|Entrevistador|sea despacio, pero algo no puede seguir así siempre. Esta gente se ha tirado al monte
+00:18:05.420|Jose Luis Cava|efectivamente y lo que tú dices es la clave. A mí si coges y dices oye es que
+00:18:09.060|Jose Luis Cava|se van a endeudar porque van a incrementar la capacidad productiva, van
+00:18:12.420|Jose Luis Cava|a mejorar la productividad, te digo bueno vamos a tener una rentabilidad que va a
+00:18:15.500|Jose Luis Cava|poder pagar la deuda. En este caso concreto es malgastar. Me vas a permitir
+00:18:18.860|Jose Luis Cava|te lo diría directamente como pienso es compra de votos punto y final y si te
+00:18:22.740|Jose Luis Cava|das cuenta en las elecciones nadie habla de mejorar la economía, nadie
+00:18:26.140|Jose Luis Cava|habla de mejorar la productividad pero es que están interviniendo ya ahí y
+00:18:29.420|Jose Luis Cava|están interviniendo en los mercados de bonos. Fíjate el caso de Japón, sigamos
+00:18:32.540|Jose Luis Cava|la pista que tiene Japón. En este sentido nos hemos encontrado que Japón
+00:18:36.380|Jose Luis Cava|es el más adelantado, el mercado de bonos es Japón, se lo ha comprado el
+00:18:40.100|Jose Luis Cava|propio gobierno japonés y ahora nos estamos encontrando que los japoneses
+00:18:43.460|Jose Luis Cava|estaban muy tranquilitos porque no veían inflación y veían deflación pero es que
+00:18:47.740|Jose Luis Cava|tienen inflación y se han lanzado al monte a comprar oro. Esto basta ya, lo que pasa
+00:18:52.320|Jose Luis Cava|es que como ellos tienen el control de la narrativa, ellos tienen el control de
+00:18:55.380|Jose Luis Cava|los mercados, tienen absolutamente el control de todo. ¿Quién es el
+00:18:58.100|Jose Luis Cava|propietario de Telefónica? ¿Quién es el propietario de muchas empresas? Es el
+00:19:02.120|Jose Luis Cava|grupo Blarock. No nos engañemos, ellos controlan todo y a los banqueros
+00:19:05.740|Jose Luis Cava|centrales están en connivencia con el gobierno. Piensa que se está produciendo
+00:19:09.940|Jose Luis Cava|un hecho que no se ha producido antes. El barco de la Reserva Federal está
+00:19:13.020|Jose Luis Cava|quebrado, pero está quebrado porque pierde en su operativa diaria y a pase
+00:19:18.340|Jose Luis Cava|está quebrado porque está hasta la ceja de deuda pública que se ha
+00:19:20.700|Jose Luis Cava|desplomado el precio, pero es que lo tienes en el Banco de Inglaterra también
+00:19:24.020|Jose Luis Cava|está quebrado y si el Banco Central y el Banco Central Europeo ha hecho lo mismo y el Banco de España
+00:19:28.860|Jose Luis Cava|ha hecho lo mismo, tenemos una situación en que los banqueros centrales están quebrados y nos
+00:19:32.460|Jose Luis Cava|están vendiendo un discurso que yo no sé cómo se lo creen ellos, pero esto es
+00:19:35.980|Jose Luis Cava|insostenible. Aquí la gran crisis es el estallido de la deuda pública. Esto ya no
+00:19:41.620|Jose Luis Cava|se puede pagar. Luego tiene que venir un reseteo para que las élites
+00:19:47.380|Jose Luis Cava|dominantes eliminen la deuda, se la carguen a la clase media, si queda clase
+00:19:51.900|Jose Luis Cava|media y ellos sigan adelante. Por eso yo soy tan fan del oro y tal, pero claro el
+00:19:56.060|Jose Luis Cava|oro que está muy manipulado. Pero claro, gente, partes de risa. Y aquí viene lo
+00:20:00.340|Jose Luis Cava|de los BRICS. Porque China está comprando tanto oro cuando es a lo mejor el
+00:19:24.020|Entrevistador|está quebrado y si el Banco Central y el Banco Central Europeo ha hecho lo mismo y el Banco de España
+00:20:05.260|Jose Luis Cava|productor número uno de oro. Y no pares de comprar oro. Falsea las estadísticas.
+00:20:09.780|Jose Luis Cava|vale lo sabemos lo acumula en otros bancos en otras agencias o lo que sea
+00:20:13.220|Jose Luis Cava|pasa lo mismo con Rusia bueno porque Rusia está comprando oro claro te dice
+00:20:17.180|Jose Luis Cava|no es que Rusia tiene 2.800 toneladas de oro es mentira tiene 9.000 lo que pasa es
+00:20:20.820|Jose Luis Cava|que lo aparca en fondos soberanos porque esta gente está acumulando oro en mi
+00:20:24.900|Jose Luis Cava|opinión es ya lo han dicho pero no han podido hacerlo ellos si los BRICS tienen
+00:20:30.300|Jose Luis Cava|que hacer algo y por ahí viene la amenaza real al dólar es una moneda que
+00:20:35.860|Jose Luis Cava|sea respaldada por oro. Fíjate lo que le está pasando a Rusia. Rusia, yo no entiendo
+00:20:40.860|Jose Luis Cava|de guerra, pero Rusia puede ganar la guerra, puede perderla, lo que sea. Yo no
+00:20:44.100|Jose Luis Cava|puedo opinar, pero lo tengo en idea. Pero fíjate lo que está pasando. El rublo se
+00:20:46.940|Jose Luis Cava|está desplomando, el rublo se está desplomando y eso fastidia a Rusia por
+00:20:50.900|Jose Luis Cava|una razón muy sencilla, porque aumenta la inflación allí y se genera el
+00:20:55.340|Jose Luis Cava|descontento y en un régimen autocrático se genera el descontento, es lo último que quieren.
+00:20:58.500|Jose Luis Cava|¿Qué puede hacer Rusia para defenderse de esta depreciación del rublo,
+00:21:03.540|Jose Luis Cava|respaldando por oro. Por eso es por lo que Rusia en los BRIC siempre salta
+00:21:08.820|Jose Luis Cava|diciendo no queremos una moneda respaldada por oro, queremos una moneda respaldada por oro, pero no
+00:21:11.940|Jose Luis Cava|sale, pero no sale. Pero los bancos centrales de Asia están acumulando oro.
+00:21:16.580|Jose Luis Cava|Luego yo todo eso lo tengo como una pista porque esta gente de alguna manera
+00:21:21.340|Jose Luis Cava|quiere tener una moneda respaldada por oro y en la Unión Europea están
+00:21:25.420|Jose Luis Cava|repartiendo el oro para que todos los países tengan oro equivalente al 8%
+00:21:31.700|Jose Luis Cava|del PIB. Luego se ve que vamos a evolucionar a un modelo de oro, no sé
+00:21:36.020|Jose Luis Cava|qué tipo, pero aquí yo creo que va porque esto es insostenible, pero que no
+00:21:39.940|Jose Luis Cava|hace falta estudiar mucho, no hay que estudiar. Sí, al final es a que decir
+00:21:44.340|Entrevistador|bueno un kilo de oro vale un kilo de oro, porque al final vamos a tener que
+00:21:49.620|Entrevistador|responsabilizar esa línea de conexión. Porque tú lo acabas de decir, la
+00:21:54.440|Entrevistador|clase media es la que va a soportar esta historia. Cuando la gente se pregunta
+00:21:57.940|Entrevistador|pero me preguntan a veces, Marc esto no puede ser, o sea la deuda pública al
+00:22:01.900|Entrevistador|final explotará. Noriel Rubini decía en una de sus mega amenazas que tenemos ahí
+00:22:05.980|Entrevistador|un problema que va a estallarnos en la frente a todos y claro dices ya pero
+00:22:11.140|Entrevistador|esto quién lo va a pagar, la clase media, esto lo va a pagar evidentemente la
+00:22:15.320|Entrevistador|deflación social que vamos a vivir, igual que en el 2008 a veces también lo
+00:22:20.260|Entrevistador|hemos comparado, el hecho de que en 2008 se deflacionó por países, no hubo
+00:22:25.300|Entrevistador|países que tuvieron una caída mayor que otros y al final nosotros tuvimos una
+00:22:29.440|Entrevistador|bajada de sueldos, o sea los salarios en España pasaron a 600 euros y ser
+00:22:33.700|Entrevistador|mileurista era un sueño mientras que en Francia mileurista estaba mal, no era
+00:22:37.600|Entrevistador|poco. Hicimos una deflación por salarios al tener el mismo euro todos y ahora la
+00:22:43.300|Entrevistador|situación es que todos vamos a deflacionar todas las clases medias de
+00:22:46.240|Entrevistador|todos los países de Europa. Mira, yo te voy a contestar el punto de vista del
+00:22:51.080|Jose Luis Cava|especulador. Yo me siento más especulador que otra cosa. Hay que
+00:22:54.600|Jose Luis Cava|aprender de los que han pasado por esto antes. ¿Qué han hecho los turcos?
+00:22:59.800|Jose Luis Cava|Yo me partía de risa con los turcos. Hace un año y medio, hace dos años, el
+00:23:03.920|Jose Luis Cava|gobierno turco le decía a los turcos, confíen en la lira turca. Claro, porque
+00:23:07.880|Jose Luis Cava|los turcos tenían oro y lo que quería el gobierno turco era que cambiaran el
+00:23:11.800|Jose Luis Cava|oro, que lo cambiaran por lira turca. Claro, los turcos, que ya están muy
+00:23:15.840|Jose Luis Cava|picardeados porque tienen muchos años de historia, no lo hicieron. Y si
+00:23:19.920|Jose Luis Cava|hubieran hecho les hubieran timado. ¿Qué pasa? El oro con respecto a la Liga
+00:23:22.920|Jose Luis Cava|turca disparado al alza. Lo hemos visto en Argentina, tú sabes
+00:23:26.640|Jose Luis Cava|perfectamente que en Argentina la gente no tiene pesos, en Argentina lo que están haciendo es pagar el oro, y Miley va por ese oro, va por ese oro, lo
+00:23:37.120|Jose Luis Cava|tiene clarísimo. Yo cuando le oigo y le veo, digo uy, uy, uy, este va a por los dólares que
+00:23:42.160|Jose Luis Cava|tienen los argentinos, que tendrán 250.000 o 300.000, pero es que ahora te vas a
+00:23:45.800|Jose Luis Cava|Japón y ya un gramo de oro vale 10.000 yenes.
+00:23:56.920|Jose Luis Cava|porque les han devaluado tanto, tanto, tanto su moneda que ellos saben
+00:24:00.600|Jose Luis Cava|perfectamente que ahorran en otras divisas, ya sean dólar, franco subizo o
+00:24:03.680|Jose Luis Cava|oro. Ahora se están yendo al oro. Luego se ve claramente que esto es lo
+00:24:06.580|Jose Luis Cava|mismo que del imperio romano. Hay que volver a la historia. ¿Qué hacían en el
+00:24:09.160|Jose Luis Cava|imperio romano? Cogían las monedas, las fundían, separaban el oro y con el oro
+00:24:13.840|Jose Luis Cava|emitían el doble de monedas de las que habían estado, pero si es que le metían
+00:24:18.160|Entrevistador|estaño, le metían estaño y al final no valía una mierda eso.
+00:24:18.160|Jose Luis Cava|estaño, le metían estaño y al final no valía una mierda eso.
+00:24:24.480|Jose Luis Cava|Te contaré como anécdota que era divertido que los inspectores de
+00:24:27.720|Jose Luis Cava|Hacienda en Roma salían huyendo porque es que al final los emperadores romanos
+00:24:31.480|Jose Luis Cava|no querían que le pagaran los impuestos en las propias monedas basura que él
+00:24:36.000|Jose Luis Cava|imprimía entonces cuando los inspectores de Hacienda le iban a
+00:24:40.080|Jose Luis Cava|entregar las mismas monedas que él había emitido, lo metían en la cárcel.
+00:24:44.840|Jose Luis Cava|Entonces, huían, huían, pero si es que no han inventado nada. Vamos, el gran avance...
+00:24:50.040|Jose Luis Cava|Si es que tú lo ves. Yo cuando le veo que se ponen ahí y se ponen tan solemnes y
+00:24:54.480|Jose Luis Cava|tal, les digo, cuando yo les oigo decir, dependemos de los datos y yo digo para mí,
+00:24:58.760|Jose Luis Cava|eso es muy pobre. ¿Qué datos? Eso es muy pobre. Luego, los modelos se les equivocan, los
+00:25:05.000|Jose Luis Cava|modelos se les equivocan, los cambian. Eso es muy pobre. Estamos en manos de
+00:25:09.040|Jose Luis Cava|gente, yo sinceramente creo que tiene un nivel bastante... yo creo que tiene un nivel
+00:25:12.160|Jose Luis Cava|bastante bajo, tiene bajo conocimiento. Es mi opinión. Ahora bien. Es tu opinión.
+00:25:18.840|Entrevistador|Es tu opinión, la de muchos. Cuenta que yo a veces lo explico, yo trabajé durante un
+00:25:24.160|Entrevistador|tiempo en el 7th Grade Program de Bruselas en un tema de proyectos y tal, entonces vi
+00:25:29.480|Entrevistador|cómo trabajaban algunas cosas allí, cómo se establecen a veces las
+00:25:32.880|Entrevistador|previsiones de algunos organismos internacionales, cómo llegaban las
+00:25:36.440|Entrevistador|carpetas que llegaban y al final se basan en los datos de cada país, o sea no hay
+00:25:41.360|Entrevistador|un cuerpo de miles de inspectores por todo el mundo del FMI buscando datos, no
+00:25:47.480|Entrevistador|no, hay cuatro tíos en una oficina que reciben datos y que miran a ver si eso
+00:25:51.600|Entrevistador|cuadra o no cuadra relativamente, con lo cual tampoco podemos basarnos mucho en
+00:25:54.960|Entrevistador|algún modelo de previsiones que se basa como tú dices en datos anteriores, que
+00:26:00.000|Entrevistador|están retrasados... Claro, al final eso es un conflicto con la verdad, ¿no?
+00:26:10.440|Jose Luis Cava|Estados Unidos de que el déficit público está disparado por el incremento del
+00:26:13.060|Jose Luis Cava|gasto público, lo que tenemos que fijarnos es que los ingresos fiscales, la
+00:26:17.100|Jose Luis Cava|recaudación fiscal se ha desplomado. ¿Y sabes por qué? Por culpa del timo
+00:26:22.300|Jose Luis Cava|piramidal de esto del cambio climático y las políticas verdes. Lo que se le
+00:26:26.820|Jose Luis Cava|ocurrió a Biden es establecer una serie de deducciones de la cuota, los créditos
+00:26:31.640|Jose Luis Cava|fiscales famosos, para todas aquellas empresas que invirtieran en lo verde o
+00:26:35.780|Jose Luis Cava|que incrementaran la producción. Eso ha llevado a un fraude total y la
+00:26:39.520|Jose Luis Cava|recaudación ha sido cuatro veces inferior a la que habían previsto. Y
+00:26:44.120|Jose Luis Cava|cuando se lo dicen a los de la hacienda de allí, dicen que el modelo estaba
+00:26:47.100|Jose Luis Cava|equivocado. Pero, al mar de Dios, apruebas unas deducciones fiscales con un modelo
+00:26:51.700|Jose Luis Cava|equivocado y claro, ellos dicen vamos a incrementar los impuestos, locos
+00:26:56.620|Jose Luis Cava|incrementan el impuesto, nuevos impuestos crearon, perjudicas a los productivos
+00:27:02.020|Jose Luis Cava|para malgastar y dices, estamos en manos de políticos irresponsables
+00:27:09.700|Jose Luis Cava|fíjate José Luis, hoy se ha publicado en España pero se está publicando en toda
+00:27:14.620|Entrevistador|Europa de hecho en los próximos días se republicará también la revisión de datos
+00:27:19.140|Entrevistador|al alza del PIB de 2021 y 2022 en prácticamente toda Europa, todo se midió
+00:27:24.380|Entrevistador|mal, hoy se ha dicho pues que España salió de la situación pre-pandémica,
+00:27:29.180|Entrevistador|o sea, llegó a la situación económica pre-pandémica mucho antes de lo que
+00:27:32.260|Entrevistador|creímos, si es así pues perfecto, mejor, pero esto te hace pensar una cosa,
+00:27:43.140|Entrevistador|¿era necesaria tanta deuda?, ¿era necesaria tantas políticas de amortiguadores
+00:27:47.860|Entrevistador|sociales? ¿Era necesario todo eso? ¿Era necesario cargarse el sector productivo
+00:27:51.680|Entrevistador|porque lo vemos en el cierre de empresas de forma realmente alarmante y que sólo
+00:27:56.920|Entrevistador|vivamos ahora mismo y no quiero hablar de España, pero que estemos ahí sujetos al
+00:28:01.060|Entrevistador|sector productivo vinculado al turismo como propulsor de esta historia? ¿Era
+00:28:04.840|Entrevistador|necesario todo eso? Porque si no era necesario tenemos un problema y es que
+00:28:09.400|Entrevistador|la deuda está ahí. Además yo no quiero hablar de España, pero hoy no vamos a
+00:28:15.680|Jose Luis Cava|de España. Yo voy a decirles una cosa para que ustedes no hablen y ustedes vean.
+00:28:20.360|Jose Luis Cava|Mire, hay un gráfico que nunca lo sacará una televisión, nunca, y se lo digo
+00:28:24.840|Jose Luis Cava|porque he intentado yo sacarlo y les puedo decir un detalle más. Yo he ido a
+00:28:28.920|Jose Luis Cava|parlamentarios de todo tipo presentándoles este gráfico y ninguno lo
+00:28:34.080|Jose Luis Cava|publica. Eso se lo digo yo. Mire, concretamente es, lo digo por si
+00:28:39.040|Jose Luis Cava|quieren mirarlo en internet, es Target 2. Mire, Target 2 es el dinero que entra y
+00:28:44.960|Jose Luis Cava|sale de España de transferencias de importe muy elevado de acuerdo son los
+00:28:50.560|Jose Luis Cava|canales por donde circula el dinero target 2 para que ustedes lo sepan está
+00:28:56.520|Jose Luis Cava|soportado por el eurosistema es el medio de hacer grandes transferencias si
+00:29:02.120|Jose Luis Cava|ustedes quieren ver cómo va una economía vayan a target 2 y yo les digo verá
+00:29:06.680|Jose Luis Cava|usted que el banco de españa debe un dineral
+00:29:16.240|Jose Luis Cava|cual se ve que Alemania ha comprado deuda pública española para sujetarnos,
+00:29:20.840|Jose Luis Cava|me explico bien, y se ve que Europa está dividida. Entonces, claro, si por ejemplo
+00:29:26.120|Jose Luis Cava|Italia se fuera del eurosistema, automáticamente toda Europa quebraría
+00:29:31.160|Jose Luis Cava|por la elevada deuda que tiene contraída. Si ustedes se van a España, y está
+00:29:36.440|Jose Luis Cava|incluso en el balance del Banco de España, está la partida, la pueden ver, está la
+00:29:40.240|Jose Luis Cava|cantidad que realmente no se pueden ir del eurosistema porque que debería el
+00:29:44.920|Jose Luis Cava|banco central europeo y Alemania la perjudicaríamos enormemente. Esto ya
+00:29:48.640|Jose Luis Cava|no son palabras, es el flujo de dinero. Esto Target 2 no lo comentará nadie, se
+00:29:54.160|Jose Luis Cava|lo digo yo, pero se lo digo pero muy convencido. Pues lo vamos a preparar.
+00:30:05.440|Jose Luis Cava|explico lo que es Target 2 y lo comparo con la contabilidad del Banco de España
+00:30:09.600|Jose Luis Cava|para que vean que cuadra y está perfectamente en el pasivo la
+00:30:13.100|Jose Luis Cava|Contraloría del Banco de España y ven ustedes que están quebrados de la cantidad y de lo que
+00:30:16.280|Jose Luis Cava|tienen y es por las compras de deuda pública fundamentalmente. Porque es que además han
+00:30:20.280|Entrevistador|acostumbrado a un discurso que a mí me asusta cada vez, o sea, cada vez que hay
+00:30:25.080|Entrevistador|un problema, el último así grave que hubo fue el de la crisis bancaria, cuando
+00:30:30.480|Entrevistador|UES, Credit Suisse, toda la historia que venía todo del Silicon Valley, cuando
+00:30:36.640|Entrevistador|eso empezó a suceder, te sale la guard o quien sea y te dice no se preocupen que
+00:30:44.000|Entrevistador|el Banco Central Europeo tiene herramientas para solucionar esto, para
+00:30:49.080|Entrevistador|inyectar y ojo aquí lo dicen así, liquidez. Ustedes todo lo arreglan dándole a la
+00:30:54.160|Entrevistador|máquina esa, esto es ridículo. Lo mismo, pero si es que no se les necesita, si lo
+00:30:59.360|Jose Luis Cava|único necesitamos es un impresor, no necesitamos ningún líder. Necesitamos un
+00:31:03.560|Jose Luis Cava|printer. Nada más. Pero oye, te voy a decir una cosa. Esto que hablamos habitualmente, yo el otro día, no voy a
+00:31:11.280|Jose Luis Cava|decir al sitio que fui, pero la idea es la siguiente. Me quedé sorprendido cuando yo
+00:31:15.240|Jose Luis Cava|dije el euro, el dólar, es moneda basura, no vale absolutamente nada. Había gente
+00:31:21.000|Jose Luis Cava|que me decía, no, está respaldada por la economía de los Estados Unidos, por el
+00:31:25.520|Jose Luis Cava|ejército de los Estados Unidos y tal. No está respaldado por nada. Lo único es la
+00:31:30.040|Jose Luis Cava|confianza y esto lo hablábamos tú y yo antes hay que tener en cuenta una
+00:31:34.360|Jose Luis Cava|cuestión por ejemplo cuando hablamos del oro y el bitcoin por ejemplo primero una
+00:31:38.860|Jose Luis Cava|moneda se acepta como medio de pago cuando una moneda está consolidada como
+00:31:43.080|Jose Luis Cava|medio de pago se transforma en depósito de valor de acuerdo entonces todos estos
+00:31:48.840|Jose Luis Cava|billetes están funcionando como moneda de pago o les dicen a ustedes que el
+00:31:53.320|Jose Luis Cava|depósito de valor y tenemos cuentas abiertas en euros y dólares pero eso es
+00:31:56.920|Jose Luis Cava|un valor que no vale nada. En un momento determinado pueden hacer perfectamente...
+00:32:00.200|Jose Luis Cava|Bueno, te lo están quitando todos los días porque ven ustedes que el valor, el
+00:32:03.760|Jose Luis Cava|poder adquisitivo del euro, el poder adquisitivo del dólar se ha desplomado.
+00:32:07.360|Jose Luis Cava|Con lo cual es depósito de valor porque lo tienes en un sitio, pero cada vez te
+00:32:10.520|Jose Luis Cava|quitan un poquito, un poquito, un poquito, un poquito. Es sistemático. Con lo cual se
+00:32:14.440|Jose Luis Cava|ve claramente que tenemos que defendernos del deterioro del poder
+00:32:18.100|Jose Luis Cava|adquisitivo del euro. Tenemos que defendernos. Miren, aprendan de los
+00:32:21.980|Jose Luis Cava|argentinos, aprendan de los japoneses, aprendan de los turcos, estamos dormidos,
+00:32:28.540|Jose Luis Cava|tenemos que defender a nuestros banqueros centrales, de acuerdo, que estamos en
+00:32:32.740|Jose Luis Cava|último piramidal. Es que son nuestros enemigos, son nuestros enemigos, o sea, los
+00:30:59.360|Entrevistador|único necesitamos es un impresor, no necesitamos ningún líder. Necesitamos un
+00:32:38.220|Entrevistador|comisarios y presidentes de los bancos centrales son el enemigo, no son los que
+00:32:42.740|Entrevistador|nos están salvando de nada, no son los que han salvado la economía en ningún
+00:32:45.780|Entrevistador|momento. El hecho de que, a mí a veces, con respecto, ahora al final hablaremos un
+00:32:51.020|Entrevistador|poquito de bitcoin pero cuando a mí me preguntaban es que tú no sabes lo que
+00:32:55.220|Entrevistador|va a valer bitcoin dentro de un tiempo no hay la típica historia de bitcoin
+00:32:58.900|Entrevistador|valdrá un bitcoin y tal pero sobre todo lo que yo no sé lo que valdrá bitcoin
+00:33:02.060|Entrevistador|sinceramente no lo sé ni dónde estará lo único que sé lo que valdrá el dólar
+00:33:05.820|Entrevistador|y lo que valdrá el euro menos mucho menos nadie va a hacer que valga más yo
+00:33:11.660|Jose Luis Cava|yo creo que debemos de plantearnos como misión fundamental para nuestra
+00:33:19.660|Jose Luis Cava|sanidad económica es escapar o ir a los bancos centrales y ir a monedas de
+00:33:25.460|Jose Luis Cava|países en los que veamos... es que yo no quiero hablar de España pero bueno voy a
+00:33:30.380|Jose Luis Cava|hablar de Francia por ejemplo. Yo cuando miro Francia veo una Francia rota ¿de
+00:33:34.900|Jose Luis Cava|acuerdo? y no descarto que pueda haber conflictos civiles ¿de acuerdo? entonces
+00:33:40.100|Jose Luis Cava|en esos países no se puede invertir porque nunca van a tener una moneda
+00:33:43.180|Jose Luis Cava|seria porque están enfrentados. Nos interesa que se incremente la
+00:33:46.220|Jose Luis Cava|productividad, nos interesan medidas económicas que hagan que la gente viva
+00:33:49.780|Jose Luis Cava|bien, que la gente viva tranquila, que la gente sea feliz, no enfrentarles, no
+00:33:54.060|Jose Luis Cava|envenenarles y luego creamos riqueza y nos la repartimos como queráis, pero
+00:33:57.740|Jose Luis Cava|vamos a crear riqueza, vamos a mejorar y es que eso no funciona, entonces yo creo
+00:34:02.020|Jose Luis Cava|que hay que ir a países donde haya unos políticos responsables, de acuerdo, y
+00:34:06.500|Jose Luis Cava|haya bancos centrales responsables y entonces ahí es lo que hay que ir y
+00:34:10.780|Jose Luis Cava|luego claro te queda el oro y te queda el bitcoin porque es que nos ponemos a
+00:34:13.800|Jose Luis Cava|buscar y es que encontramos poco porque tampoco no vamos yo no me fío tampoco de
+00:34:18.080|Jose Luis Cava|los BRIC cómo me voy a fiar de China cómo me voy a fiar de Rusia si no tienen
+00:34:22.440|Jose Luis Cava|mercados financieros amplios si me esconden las estadísticas si me esconden
+00:34:26.600|Jose Luis Cava|el tesoro los bonos del tesoro americano que tienen si me esconden todo cómo me
+00:34:30.680|Jose Luis Cava|voy a fiar luego sinceramente yo creo yo personalmente el problema que tengo no
+00:34:34.480|Jose Luis Cava|es si va a subir el desempeñamiento el problema es bueno que hago con mis
+00:34:37.480|Jose Luis Cava|ahorros para defenderme de esta gente codiciosa. ¿Qué hacemos? ¿Qué hacemos ante la
+00:34:41.420|Entrevistador|debilidad del consumo, por ejemplo, y los servicios en Estados Unidos, en la propia
+00:34:44.780|Entrevistador|Europa, digan lo que digan los datos revisados, en China, o sea, con esa
+00:34:49.580|Entrevistador|debilidad nosotros ¿qué hacemos? O sea, aparte que esa deuda tendrá una
+00:34:54.220|Entrevistador|repercusión tarde o temprano, que se volverán a subir tipos, perdón, al final
+00:34:58.060|Entrevistador|la acabarán emitiendo más ante toda la situación, pues tendrán que tirar de
+00:35:01.940|Entrevistador|fondo y cuando eso lo hagan, nosotros ¿cómo nos defendemos de esa pérdida de
+00:35:06.300|Entrevistador|valor de nuestro poder adquisitivo? ¿Con qué recomiendas tú? Bueno, yo estoy
+00:35:10.260|Jose Luis Cava|trabajando en ello porque a mí me preocupa. Vamos a ver, el orden de los
+00:35:14.260|Jose Luis Cava|acontecimientos yo lo tengo en mi cabeza de la siguiente manera, yo los pongo para
+00:35:17.540|Jose Luis Cava|que lo critiquemos, no porque... es que es mi problema, yo estoy meditando sobre ello
+00:35:21.300|Jose Luis Cava|como tú y como cualquiera de las personas que nos puedan estar viendo. Yo
+00:35:24.460|Jose Luis Cava|lo que creo es que ahora se ponen mucho litos porque ven que está gastando el
+00:35:27.700|Jose Luis Cava|gobierno mucho dinero y saben que aunque es un tipo de interés hay un colchón. Por eso,
+00:35:31.740|Jose Luis Cava|si te fijas en los papeles que publica el FED, ellos mismos dicen que son tan
+00:35:35.260|Jose Luis Cava|listos que han conseguido el atarefaje subado. Bien, la razón es esta. Luego llegará
+00:35:39.500|Jose Luis Cava|momento determinado en que mantenga los tipos de interés durante un periodo de
+00:35:42.140|Jose Luis Cava|tiempo y nosotros estamos atentos. Antes de junio de 2024 no van a bajar los
+00:35:46.980|Jose Luis Cava|tipos de interés hasta que no vean el deterioro. Se tiene que ver el
+00:35:50.260|Jose Luis Cava|deterioro vía insolvencias, vía bancos con problemas. Si la cosa se
+00:35:54.980|Jose Luis Cava|complica, los bancos centrales van a comprar deuda pública porque
+00:36:00.460|Jose Luis Cava|tendemos al modelo japonés. Luego nosotros, ¿qué hacen los japoneses?
+00:36:05.540|Jose Luis Cava|Los japoneses se diversifican, te van a franco suizo, te van a oro y también
+00:36:09.140|Jose Luis Cava|tendremos que ir a Bitcoin. A eso lo que hay que ir. Ahora bien, el problema que tenemos
+00:36:11.900|Jose Luis Cava|ahora. Bueno, ahora tengo francos suizos, ¿vale? Porque la Banca Nacional de
+00:36:15.900|Jose Luis Cava|Suiza, está ahora mismo el franco suizo en movimiento lateral y yo creo que la
+00:36:19.060|Jose Luis Cava|que está vendiendo es la Banca Nacional de Suiza para que esto no se desmadre,
+00:36:21.580|Jose Luis Cava|porque no te quiero ni contar que el precio del oro se desmadrará de alza, el
+00:36:25.220|Jose Luis Cava|franco suizo se desmadrará de alza, se vendría bajo el sistema occidental, no por los BRIC,
+00:36:28.380|Jose Luis Cava|sino lo bombardearían desde dentro. Luego el Banco Nacional de Suiza tiene que
+00:36:33.460|Jose Luis Cava|vender francos suizos para que nos dé la sensación de normalidad. Ellos poquito a
+00:36:37.260|Jose Luis Cava|poco van subiendo su franco suizo para que nosotros no nos demos cuenta del
+00:36:41.340|Jose Luis Cava|movimiento soterrado que hay por debajo. Luego yo creo franco suizo, yo creo que
+00:36:45.220|Jose Luis Cava|oro y yo creo que bitcoin y cuando metes en franco suizo el problema que tienes es
+00:36:47.860|Jose Luis Cava|bueno ya abro una cuenta bancaria en franco suizos, me lo llevo a casa, no
+00:36:51.060|Jose Luis Cava|hombre, no te lo llevamos a casa, lo dejamos en un banco o lo invertimos en
+00:36:54.180|Jose Luis Cava|un fondo que invierta en bonos suizos. Yo lo estoy enfocando desde ese punto de
+00:36:47.860|Entrevistador|bueno ya abro una cuenta bancaria en franco suizos, me lo llevo a casa, no
+00:36:58.620|Jose Luis Cava|vista y ahora el oro pues el problema que tienes es lo mismo porque tienes un
+00:37:02.700|Jose Luis Cava|un ETF de oro pero si esto se colapsa el ETF no te van a dar el oro porque
+00:37:08.020|Jose Luis Cava|empezarán a dar problemas por lo tanto yo creo que es mejor oro físico
+00:37:10.940|Jose Luis Cava|depositar un banco y en cuanto el bitcoin pues hombre yo creo que...
+00:37:14.740|Entrevistador|Depositado en el banco, nada de apuntes contables ni cosas por el estilo...
+00:37:18.700|Jose Luis Cava|No, el oro depositado en el banco, claro, en casa mi loco, claro, habría que tenerlo en una
+00:37:23.300|Jose Luis Cava|cuenta en una caja en el banco todo legal y tal y tenerlo ahí eso yo creo
+00:37:28.020|Jose Luis Cava|el oro físico es siempre ha sido y siempre será una protección. Entonces yo
+00:37:33.420|Jose Luis Cava|creo que es lo único que nos puede ser como un refugio para protegernos. Yo me
+00:37:38.220|Jose Luis Cava|fijo mucho en los pueblos que han sufrido mucho y por ejemplo no sé en el
+00:37:42.860|Jose Luis Cava|pueblo de Centro Europa con las guerras prusianas la gente acumulaba monedas de
+00:37:46.420|Jose Luis Cava|oro y están acostumbrados porque ya han sufrido mucho y han visto las cosas que
+00:37:49.220|Jose Luis Cava|han pasado malas. Por lo tanto yo creo que aprender de leer historia y ver cómo
+00:37:53.060|Jose Luis Cava|la gente se defendió a mí me parece que puede ser instructivo y es el camino. Lo
+00:37:57.580|Jose Luis Cava|único que tenemos nuevo es el bitcoin, nada más. Lo comentaremos al final, yo de todos
+00:38:03.200|Entrevistador|modos la sensación que tengo es que claro aquí hay como un grupo social
+00:38:09.260|Entrevistador|ideológicamente reconocible que lo que pasa que se está ampliando incluso en
+00:38:14.220|Entrevistador|otros ámbitos ideológicos, es decir, gente que considera que hay un montón de
+00:38:18.620|Entrevistador|derechos que hay que ir conquistando, le llaman derechos conquistados, que tienen
+00:38:23.420|Entrevistador|que ver con la subvención, con el subsidio, con las ayudas... eso hasta ahora
+00:38:27.780|Entrevistador|estaba solamente en un espacio ideológico pero es que ahora ya incluso
+00:38:31.420|Entrevistador|está en el otro porque parece ser que el Estado tiene que proporcionarte miles
+00:38:36.260|Entrevistador|de cosas. Eso lo que hace es impedir muchas veces que puedas con el sector
+00:38:41.580|Entrevistador|productivo generar más porque al final te estrecha el espacio porque te suben
+00:38:45.580|Entrevistador|los impuestos porque hay que pagar todo eso. Al no haber sector productivo ágil
+00:38:49.500|Entrevistador|no produce riqueza y si no hay riqueza lo que ha repartido que era la riqueza de
+00:38:53.060|Entrevistador|antes al final se queda en esto. ¿Tú crees sinceramente que esto va a afectar de
+00:38:58.220|Entrevistador|alguna manera a ese devenir que se avecina? Es decir, ¿vamos a encontrarnos
+00:39:01.700|Entrevistador|con una situación de que Europa está envejecida, está en decrecimiento, incluso
+00:39:05.940|Entrevistador|moral, con toda esta situación? Vamos a ver, si vamos primero siempre es
+00:39:12.320|Jose Luis Cava|lo mismo, primero siempre lo mismo. Han atacado el sistema cultural, han
+00:39:17.460|Jose Luis Cava|atacado el sistema educativo, el nivel de formación es bajísimo, te lo digo, yo
+00:39:21.380|Jose Luis Cava|está dando clases y estoy viendo que el nivel se ha abrido. Si tú te vas a la
+00:39:24.980|Jose Luis Cava|universidad el nivel es bajísimo, a la gente le están enseñando cosas que no
+00:39:29.060|Jose Luis Cava|les van a servir para trabajar. Ya sabes tú que estamos a la cabeza de la OCDE
+00:39:34.460|Jose Luis Cava|en materia escolar, el número de personas que dejan la enseñanza, con lo
+00:39:41.340|Jose Luis Cava|cual esta gente vive de la subvención. Y lo que tú dices, esa cultura y la
+00:39:44.820|Jose Luis Cava|subvención que yo creo, las subvenciones, pero las subvenciones adecuadas, tú no
+00:39:48.500|Jose Luis Cava|puede dejar a la gente morirse por la calle. Eso estoy totalmente de acuerdo. Hay que
+00:39:52.340|Jose Luis Cava|defender a la industria y hay que darle subvenciones a cambio de algo. Yo eso no lo
+00:39:57.000|Jose Luis Cava|veo. Están bien diseñadas. El problema es cuando haces un mal uso de ello. Ahora
+00:40:00.300|Jose Luis Cava|mismo es evidente que el uso está mal y lo que está generando es más gente que
+00:40:05.460|Jose Luis Cava|no va a trabajar, gente que no se forma y no vas a tener incremento de la
+00:40:08.460|Jose Luis Cava|productividad, incremento de la producción. Con lo cual eso está
+00:40:10.540|Jose Luis Cava|clarísimo y ese camino va. Europa. Europa está rota. Europa no es nadie. Si te fijas
+00:40:14.660|Jose Luis Cava|otra cosa, yo me fijo más general a la economía. Fíjate en Alemania. Alemania se
+00:40:18.460|Jose Luis Cava|está desindustrializando. ¿Y por qué se está desindustrializando? Alemania necesita
+00:40:22.340|Jose Luis Cava|energía. La energía en Alemania es escasa y por eso es cara. ¿Y por qué la energía
+00:40:26.380|Jose Luis Cava|es tan cara? Pues lo tenemos claro. El nuevo Pacto Verde está
+00:40:32.180|Jose Luis Cava|clarísimo. Entonces, ¿qué hacen las empresas? Pues se van de allí.
+00:40:35.060|Jose Luis Cava|Desindustrialización total. Se van de allí. Y tú me dices, si perdemos el motor
+00:40:39.300|Jose Luis Cava|económico de Europa, ¿la hegemonía de Europa dónde está? Pero es que ya hemos
+00:40:42.540|Jose Luis Cava|visto cuál es la hegemonía económica de Europa. Lo hemos visto cómo está funcionando la
+00:40:46.260|Jose Luis Cava|guerra con Ucrania. Yo creo que lo vemos todos. En Europa yo creo que...
+00:40:50.100|Jose Luis Cava|Lo que pasa es que ya se han tirado al monte. Ya hemos pasado el Rubicon. Es decir,
+00:40:54.540|Jose Luis Cava|se han tirado al monte. Pero tú lo ves en las reglas fiscales. Yo no quiero
+00:41:00.020|Jose Luis Cava|hablar de España, pero ves ahí. Yo veía a nuestra ministra. No, hemos llegado a un
+00:41:03.980|Jose Luis Cava|acuerdo, pero al maderios a qué acuerdo vais a llegar. Pero si no vais a reducir
+00:41:08.620|Jose Luis Cava|el déficit público, no vais a reducir... Y tú fíjate las pretensiones de Alemania que
+00:41:12.180|Jose Luis Cava|son unas pretensiones ínfimas. Bueno, vamos a reducir un poquito la deuda
+00:41:15.420|Jose Luis Cava|pública. No pueden, no pueden. Y además les tienen chantajeados España e Italia
+00:41:22.060|Jose Luis Cava|porque como no les concedan el dinero dicen que se van del eurosistema y se
+00:41:26.540|Jose Luis Cava|viene abajo todo, todo el sistema financiero se viene abajo. Por eso, cuando
+00:41:31.500|Jose Luis Cava|hablan de la presidencia de Italia y se ponían tan chulita con ella, yo me
+00:41:35.140|Jose Luis Cava|partía de risa. Digo, como esta señora la dé por decir que se va de la Unión
+00:41:39.620|Jose Luis Cava|europea que se va en el eurosistema se van a enterar todos los europeístas de
+00:41:43.240|Jose Luis Cava|la que tienen encima. Luego están, les tienen cogidos por ahí abajo, les tienen cogidos...
+00:41:58.100|Entrevistador|tenemos ahí... cuando tú de eso yo entro como puedo. Hoy había discusiones, he hablado
+00:42:05.220|Entrevistador|con gente que está en Italia y tal precisamente que además pertenecen al
+00:42:10.740|Entrevistador|gobierno de allí me comentaban dice no es que la gente está diciendo
+00:42:14.940|Entrevistador|que la crisis migratoria de la ampedusa dice nosotros no podemos tomar medida
+00:42:20.740|Entrevistador|porque están diciendo desde fuera de Italia que eso se debe y yo así me lo
+00:42:25.820|Entrevistador|creía e incluso Italia debe tanto y es propiedad del
+00:42:31.340|Entrevistador|Banco Central Europeo de Alemania por lo tanto como se os ocurra hacer algo que
+00:42:35.660|Entrevistador|no sea lo que nosotros decidimos desde el punto de vista migratorio os ejecutamos
+00:42:39.260|Entrevistador|la deuda y el tipo me decía pero estos tíos no saben que nos ejecuten la deuda
+00:42:44.220|Entrevistador|si quieren o sea cuando nos la ejecuten pues nos vamos y se cruje todo. Está claro
+00:42:49.460|Jose Luis Cava|vamos a ver Italia bueno yo te lo voy a decir para que nos centremos y sabemos
+00:42:53.740|Jose Luis Cava|cuando hablamos de Italia yo me he planteado eso y digo dónde tiene Italia
+00:42:57.260|Jose Luis Cava|dinero si yo fuera a embargarle. Bueno, Italia tiene unas reservas de oro
+00:43:00.540|Jose Luis Cava|importantes, muy importantes, y luego tiene, a diferencia de España, activos
+00:43:05.380|Jose Luis Cava|frente al exterior. Luego, podemos decir que Italia sí que tiene unas reservas y
+00:43:10.100|Jose Luis Cava|que se le podrían embargar. Sabes tú perfectamente que el oro que tienen, el
+00:43:14.260|Jose Luis Cava|oro que tienen está bajo control del Banco Central Europeo y no pueden
+00:43:17.300|Jose Luis Cava|disponer de él. Con lo cual, pero aún así, aunque le embarguen el oro, la deuda no la
+00:43:21.060|Jose Luis Cava|cubren. ¿Me explico bien? Por lo tanto, la que tiene la sartén por el mango es
+00:43:26.140|Jose Luis Cava|Meloni la tiene por el mango a todos. Si ella dice que se va de la Unión Europea
+00:43:30.420|Jose Luis Cava|se va. Por ejemplo, yo no quiero hablar de España pero voy a hablar. Todos estos
+00:43:35.620|Jose Luis Cava|partidos, todos estos partidos populistas y tal. Si tenéis valor, ¿por qué no metisteis
+00:43:41.620|Jose Luis Cava|en vuestro programa que nos ibamos de la Unión Europea?
+00:43:51.220|Jose Luis Cava|y la deuda ya lo pagaremos. España no puede pagar la deuda. España no puede
+00:43:56.660|Jose Luis Cava|pagar la deuda. Métete en el balance del Banco de España. El Banco de España no puede pagar la deuda.
+00:43:59.980|Jose Luis Cava|El Banco de España, que ya tendrá problemas de resultados este año y
+00:44:03.260|Jose Luis Cava|probablemente incurrirán pérdidas, si no fuéramos no podríamos pagar la deuda y
+00:44:08.460|Jose Luis Cava|eso es poder absoluto y ellos lo saben. Yo he llegado a pensar, Marc, que nos están
+00:44:13.220|Jose Luis Cava|sosteniendo porque a Alemania le impusieron como carga por perder la
+00:44:18.180|Jose Luis Cava|Segunda Guerra Mundial, mantener Europa unida y están poniendo dinero. Esto es a
+00:44:22.160|Jose Luis Cava|la conclusión a la que llego, pero a lo mejor no están ni fundadas, son
+00:44:24.580|Jose Luis Cava|imaginaciones mías. No lo sé, me lo comentaba eso alguien, un alemán, dice
+00:44:30.420|Entrevistador|tenemos una deuda moral, no sé si la deuda está escrita, no sé si eso está...
+00:44:33.540|Entrevistador|pero la sensación en algunos ámbitos alemanes, sobre todo en la social
+00:44:37.060|Entrevistador|democracia, no tanto en la democracia cristiana, pero en la social democracia, tienen esa
+00:44:41.060|Entrevistador|sensación de deuda casi, ¿sabes? para siempre, de lo que sucedió y que
+00:44:48.140|Entrevistador|luego les perdonaran y que al final pues pudieron unificar la Alemania...
+00:44:52.180|Entrevistador|según con quien hablas te dan un discurso raro parecido a eso y ellos te
+00:44:57.060|Entrevistador|dicen una cosa, te dicen nosotros hemos perdido la empresa
+00:45:01.300|Entrevistador|industrial, nos estamos desindustrializando de forma
+00:45:06.300|Entrevistador|importante pero aseguran que se aguantan en lo que ellos llaman los
+00:45:10.620|Entrevistador|Bergoene Meister o algo así, las Mittelstand que son las empresas medianas
+00:45:15.660|Entrevistador|familiares, empresa mediana que dices hostia, en Alemania una empresa mediana es una
+00:45:20.520|Entrevistador|empresa de 250 tíos o de mil y dice son muy industriales todavía son de las
+00:45:27.900|Entrevistador|principales del mundo y son desconocidas en sus sectores dice nosotros
+00:45:31.820|Entrevistador|dependemos mucho de eso, eso es lento de recuperar pero con el tiempo Alemania
+00:45:37.480|Entrevistador|saldrá de esta más fuerte que cualquier otro país europeo porque tenemos un peso
+00:45:41.400|Entrevistador|industrial todavía y eso es lo que ellos dicen eso es lo que ellos defienden y no
+00:45:45.520|Entrevistador|algunas cosas que podrían ser revisables pero confío bastante que eso es así
+00:45:49.520|Entrevistador|ellos tienen crisis más cortas, menos profundas, nosotros más largas y más
+00:45:53.160|Entrevistador|profundas. Sí, pero eso era antes de la llegada de China. Está muy bien
+00:45:59.440|Jose Luis Cava|históricamente, pero ahora China. Yo si me hubieran dicho esto, me hubiera dicho
+00:46:03.960|Jose Luis Cava|lo siguiente, señor vamos a China. Europa está importando coches eléctricos
+00:46:09.480|Jose Luis Cava|chinos como si no hubiera mañana y tú me puedes decir bueno podemos competir
+00:46:12.720|Jose Luis Cava|con China no puede competir con China por una razón porque China tiene exceso de
+00:46:16.800|Jose Luis Cava|capacidad de la producción de coches y baterías eléctricas gracias a las
+00:46:20.200|Jose Luis Cava|subvenciones es decir China no puede indundar de coches a todos entonces si
+00:46:24.120|Jose Luis Cava|ellos quieren proteger su industria yo si estuviera la unión europea lo primero
+00:46:27.680|Jose Luis Cava|que haría es hacer lo que han hecho los eeuu le pondría un impuesto para
+00:46:31.360|Jose Luis Cava|defenderme de las importaciones de coches y baterías eléctricos chinos y
+00:46:34.480|Jose Luis Cava|automáticamente diría señores hay que remodelar el sector industrial vamos a
+00:46:37.960|Jose Luis Cava|ver qué hacemos con las baterías a ver si podemos relanzar empresas ahí las
+00:46:41.120|Jose Luis Cava|subvenciones y que vendrían bien impuestos y subvenciones para pero para
+00:46:45.860|Jose Luis Cava|crear una empresa no como hicieron aquí cuando fomento de trabajo nacional en
+00:46:51.080|Jose Luis Cava|Cataluña el sector textil que nos elevaron los impuestos pero luego
+00:46:54.760|Jose Luis Cava|sinceramente no se renovó la industria lo ideal es subimpuestos para proteger
+00:46:59.440|Jose Luis Cava|tu producción invierte aumenta la capacidad y lucha de acuerdo llama la
+00:47:04.640|Jose Luis Cava|atención por ejemplo que no hable nadie aquí de tierras raras y si hablas de
+00:47:09.400|Jose Luis Cava|tierras raras, te dicen que no eres ecologista, que no eres verde... sin tierras
+00:47:14.240|Jose Luis Cava|raras, vosotros los verdes no podéis hacer aviones de combate porque necesita
+00:47:19.240|Jose Luis Cava|11 kilos cada avión de combate para bombardear a los rusos de forma verde, ¿de
+00:47:24.360|Jose Luis Cava|acuerdo? Bombardear verde...
+00:47:36.080|Entrevistador|digo que no, no hay que ser un guarro con el mundo, pero obviamente aquí
+00:47:42.480|Entrevistador|hay una estrategia fuera de lugar que está complicándolo todo y que está
+00:47:46.160|Entrevistador|haciendo que Europa tenga menos capacidad de competencia. En estos momentos el coche
+00:47:49.680|Entrevistador|más vendido en España es un chino ya y cuando... es así, por primera vez
+00:47:54.680|Entrevistador|todo el mundo estaba sorprendido, esta semana o la semana pasada salió ¿no? el coche
+00:47:58.640|Entrevistador|más vendido en España es un coche chino y todos ¿qué cosa más rara? pero si eso se veía
+00:48:03.320|Entrevistador|venir si esta gente funciona de otra manera nosotros qué leches estamos
+00:48:07.300|Entrevistador|haciendo estamos incrementando costes en todo lo que producimos es imposible
+00:48:12.340|Entrevistador|competir y además tenemos un problema de eficiencia porque cada vez es más
+00:48:16.620|Entrevistador|costoso incluso no sólo en España en toda Europa contratar personas es muy
+00:48:22.420|Entrevistador|costoso contratar personas es lógico que sea costoso pero el problema es
+00:48:28.700|Jose Luis Cava|contratar personas, contratar servicios de calidad y de forma barata. Eso no le
+00:48:34.420|Jose Luis Cava|preocupa a nadie. Si te fijas en las... yo me fijo... yo siempre parto de la educación
+00:48:39.180|Jose Luis Cava|incluso de la filosofía y luego de la universidad. Una universidad obsoleta que
+00:48:43.500|Jose Luis Cava|explica cosas que ya no vende. Yo por ejemplo estuve muy ligado al tema
+00:48:47.180|Jose Luis Cava|aeronáutico. Bueno, medir cuando cogen y ves que sacan aeronáuticos y dicen
+00:48:52.860|Jose Luis Cava|pero si es que todos estos van a acabar en el mejor de los casos como
+00:48:55.780|Jose Luis Cava|desarrolladores o con una empresa para hacer criptomonedas hasta que quiebre y
+00:48:59.460|Jose Luis Cava|mientras tenga crédito. Es decir, pero yo no veo a nadie construyendo aviones aquí,
+00:49:03.220|Jose Luis Cava|¿sabes lo que te quiero decir? Y de hecho que ahora están remontando el vuelo. Pero me
+00:49:06.620|Jose Luis Cava|refiero que la oferta de ingenieros aeronáuticos pues es muy grande para la
+00:49:12.940|Jose Luis Cava|demanda que hay, es superior a la demanda. Y sin embargo tenemos gente que no
+00:49:16.740|Jose Luis Cava|tenemos puestos de trabajo, no tenemos chavales preparados para desarrollar
+00:49:20.660|Jose Luis Cava|puestos de trabajo determinados en los que hay una escasez de mano de obra.
+00:49:24.180|Jose Luis Cava|Pero es que a nadie le preocupa. Si a mí lo que me preocupa, yo cuando veo a los políticos,
+00:49:27.980|Jose Luis Cava|si a mí lo que me preocupa es el comentario. Es decir, mira a mí no me importa, te lo digo
+00:49:32.340|Jose Luis Cava|honestamente, no me importa el rollo de la política, no me importa su rollo, es que no
+00:49:36.100|Jose Luis Cava|me importa nada de eso. Ahora digo, me encantaría. Por ejemplo, te voy a decir un detalle que es
+00:49:39.900|Jose Luis Cava|terrible. Tú lo has dicho antes, el envejecimiento de la población. Es indudable que España,
+00:49:45.860|Jose Luis Cava|Europa está envejecida. España está envejecida. ¿Has visto algún partido político que dé alguna
+00:49:50.380|Jose Luis Cava|solución en su programa? Ninguno. Te voy a decir más. El PP lo ha dicho, pero la
+00:49:53.780|Jose Luis Cava|solución que da está sin méritas. Y no me puedes decir tú que el problema del
+00:49:57.180|Jose Luis Cava|envejecimiento de la población es el problema más importante que tenemos en
+00:49:59.900|Jose Luis Cava|España. Porque primero es la población y luego viene la economía. No, no está al
+00:50:03.340|Jose Luis Cava|revés. La vivienda suba, tiene que haber población joven en tu ciudad y que entre.
+00:50:08.180|Jose Luis Cava|¿A quién le preocupa? Nadie lo dice. A mí, inmigrante, mira, yo soy de familia de
+00:50:13.060|Jose Luis Cava|inmigrantes. Mis padres fueron a Alemania. Mi hijo está en Londres, es inmigrante.
+00:50:16.620|Jose Luis Cava|O sea, yo estoy receptivo a emigrantes, pero con un orden.
+00:50:20.580|Jose Luis Cava|Vamos a buscarles, vamos a formarles, que vengan.
+00:50:24.180|Jose Luis Cava|Si yo quiero que vengan, porque tenemos una sociedad envejecida.
+00:50:27.700|Jose Luis Cava|Primero hay que hacerlo para mejorar su situación por ellos,
+00:50:32.060|Jose Luis Cava|pero también por nuestro interés, si es que van de la mano.
+00:50:34.780|Jose Luis Cava|El interés de ellos y el nuestro.
+00:50:36.620|Jose Luis Cava|Pero para esa integración,
+00:50:38.700|Jose Luis Cava|yo vivo en un barrio en el que hay una gran cantidad de mezcla aquí en Madrid
+00:50:41.940|Jose Luis Cava|y en mi barrio sudamericanos.
+00:50:43.380|Jose Luis Cava|Por ejemplo, el señor que me atiende en el café es el Holles de mi barrio, que hablo con él, el hombre es de Siria, hablábamos y tal...
+00:50:51.180|Jose Luis Cava|Intégranos y trae gente de fuera, pero con un plan, pero con un plan. No me los tengan debajo del puente. Es que en mi barrio, debajo del puente, hay gente viviendo.
+00:51:10.580|Entrevistador|O sea, esa historia de pones en duda que lo que está pasando en Lampedusa, oye
+00:51:15.020|Entrevistador|perdón hay que buscar una solución, pero es que está pasando en las Canarias, está
+00:51:17.860|Entrevistador|pasando en el sur de... está pasando también en las Islas Baleares, va a pasar
+00:51:21.620|Entrevistador|en todas partes porque hay problemas allí y es normal que la gente huya.
+00:51:25.900|Entrevistador|Entonces, si van a huir y se buscan la vida, esto se tiene que organizar porque
+00:51:30.020|Entrevistador|es que al final los conflictos van a venir, las segundas y terceras
+00:51:33.500|Entrevistador|generaciones de todas estas personas que viven en guetos, que viven alejados de la
+00:51:38.100|Entrevistador|realidad cultural de un país al final se generan problemas como está pasando en
+00:51:41.340|Entrevistador|Francia que no sabemos porque no nos explican pero siguen pasando los que
+00:51:44.960|Entrevistador|llamamos por teléfono nuestros amigos hay cosas que desaparecen las noticias y
+00:51:48.080|Entrevistador|parece que ya no están siguen estando y aquí vamos a tener problemas de esos y
+00:51:51.480|Entrevistador|resulta como tú bien dices te vuelvo a dar la palabra que el problema está en
+00:51:56.160|Entrevistador|ese envejecimiento absoluto de nuestra sociedad o sea hay provincias en España
+00:52:00.120|Entrevistador|que ya hay más pensionistas que trabajadores
+00:52:11.840|Jose Luis Cava|tema de los políticos, porque el político busca el enfrentamiento, no
+00:52:14.880|Jose Luis Cava|busca el diálogo, no busca soluciones. Es el enfrentamiento para yo quedarme la
+00:52:18.800|Jose Luis Cava|pantrola. Y luego desgraciadamente tenemos los medios de comunicación, que
+00:52:22.880|Jose Luis Cava|a ver cómo lo digo para que suene bien, son medios de comunicación corporativos.
+00:52:26.800|Jose Luis Cava|No son periodistas en sentido de su código ético, sino que ellos trabajan
+00:52:31.080|Jose Luis Cava|para algo y son corporativos, son medio corporativos, es lo mismo que tu equipo
+00:52:36.360|Jose Luis Cava|de prensa de una empresa, pues ellos son el equipo de prensa de una ideología de
+00:52:39.480|Jose Luis Cava|arte obreto y eso lo reparten, entonces tenemos que defendernos y bueno y es
+00:52:44.640|Jose Luis Cava|que esto es lo que hay, por lo tanto yo creo que... vamos a ver, y yendo a la economía, esto no
+00:52:48.880|Jose Luis Cava|tiene solución, olvídense, no tiene solución, yo tengo muchos amigos en
+00:52:53.200|Jose Luis Cava|Francia, muchos amigos y me dicen que va a haber guerra civil en Francia, y yo, como puedo decir
+00:52:57.560|Jose Luis Cava|esa barbaridad. Dice, oye que vivo yo, pero a mí me parece una barbaridad. Dice que no los vamos a
+00:53:02.400|Jose Luis Cava|conseguir, no nos vamos a conseguir integrar unos y otros. Que el enfrentamiento
+00:53:06.240|Jose Luis Cava|lo hay. Dice, hay que trabajar para eso. Dice, pero esto ya se les ha ido de madre.
+00:53:09.800|Jose Luis Cava|Se les ha ido. No hay voluntad. No hay voluntad.
+00:53:17.300|Entrevistador|política valiente, con luces largas. Estamos en manos de gente que seguramente,
+00:53:23.880|Entrevistador|mayoritariamente hay gente muy buena pero mayoritariamente yo no los contrataría
+00:53:28.800|Entrevistador|mi empresa sabes entre tú y yo y pocas empresas y esta gente en todo caso
+00:53:35.880|Entrevistador|déjame que por cierto has dicho una cosa con respecto a la versión oficial los
+00:53:40.880|Entrevistador|medios y tal yo cuando te despida luego explicaré a los que están por aquí que
+00:53:44.640|Entrevistador|son un montón por cierto y veo que de likes hay pocos que pasa que nos está
+00:53:48.200|Entrevistador|gustando jose luis o que nos está gustando darle al like todos hombre que
+00:53:51.660|Entrevistador|sino no se refleja pero sí que es verdad que en los medios ahora ha lanzado una
+00:53:56.580|Entrevistador|campaña que habla de que la verdad sólo está de manos de los periodistas como si
+00:54:02.380|Entrevistador|eso fuese... pero bueno eso es otro tema que ya comentaremos. En manos de los
+00:54:07.400|Jose Luis Cava|periodistas es porque obviamente no es así. Han tenido que hacer una campaña. Y salud está en manos de los
+00:54:14.040|Jose Luis Cava|médicos. Y de que hagas una dieta y de que hagas
+00:54:20.120|Entrevistador|deporte. Yo tengo una lucha infinita con mi hijo. Y eso que mi mujer... y hemos tenido en
+00:54:26.200|Jose Luis Cava|casa el problema ese. Mi mujer le decía cómo comer y él decía que no, que no
+00:54:28.800|Jose Luis Cava|tiene ni idea. Oye, antes de despedirte, José Luis,
+00:54:35.400|Entrevistador|pues ya sabes que nosotros hacemos aquí en este canal las entrevistas, las charlas...
+00:54:39.040|Entrevistador|las hacemos cortas para que queden ganas de otra ¿sabes?
+00:54:43.800|Entrevistador|Yo quería preguntarte porque has comentado que estamos ahí con reservas
+00:54:47.640|Entrevistador|posibles, lo que podemos hacer para protegernos un poquito de esa pérdida de
+00:54:52.440|Entrevistador|poder adquisitivo, has hablado del oro, has hablado de materias primas, incluso hoy
+00:54:57.680|Entrevistador|no pero yo te he escuchado hablar de diamantes, de bitcoin... ¿tú de bitcoin qué
+00:55:03.960|Entrevistador|plan ves? De un punto de vista teórico te contesto, el éxito del
+00:55:08.360|Jose Luis Cava|Bitcoin pasa por lo siguiente, que se utilice como medio de pago, lo mismo que
+00:55:11.700|Jose Luis Cava|pasó con el oro. El oro al principio era un medio de pago, que es horrible. Cuando ya se
+00:55:15.740|Jose Luis Cava|consolida como medio de pago y la gente sabe que puede utilizar el Bitcoin para
+00:55:18.740|Jose Luis Cava|pagar una deuda, entonces la acumula como depósito de valor. Eso es lo primero que
+00:55:23.060|Jose Luis Cava|tiene que hacer Bitcoin, negociar mucho. En segundo lugar, aquí todo en torno al
+00:55:26.620|Jose Luis Cava|Bitcoin gira en torno a la SEC, ¿de acuerdo? La SEC va a permitir, ha pedido un
+00:55:32.120|Jose Luis Cava|periodo transitorio para pensar, pero no sabe qué hacer, pero va a permitir que
+00:55:35.700|Jose Luis Cava|se lancen los ETFs de Bitcoin, ¿de acuerdo? Con lo cual, si ya la gran
+00:55:39.020|Jose Luis Cava|industria financiera se mete en el mercado de Bitcoin, bueno, ya se ha
+00:55:43.340|Jose Luis Cava|metido, hablando claro, ya se ha metido, lo más probable es que el Bitcoin en ese
+00:55:47.580|Jose Luis Cava|sentido progrese. Yo, como especulador, pues mire, lo tengo en el radar. Ahora
+00:55:52.820|Jose Luis Cava|mismo la tendencia no es altista, pero en el momento que vea que la tendencia es
+00:55:56.820|Jose Luis Cava|altista, yo en caídas voy a acumular. Pero Bitcoin yo creo que hay que tener.
+00:56:01.380|Jose Luis Cava|Ahora mismo, fíjense ustedes en detalle, si fijan un gráfico de Bitcoin, observarán
+00:56:04.660|Jose Luis Cava|que en la zona de 26.000 ahí ha tratado de hacer un soporte y ahora se ha
+00:56:07.980|Jose Luis Cava|recuperado y está por encima de 27.000. Si zona de soporte de la zona 25-26 se
+00:56:13.220|Jose Luis Cava|mantiene, muy probablemente el Bitcoin va a subir. Yo no soy adivino, yo no sé lo
+00:56:16.620|Jose Luis Cava|que va a hacer, yo le digo lo que yo estoy pensando. Entonces, si retoma la
+00:56:20.580|Jose Luis Cava|tendencia alcista, yo creo que nosotros deberíamos fijarnos. Y es muy importante,
+00:56:24.780|Jose Luis Cava|hay un fondo que se llama Grayscale que ya le ha ganado un juicio a la SEC y se va a
+00:56:29.460|Jose Luis Cava|convertir en un ETF, con lo cual si ya el mundo financiero invierte en ETF, no se
+00:56:34.220|Jose Luis Cava|necesita comprar Bitcoin a través de ETFs, lo puedes comprar directamente, pero
+00:56:39.780|Jose Luis Cava|mucha gente se siente más tranquila yendo al ETF y no tenía que custodiar
+00:56:42.900|Jose Luis Cava|su Bitcoin, ¿de acuerdo? Y les digo más, tener Bitcoin, que pensamos que nos va a
+00:56:49.060|Jose Luis Cava|defender del gobierno, yo no soy especialista en Bitcoin y aspectos técnicos,
+00:56:52.100|Jose Luis Cava|pero se me ha ocurrido una cosa, si un gobierno se le ocurre la maldad y quiere
+00:56:57.020|Jose Luis Cava|anular nuestros Bitcoin, bastaría con impedirnos tener en la memoria de
+00:57:03.500|Jose Luis Cava|nuestro ordenador la dirección. ¿Queda clara? Sí, queda clara.
+00:57:11.880|Jose Luis Cava|papel eso. Simplemente que no nos dejan... si tienes bitcoins físicos a tu nombre,
+00:57:15.800|Jose Luis Cava|prefiero que los tienes en una bolsa o en algo, no los tienes fríos, tú coges
+00:57:19.840|Jose Luis Cava|simplemente con que te quiten la posibilidad de que en tu ordenador no
+00:57:24.020|Jose Luis Cava|esté la dirección. Ahora te da problema. Y aunque te quiten la luz, claro.
+00:57:36.740|Entrevistador|congreso, hay un encuentro que se llama Watchout Bitcoin España en Madrid y
+00:57:41.280|Entrevistador|donde van a venir los máximos expertos de esta historia, en el que por cierto yo
+00:57:45.780|Entrevistador|estoy en una mesa y tengo un debate con mafo, o sea que la cosa puede ser, la cosa
+00:57:51.180|Entrevistador|promete, pero en todo caso lo interesante es esa billetera fría que tú lo puedas
+00:57:56.820|Entrevistador|tener, porque yo Bitcoin lo veo más como un efectivo digital futuro en el que yo
+00:58:01.420|Entrevistador|pueda comprar lo que me dé la gana sin tener que estar diciéndole a la gente,
+00:58:04.340|Entrevistador|sin hacer, no tienes por qué delinquir, yo no delinco cuando utilizo 50 euros y
+00:58:07.980|Entrevistador|me voy a algún sitio, o sea, son mis 50 euros y no queda constancia en ningún
+00:58:11.980|Entrevistador|lugar de que me estoy tomando un café con un coñac, pues lo mismo con
+00:58:16.620|Entrevistador|Bitcoin, yo lo veo ahí, no lo veo tanto, tú como especulador pues obviamente vas
+00:58:20.980|Entrevistador|buscando réditos, pero yo creo que sinceramente es un buen espacio para, de
+00:58:26.060|Entrevistador|momento, a ver si con la STF y todo esto al final va a haber una demanda de
+00:58:30.020|Entrevistador|Bitcoin que ahora no hay y si la gente confía en las STF como custodio pues
+00:58:35.300|Entrevistador|bueno cada uno que haga lo que considere, esas son recomendaciones. José Luis, una
+00:58:39.660|Entrevistador|cosita, hay cuatro preguntas seleccionadas y te las vamos a hacer muy
+00:58:44.000|Entrevistador|rápido y así pues si puedes pues las respondes y ya está, muy fácil, vamos a ver.
+00:58:54.300|Entrevistador|invertir en... ¿Qué opinas tú? ¿Invertir a largo plazo en oro, plata para combatir la
+00:58:59.960|Entrevistador|estanflación, no sólo la inflación? ¿Él diversifica en metales, efectivo, dólares,
+00:59:04.280|Entrevistador|peso mexicano, franco suizo? Más o menos lo que has comentado, pero bueno, si quieres
+00:59:07.400|Entrevistador|decir algo más. Hombre, yo sinceramente creo que invertir en materias primas... Bueno, a mí me
+00:59:11.440|Jose Luis Cava|gusta más el oro que la plata. Ya sé que la plata tiene que subir, que está
+00:59:14.120|Jose Luis Cava|retrasada y tal, pero yo estoy más en el oro que la plata. Hablando de lo que yo hago,
+00:59:17.960|Jose Luis Cava|¿de acuerdo? Cada uno tiene que decidir lo suyo. A mí las materias primas me gustan,
+00:59:21.800|Jose Luis Cava|me gustan bastante de acuerdo y más que nada porque el problema que tienen ahora
+00:59:28.320|Jose Luis Cava|mismo occidente es el problema de la escasez de materias primas el problema
+00:59:31.120|Jose Luis Cava|que tenemos a la hora de invertir es que si en un momento determinado yo estoy por
+00:59:34.600|Jose Luis Cava|ejemplo pensando en el en el petróleo es cierto han cortado la producción pero en
+00:59:39.520|Jose Luis Cava|un momento determinado de haberse de Rusia necesitarán exportar más oro
+00:59:42.960|Jose Luis Cava|sobre todo si la economía entra en recesión ellos tendrán que eliminar los
+00:59:46.400|Jose Luis Cava|recortes en segundo lugar ustedes oirán que están hablando también de la
+00:59:49.640|Jose Luis Cava|reserva estratégica de petróleo. Cuento porque qué necesidad tiene EEUU de
+00:59:55.640|Jose Luis Cava|tener una reserva estratégica elevada cuando es el primer productor mundial de
+00:59:59.480|Jose Luis Cava|petróleo y cuando miramos todos los líquidos derivados del petróleo nos
+01:00:03.220|Jose Luis Cava|encontramos que tiene una reserva adecuada. Por lo tanto yo creo que el
+01:00:08.320|Jose Luis Cava|precio del petróleo puede subir yo creo que puede subir es sólido y a mí
+01:00:12.160|Jose Luis Cava|diversificar entrando materias primas franco suizo oro de acuerdo y bitcóin me
+01:00:18.080|Jose Luis Cava|parece muy buena idea, es el camino en el que yo estoy trabajando. Por cierto, una
+01:00:23.880|Entrevistador|cosa se me ha pasado de preguntarte, ¿cómo puede ser que suban los
+01:00:28.640|Entrevistador|tipos de interés hace unos días en el euro y el euro se deprecie contra el
+01:00:32.960|Entrevistador|dólar? Y esto tiene lógica, yo te lo explico para que tú lo veas, es muy
+01:00:37.320|Jose Luis Cava|fácil, la bolsa es una máquina que descuenta
+01:00:41.440|Jose Luis Cava|expectativas, no es un periodista, ¿de acuerdo?
+01:00:45.400|Jose Luis Cava|en la tele quieren ver que ellos publican la noticia y que inmediatamente se mueve
+01:00:51.280|Jose Luis Cava|el precio en ese sentido. No, así no juega la bolsa. La bolsa es una máquina que
+01:00:55.020|Jose Luis Cava|descuenta expectativas. Cuando tú ya lo tienes descontado, lo explico bien, cuando
+01:00:59.860|Jose Luis Cava|tú ya lo tienes descontado, cuando sale la noticia queda un poquito de recorrido
+01:01:03.540|Jose Luis Cava|y luego se mueve en sentido contrario. Además de esto, en el movimiento de ayer
+01:01:07.700|Jose Luis Cava|lo que la gente entendió es que el Banco Central Europeo con esta subida ya era
+01:01:12.740|Jose Luis Cava|la última ¿de acuerdo? y entonces automáticamente la gente dijo pues ahora
+01:01:16.880|Jose Luis Cava|el euro ya no va a tener tanto apoyo porque va a seguir cayendo. En los
+01:01:21.080|Jose Luis Cava|mercados de futuros están descontando los recortes a partir de julio ¿de acuerdo?
+01:01:25.440|Jose Luis Cava|dicen que les puede quedar una subida y luego recorte luego se juntaron los dos
+01:01:28.820|Jose Luis Cava|factores por una parte estaba muy descontado y por otra parte al meter la
+01:01:32.880|Jose Luis Cava|palabra que lo nuevo era que probablemente sería la última que lo
+01:01:36.640|Jose Luis Cava|van a tener que meditar eso ya provocó que el euro se debilitar pero si te
+01:01:40.040|Jose Luis Cava|fijas, luego fue anulado el movimiento a la baja inicial, luego fue anulado.
+01:01:44.360|Jose Luis Cava|Generalmente, cuando salen noticias, del signo que sea, yo he
+01:01:49.280|Jose Luis Cava|aprendido que es mejor no especular esos días. Ese día mejor no
+01:01:53.960|Jose Luis Cava|especular, porque los movimientos son movimientos. De hecho, por ejemplo, en mi canal
+01:01:56.720|Jose Luis Cava|decimos siempre, en S&P 500, cuando salen las típicas noticias muy importantes
+01:02:00.800|Jose Luis Cava|durante los 45 minutos posteriores a la publicación de la noticia, no es
+01:02:05.160|Jose Luis Cava|conveniente regular porque hay movimientos falsos. No sólo así, sino falsos para engañarnos.
+01:02:11.240|Jose Luis Cava|Falsos totalmente. Yo me acuerdo cuando trabajaba en bolsa en los años 96-97 por
+01:02:16.200|Entrevistador|allí que todavía íbamos con el teléfono que poníamos ahí encima del
+01:02:19.880|Entrevistador|módem. Me acuerdo de eso y recordaré siempre el hecho de que hay momentos en
+01:02:24.920|Entrevistador|los que se producen las cosas al revés, precisamente porque están descontadas.
+01:02:30.080|Entrevistador|Hay un efecto notable, a veces la gente no lo, por lo menos, no sé, igual tú
+01:02:35.080|Entrevistador|consideras que no es tan exacto así, pero cuando pongamos el caso de que
+01:02:40.680|Entrevistador|los tipos de interés no suben más en Europa, pongamos el caso, el euro pierde
+01:02:45.160|Entrevistador|interés con respecto al dólar, se deprecia un poquito y resulta que eso no
+01:02:49.240|Entrevistador|sube el petróleo, no sube el petróleo porque como los barriles se llenan en
+01:02:52.160|Entrevistador|dólares, dice pero cómo puede ser que ahora nosotros que podemos, pues no,
+01:02:56.000|Entrevistador|compras menos o compras lo mismo a un precio mayor y por eso todo acaba
+01:02:59.880|Entrevistador|repercutiendo, es decir, es inflacionario el hecho de que paralices el incremento
+01:03:04.200|Entrevistador|de los tipos, no porque el dinero se haga más barato, sino porque tu enfrentamiento
+01:03:08.120|Entrevistador|contra el que se compra en materias primas es mucho menor. Esas son las cosas
+01:03:12.080|Entrevistador|de la economía tan divertidas. Bueno, yo te contaría anécdotas divertidas del caso de un
+01:03:16.400|Jose Luis Cava|marajá que va a un país y era el tío que más oro tenía en el mundo, entonces va a
+01:03:22.160|Jose Luis Cava|un país, no me acuerdo qué país, y va y reparte oro entre la gente para hacer que
+01:03:26.120|Jose Luis Cava|la gente sea más rica. Provocó tal subida de precios que les hizo más pobres.
+01:03:30.120|Entrevistador|De hecho, esa es la historia. Hay un vídeo mío, te lo voy a enviar. Hice un vídeo, a veces,
+01:03:36.880|Entrevistador|de vez en cuando, pues me da por investigar cosas de la historia y es el
+01:03:42.200|Entrevistador|tipo más rico de la historia. Este tipo fue un rey de Mali, que es el tipo más
+01:03:47.080|Entrevistador|rico de la historia. El análisis de riqueza comparativa supera a Roquefe,
+01:03:53.960|Entrevistador|Él era el hombre más… Supera a todos. Era el tío más rico del mundo durante un tiempo determinado.
+01:03:57.700|Entrevistador|Y este tío se fue a Egipto y repartió todo el oro que llevaba, porque llevaba un montón de oro,
+01:04:02.100|Entrevistador|y provocó no solo la inflación más absoluta, o sea, claro, la gente tenía tanto dinero que no quería trabajar.
+01:04:08.460|Entrevistador|Era una cosa tremenda. Pero bueno, te lo voy a enviar para que lo veas a ver qué te parece.
+01:04:12.260|Entrevistador|Oye, José Luis, un gusto tenerte en mi directo. No será la última vez,
+01:04:16.660|Entrevistador|pero seguro… Te voy a encantar. Estoy a tu disposición.
+01:04:22.260|Entrevistador|enviar likes y felicitaciones y todo y ya lo sabéis si queréis saber más de
+01:04:27.220|Entrevistador|José Luis tiene ahí un canal tremendo, os acaba y que cada mañana se tome un
+01:04:31.620|Entrevistador|café con todos sus seguidores y con instrucciones sobre lo que hay que hacer
+01:04:36.100|Entrevistador|muchísimas gracias José Luis, un placer. Gracias, un saludo a todo el mundo, muchas gracias.
+01:04:39.580|Jose Luis Cava|Que vaya muy bien, nos vemos pronto, chao.
+01:04:48.940|Entrevistador|con José Luis Cava. Sinceramente, es de estas en las que se aprenden muchas
+01:04:55.320|Entrevistador|cosas mientras conversas con él. Vamos a ir directos a la parte final. Yo quiero
+01:04:59.820|Entrevistador|simplemente deciros tres detalles con una reflexión final y los nombres de los
+01:05:05.020|Entrevistador|ganadores y una serie de cosas que hay que hacer. Pero bueno, deciros que, como
+01:05:08.580|Entrevistador|siempre si os ha gustado, le tenéis que meter caña a los likes y dar comentarios
+01:05:12.980|Entrevistador|porque eso hace que el algoritmo o lo que sea valore este vídeo, que ya sabéis
+01:05:17.100|Entrevistador|que los directos no los promociona YouTube, solamente te los muestra al
+01:05:21.140|Entrevistador|principio. Próximos invitados que van a ver aquí en este canal pues desde José
+01:05:24.660|Entrevistador|Luis Cárpatos, Juan Soto Ibarz, Samuel Ugar,
+01:05:32.220|Entrevistador|pobre Millennial que por fin se sabrá en este canal quién es, pobre Millennial
+01:05:36.980|Entrevistador|que es una persona que hace unos contenidos tremendamente instructivos y
+01:05:41.220|Entrevistador|didácticos sobre qué hacer con nuestro dinero, cómo conseguir libertad
+01:05:44.740|Entrevistador|financiera, pero nadie sabe quién es y se sabrá aquí. Tendremos a José Luis
+01:05:48.140|Entrevistador|Izuel del Mundo de los Autónomos, también tendremos a Diego de la Cruz, a
+01:05:52.500|Entrevistador|Edurne Uriarte, a Manuel Llamas, a Lorenzo Amor y a Gisela Baños. Mucha gente en los
+01:05:56.260|Entrevistador|próximos directos que no está siendo fácil combinarlo todo, pero hay
+01:05:59.700|Entrevistador|muchísimas personas con ganas de estar. Me vais a permitir que os diga que los
+01:06:04.260|Entrevistador|ganadores del concurso lo que tienen que hacer es lo siguiente, por cierto, en la
+01:06:08.620|Entrevistador|lista que apareció por ahí, la lista con las fotografías, la fotografía no era de
+01:06:12.660|Entrevistador|los ganadores, la fotografía era un adorno, es que hay gente que dice joder
+01:06:15.860|Entrevistador|qué casualidad que todos son tan jóvenes, no, es que era una fotografía de
+01:06:19.820|Entrevistador|recurso que se pone para decir habéis ganado, no, porque como salían ahí, pero
+01:06:23.820|Entrevistador|bueno, en todo caso os lo repito, si sois alguno de vosotros tenéis que enviar un
+01:06:28.580|Entrevistador|correo electrónico a hello, h-e-l-l-o, arroba, allrework, a-l-l-v, luego lo pondré aquí
+01:06:35.760|Entrevistador|abajo oldrecord.com, mi empresa, enviáis un correo ahí si sois uno de ellos y
+01:06:40.000|Entrevistador|demostráis que sois uno de esos ganadores. Los libros una hormiga en
+01:06:43.240|Entrevistador|parís firmados las han ganado Carmen Ester la fuente, Julen Sistiaga, la era
+01:06:48.120|Entrevistador|de la humanidad firmados la han ganado Gorka Unda, Jessica Giselle Martínez
+01:06:52.400|Entrevistador|Johnson, el polo azul del Racing Club Lens Serie Limitada lo ganó María Pilar
+01:06:57.360|Entrevistador|Flix, el polo negro del Utrecht Serie Limitada 50 Hart lo ganó Diego Raúl Gal
+01:07:02.360|Entrevistador|el Marini, las entradas para el Watchout Bitcoin 2023 la ganaron Noelia Rodríguez
+01:07:07.520|Entrevistador|Tejero y Carolina García Gabaldón. Comentaros que si sois alguno de ellos
+01:07:13.040|Entrevistador|sólo enviáis un correo y nosotros haremos todo lo necesario para que lo
+01:07:17.400|Entrevistador|recibáis. Dejadme acabar con una cosa que estábamos comentando ahora con José
+01:07:21.760|Entrevistador|Luis y que tiene que ver con esta campaña que hay por ahí ahora mismo
+01:07:26.480|Entrevistador|sobre que es una campaña contra los generadores de contenido, no es a favor
+01:07:31.200|Entrevistador|del periodismo es en contra de los generadores de contenido,
+01:07:39.680|Entrevistador|serie de personas, los que seamos, los que sean, no lo sé, pues no es fiable o cuesta
+01:07:44.640|Entrevistador|o que podría ser no fiable, que alguna vez pues has tan engañado o alguna cosa
+01:07:48.880|Entrevistador|por el estilo o que lo mejor es que vayas directamente a las fuentes
+01:07:52.240|Entrevistador|periodísticas tradicionales que ahí pues es donde está la verdad. Bueno, en todo
+01:07:57.280|Entrevistador|caso, a mí eso no me quita el sueño porque creo sinceramente que lo que hay
+01:08:01.680|Entrevistador|que hacer es informarse de múltiples maneras, no sólo por la que tenga alguien
+01:08:06.280|Entrevistador|considerado que es quien puede dar la versión oficial, os puedo decir, os puedo
+01:08:09.680|Entrevistador|asegurar que yo oigo censuras por todas partes, o sea, es tremendo. En TikTok, por
+01:08:15.120|Entrevistador|ejemplo, es una red que yo pues quisimos probar a ver qué contenido se puede
+01:08:18.800|Entrevistador|generar, generamos de forma más o menos puntual en TikTok, a mí me bloquean los
+01:08:23.240|Entrevistador|vídeos sistemáticamente porque consideran que hablar de economía no es
+01:08:28.040|Entrevistador|adecuado o por lo menos de la manera que yo lo digo pero que tengo un
+01:08:31.880|Entrevistador|montón de vídeos que están baneados y los que no están baneados ya te advierten
+01:08:35.400|Entrevistador|que no los van a mover cosas increíbles en Instagram pasan cosas parecidas y aquí
+01:08:39.680|Entrevistador|como sabéis también alguna vez esto al final a mí el otro día pensaba bueno qué
+01:08:45.720|Entrevistador|pasa con esto la recepción de la información y lo que puedes explicar y
+01:08:48.680|Entrevistador|Y creo sinceramente que es importante adivinar que nadie tiene la verdad
+01:08:54.160|Entrevistador|absoluta y que lo interesante es saber reconocer esa verdad sin que nadie te la
+01:09:00.960|Entrevistador|tenga que traducir. Fijaos en esta historia, había un tipo que ganó 100.000 dólares o
+01:09:06.320|Entrevistador|100.000 euros en, no sé, en alguna cosa, pongamos en Las Vegas, ganó 100.000
+01:09:12.200|Entrevistador|dólares en Las Vegas. El tipo decidió coger ese dinero y enterrarlo
+01:09:17.320|Entrevistador|en su jardín, en su jardín de su casa lo enterró. Al cabo de un día pues el tío
+01:09:23.480|Entrevistador|llega a su casa para coger esos 100.000 dólares y buscar la manera de ingresarlos
+01:09:26.920|Entrevistador|o de invertirlos en lo que fuera y ve que ya no están, hay un agujero, hay un
+01:09:32.400|Entrevistador|agujero en el suelo, los 100.000 dólares no están y ve unas huellas que llevan a
+01:09:37.400|Entrevistador|la casa de al lado. En la casa de al lado hay un vecino que es sordo y mudo, es
+01:09:43.480|Entrevistador|decir no escucha y no puede hablar la cuestión es que dice cómo le digo yo a
+01:09:47.280|Entrevistador|este tipo que me devuelva el dinero y coge y como conoce a un bueno un tipo
+01:09:51.920|Entrevistador|que conoce el lenguaje de signos lo llama y dice oye tendrías que venir
+01:09:56.720|Entrevistador|conmigo a decirle a mi vecino que me devuelva el dinero que me lo ha robado
+01:10:00.520|Entrevistador|él porque es que yo sé que están las huellas ahí y entonces el tío lo
+01:10:04.640|Entrevistador|llevan allí se llaman a la puerta sale sale el vecino y que no puede hablar ni
+01:10:11.280|Entrevistador|prácticamente escuchar y le dice dile que sé que sé que tiene mi dinero que
+01:10:17.260|Entrevistador|te diga dónde lo tiene o lo mato y el tipo pues
+01:10:23.700|Entrevistador|el traductor el hombre del que sabe el lenguaje de signos le hace los signos
+01:10:28.440|Entrevistador|le contesta el otro que le dice también con signos le dice el dinero es verdad lo
+01:10:33.980|Entrevistador|tengo yo no te preocupes que está en mi jardín justo justo en un cerezo
+01:10:44.880|Entrevistador|100.000 dólares le dice oye que mira que dice lo siguiente que no te lo piensa
+01:10:49.080|Entrevistador|decir que antes preferiría estar muerto bueno pues eso lo importante en esta
+01:10:54.600|Entrevistador|historia es o la metáfora de esta historia es que la verdad absoluta no la
+01:10:58.620|Entrevistador|va a tener nadie al final sólo la vas a tener tú en base a la conciencia y el
+01:11:03.600|Entrevistador|conocimiento de cuantas más cosas puedas identificar alrededor que nadie
+01:11:08.280|Entrevistador|traduzca nada. Intenta comprender lo que ves asumiendo que cuantas más fuentes
+01:11:14.680|Entrevistador|tengas mejor. Ni yo soy el que más sabe, ni José Luis Cava era el que más sabe, ni
+01:11:20.520|Entrevistador|ningún tertuliano de no sé dónde, nadie es el que más sabe de nada. Pero en el
+01:11:24.480|Entrevistador|conjunto de las opiniones y conceptos que uno pueda analizar da igual, da igual
+01:11:30.240|Entrevistador|que no seas un experto en todo. Tú puedes hacer razonamientos objetivos sobre lo
+01:11:35.200|Entrevistador|que te afecta y lo que no te afecta. A veces las personas dicen ¿quién es la
+01:11:39.360|Entrevistador|persona más sabia en mi casa? Mi abuela. Mi abuela es la más sabia. ¿Cuántas
+01:11:43.200|Entrevistador|carreras tiene mi abuela? Ninguna. No tenía ninguna. Es decir, al final no es
+01:11:46.720|Entrevistador|una cuestión solo del nivel formativo, es el nivel crítico que tengas.
+01:12:00.480|Entrevistador|decidir por vosotros mismos. Que nadie os diga lo que tenéis que creer o lo que
+01:12:04.640|Entrevistador|tenéis que considerar adecuado.
+01:12:06.520|Entrevistador|Muchísimas gracias.
+01:12:08.160|Entrevistador|Próximo lunes abroto directo.
+01:12:09.520|Entrevistador|Mañana un vídeo de los de siempre.
+01:12:11.520|Entrevistador|Seguimos.
