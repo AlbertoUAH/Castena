@@ -39,7 +39,7 @@ def translate_text(text, target_lang='en'):
         final_translated_text.append(text)
     return ' '.join(final_translated_text)
 
-def capitalize_proper_nouns(text, nlp):
+def capitalize_proper_nouns(text):
     # Text analysis with SpaCy
     doc = nlp(text)
 
