@@ -7,7 +7,8 @@ import json
 import re
 import os
 
-BASE_DIR = '/home/runner/work/Castena/Castena'
+BASE_DIR  = '/home/runner/work/Castena/Castena'
+TRANSLATE = 0
 
 list_original_transcriptions   = [file for file in os.listdir(BASE_DIR + '/data/original_spanish_transcriptions/') if '.txt' in file]
 list_translated_transcriptions = [file for file in os.listdir(BASE_DIR + '/data/translated_transcriptions/') if '.txt' in file]
@@ -38,26 +39,31 @@ def translate_text(text, target_lang='en'):
         final_translated_text.append(text)
     return ' '.join(final_translated_text)
 
-def capitalize_proper_nouns(text):
+def capitalize_proper_nouns(text, nlp):
+    # Text analysis with SpaCy
     doc = nlp(text)
+
     modified_text = []
 
     for token in doc:
-        if token.pos_ != "PROPN":
+        if token.pos_ not in ["PROPN", "NOUN"]:
+            # Si es un nombre propio y ya está en mayúscula, conservarlo
             modified_text.append(token.text)
         else:
+            # De lo contrario, capitalizar la primera letra
             modified_text.append(token.text.capitalize())
 
     modified_text = " ".join(modified_text)
+
     # Correct punctuation signs
     modified_text = modified_text.replace(" .. ", "...")\
-                                 .replace(" , ", ",")\
+                                 .replace(" , ", ", ")\
+                                 .replace(" . ", ". ")\
                                  .replace(" .... ", "...")\
                                  .replace(" ... ", "...")\
                                  .replace(",¿", " ¿")\
                                  .replace(",.", ",")\
                                  .replace("?.", "? ")
-
     return modified_text
 
 # -- For loop to format every original transcription (if not already processed)
@@ -84,7 +90,8 @@ for original_transcription in list_original_transcriptions:
 		
 		result['literal_transcript'] = 'Desde el instante ' + result['min_time'] + ' hasta ' + result['max_time'] +\
 						' ' + result['speaker'] + ' dice: \"' + result['transcript'] + '\"'
-		result['literal_transcript'] = result['literal_transcript'].apply(translate_text)
+		if TRANSLATE:
+			result['literal_transcript'] = result['literal_transcript'].apply(translate_text)
 		
 		result = result.sort_values('min_time')
 		result_text = '\n\n'.join(result['literal_transcript'])
