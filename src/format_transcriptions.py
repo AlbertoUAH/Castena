@@ -8,7 +8,7 @@ import re
 import os
 
 BASE_DIR  = '/home/runner/work/Castena/Castena'
-TRANSLATE = 0
+TRANSLATE = False
 
 list_original_transcriptions   = [file for file in os.listdir(BASE_DIR + '/data/original_spanish_transcriptions/') if '.txt' in file]
 list_translated_transcriptions = [file for file in os.listdir(BASE_DIR + '/data/translated_transcriptions/') if '.txt' in file]
