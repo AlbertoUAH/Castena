@@ -10,6 +10,9 @@ from   langchain.chains            import RetrievalQA
 from   langchain.document_loaders  import TextLoader
 from   langchain.embeddings        import HuggingFaceEmbeddings
 from   googletrans                 import Translator
+from   langchain.embeddings.openai import OpenAIEmbeddings
+from   langchain.llms              import ChatOpenAI
+from   langchain.chains.question_answering import load_qa_chain
 import streamlit as st
 import together
 import textwrap
@@ -18,8 +21,57 @@ import os
 import re
 
 os.environ["TOGETHER_API_KEY"] = "6101599d6e33e3bda336b8d007ca22e35a64c72cfd52c2d8197f663389fc50c5"
+#os.environ["OPENAI_API_KEY"] = "6101599d6e33e3bda336b8d007ca22e35a64c72cfd52c2d8197f663389fc50c5"
 
-# -- LLM class
+# -- LLM class (chat GPT)
+class openAIModel():
+    model: str = "gpt-3.5-turbo"
+    """model name"""
+
+    openai_api_key: str = os.environ["OPENAI_API_KEY"]
+    """Open AI API key"""
+
+    temperature: float = 0.1
+    """What sampling temperature to use."""
+
+    chunk_size: float = 1000
+    """Setup chunk size"""
+
+    chunk_overlap: float = 200
+    """Setup chunk overlap"""
+
+    separator: str = "\n"
+    """Separator"""
+
+    persist_directory: str = "db" 
+    """Directory to persist"""
+
+    def _process_text(self, path):
+        # Load text file
+        loader = TextLoader(path)
+        documents = loader.load()
+        # Splitting the text into chunks
+        text_splitter = RecursiveCharacterTextSplitter(separator=self.separator, chunk_size=self.chunk_size, chunk_overlap=self.chunk_overlap)
+        chunks = text_splitter.split_documents(documents)
+
+        # Convert the chunks of text into embeddings to form a knowledge base
+        embeddings    = OpenAIEmbeddings()
+        vectordb      = Chroma.from_documents(documents=chunks,
+                                              embedding=embeddings,
+                                              persist_directory=self.persist_directory)
+        return vectordb
+
+    def get_response(self, path, query):
+        knowledgeBase = self._process_text(path)
+        docs          = knowledgeBase.similarity_search(query)
+        llm           = ChatOpenAI(model_name=self.model, temperature=self.temperature)
+        chain         = load_qa_chain(llm, chain_type='stuff')
+        response      = chain.run(input_documents=docs, question=query)
+        return response
+
+
+
+# -- LLM class (LLAMA-2)
 class TogetherLLM(LLM):
     """Together large language models."""
 
@@ -29,7 +81,7 @@ class TogetherLLM(LLM):
     together_api_key: str = os.environ["TOGETHER_API_KEY"]
     """Together API key"""
 
-    temperature: float = 0.7
+    temperature: float = 0.1
     """What sampling temperature to use."""
 
     max_tokens: int = 512
