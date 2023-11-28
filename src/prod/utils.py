@@ -35,10 +35,13 @@ class TogetherLLM(LLM):
     max_tokens: int = 512
     """The maximum number of tokens to generate in the completion."""
 
+    original_transcription: str = ""
+    """Original transcription"""
+
     class Config:
         extra = Extra.forbid
 
-    @root_validator()
+    #@root_validator(skip_on_failure=True)
     def validate_environment(cls, values: Dict) -> Dict:
         """Validate that the API key is set."""
         api_key = get_from_dict_or_env(
@@ -53,18 +56,16 @@ class TogetherLLM(LLM):
         return "together"
 
     def clean_duplicates(self, transcription: str) -> str:
-      lines = transcription.strip().split('\n')
-
-      new_transcription = []
-
-      for linea in lines:
-          if linea.replace('CONTEXT:/n/n ', '').replace('/n', '') not in new_transcription and linea != '':
-              new_transcription.append(linea.replace('CONTEXT:/n/n ', '').replace('/n', ''))
-      # Create new transcription without duplicates
-      new_transcription = '\n\n'.join(new_transcription).replace("""<</SYS>>
-      """, """<</SYS>>
-      CONTEXT: """)
-      return new_transcription
+      transcription = transcription.strip().replace('/n/n ', """
+""")
+      new_transcription_aux = []
+      for text in transcription.split('\n\n'):
+          if text not in new_transcription_aux:
+            is_substring = any(transcription_aux.replace('"', '').lower() in text.replace('"', '').lower()\
+                               for transcription_aux in new_transcription_aux)
+            if not is_substring:
+                new_transcription_aux.append(text)
+      return '\n\n'.join(new_transcription_aux)
 
     def _call(
         self,
@@ -72,16 +73,39 @@ class TogetherLLM(LLM):
         **kwargs: Any,
     ) -> str:
         """Call to Together endpoint."""
+        regex_transcription = r'CONTEXTO:(\n.*)+PREGUNTA'
+        regex_init_transcription = r"Desde el instante [0-9]+:[0-9]+:[0-9]+(?:\.[0-9]+)? hasta [0-9]+:[0-9]+:[0-9]+(?:\.[0-9]+)? [a-zA-Z ]+ dice: ?"
+
+        # -- Extract transcription
         together.api_key = self.together_api_key
-        output = together.Complete.create(prompt,
+        cleaned_prompt   = self.clean_duplicates(prompt)
+        resultado        = re.search(regex_transcription, cleaned_prompt, re.DOTALL)
+
+        resultado        = re.sub(regex_init_transcription, "", resultado.group(1).strip()).replace('\"', '')
+        resultado_alpha_num = [re.sub(r'\W+', ' ', resultado_aux).strip().lower() for resultado_aux in resultado.split('\n\n')]
+
+        # -- Setup new transcription format, without duplicates and with its correspondent speaker
+        new_transcription = []
+        for transcription in self.original_transcription.split('\n\n'):
+          transcription_cleaned = re.sub(regex_init_transcription, "", transcription.strip()).replace('\"', '')
+          transcription_cleaned = re.sub(r'\W+', ' ', transcription_cleaned).strip().lower()
+          for resultado_aux in resultado_alpha_num:
+            if resultado_aux in transcription_cleaned:
+              init_transcription = re.search(regex_init_transcription, transcription).group(0)
+              new_transcription.append(init_transcription + '\"' + resultado_aux + '\"')
+        # -- Merge with original transcription
+        new_transcription = '\n\n'.join(list(set(new_transcription)))
+        new_cleaned_prompt = re.sub(regex_transcription, f"""CONTEXTO:
+{new_transcription}
+PREGUNTA:""", cleaned_prompt, re.DOTALL)
+        output = together.Complete.create(new_cleaned_prompt,
                                           model=self.model,
                                           max_tokens=self.max_tokens,
                                           temperature=self.temperature,
                                           )
         text = output['output']['choices'][0]['text']
-        cleaned_text = self.clean_duplicates(text)
-        return cleaned_text
-
+        text = self.clean_duplicates(text)
+        return text
 
 # -- Python function to setup basic features: translator, SpaCy pipeline and LLM model
 @st.cache_resource
@@ -132,8 +156,7 @@ def setup_app(transcription_path, emb_model, model, _logger):
                                      persist_directory=persist_directory)
 
     # -- Make a retreiver
-    retriever = vectordb.as_retriever(search_type="similarity_score_threshold",
-                                      search_kwargs={"k": 5, "score_threshold": 0.5})
+    retriever = vectordb.as_retriever(search_kwargs={"k": 5})
     _logger.info('Creating document database - FINISHED!')
     _logger.info('Setup finished!')
     return translator, nlp, retriever
@@ -147,12 +170,17 @@ def get_prompt(instruction, system_prompt, b_sys, e_sys, b_inst, e_inst, _logger
 
 # -- Function to create the chain to answer questions
 @st.cache_resource
-def create_llm_chain(model, _retriever, _chain_type_kwargs, _logger):
+def create_llm_chain(model, _retriever, _chain_type_kwargs, _logger, transcription_path):
     _logger.info('Creating LLM chain...')
+    # -- Keep original transcription
+    with open(transcription_path, 'r') as f:
+        formatted_transcription = f.read()
+    
     llm = TogetherLLM(
         model= model,
         temperature = 0.0,
-        max_tokens = 1024
+        max_tokens = 1024,
+        original_transcription = formatted_transcription
     )
     qa_chain = RetrievalQA.from_chain_type(llm=llm,
                                            chain_type="stuff",
@@ -164,30 +192,6 @@ def create_llm_chain(model, _retriever, _chain_type_kwargs, _logger):
 
 # -------------------------------------------
 # -- Auxiliar functions
-def translate_text(text, nlp, target_lang='en'):
-    # Traducir el texto sin los nombres propios
-    translator = Translator()
-    # Tokenizar el texto y encontrar nombres propios
-    doc = nlp(text)
-    named_entities = [ent.text for ent in doc if ent.pos_ == 'PROPN' and ent.dep_ in ['NNP', 'NN']]
-    named_entities_list = []
-    # Reemplazar los nombres propios con marcadores temporales
-    for entity in named_entities:
-        text = text.replace(entity, f'__{entity}__')
-        named_entities_list.append(entity)
-
-    translated_text = translator.translate(text, dest=target_lang).text
-    final_translated_text = []
-
-    i = 0
-    for text in translated_text.split(' '):
-      if '__' in text and len(named_entities_list):
-        final_translated_text.append(named_entities_list[i])
-        i+=1
-      else:
-        final_translated_text.append(text)
-    return ' '.join(final_translated_text)
-
 def wrap_text_preserve_newlines(text, width=110):
     # Split the input text into lines based on newline characters
     lines = text.split('\n')
@@ -202,7 +206,7 @@ def wrap_text_preserve_newlines(text, width=110):
 
 def process_llm_response(llm_response, nlp):
   response = llm_response['result']
-  return wrap_text_preserve_newlines(translate_text(response, nlp, target_lang='es'))
+  return wrap_text_preserve_newlines(response)
 
 
 def time_to_seconds(time_str):
@@ -210,81 +214,36 @@ def time_to_seconds(time_str):
     hours, minutes, seconds = map(float, parts)
     return int((hours * 3600) + (minutes * 60) + seconds)
 
-def add_hyperlink_and_convert_to_seconds(text):
-    time_pattern = r'(\d{2}:\d{2}:\d{2}(.\d{6})?)'
+# -- Extract seconds from transcription
+def add_hyperlink_and_convert_to_seconds(text, original_transcription_list):
+    time_pattern = r'(\d{2}:\d{2}:\d{2}(?:.\d{6})?)'
     
-    def replace_with_hyperlink(match):
-        time_str = match.group(1)
-        seconds = time_to_seconds(time_str)
-        link = f'<button type="button" class="button" onclick="seek({seconds})">{time_str}</button>'
-        return link
-    
-    modified_text = re.sub(time_pattern, replace_with_hyperlink, text)
-    return modified_text
+    def get_seconds(match, original_transcription_list):
+        if len(match) == 1:
+            start_time_str, end_time_str = match[0], match[1]
+        else:
+            start_time_str = match[0]
+            end_time_str   = [re.findall(start_time_str, text) for text in original_transcription_list][0]
+        end_time_seconds   = time_to_seconds(end_time_str)
+        start_time_seconds = time_to_seconds(start_time_str)
+        return start_time_str, start_time_seconds, end_time_str, end_time_seconds
+    start_time_str, start_time_seconds, end_time_str, end_time_seconds = get_seconds(re.findall(time_pattern, text), original_transcription_list)
+    return start_time_str, start_time_seconds, end_time_str, end_time_seconds
 
 # -- Streamlit HTML template
-def typewrite(text, youtube_video_url):
-    js = """var player, seconds = 0;
-            function onYouTubeIframeAPIReady() {
-                console.log("player");
-                player = new YT.Player('player', {
-                    events: {
-                      'onReady': onPlayerReady
-                    }
-                  });
-            }
-
-            function onPlayerReady(event) {
-                event.target.playVideo();
-            }
-
-
-            function seek(sec){
-                if(player){
-                    player.seekTo(sec, true);
-                }
-            }
-        """
-
-    css = """
-    .button {
-      background-color: transparent;
-      font-family: "Tahoma sans-serif;", monospace;
-      color: red;
-      font-weight: bold;
-      border: none;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 16px;
-      cursor: pointer;
-    }
-    body {
-      color: white;
-      font-family: "Tahoma sans-serif;", monospace;
-      font-weight: 450;
-    }
-    """
-
+def typewrite(youtube_video_url, i=0):
+    youtube_video_url = youtube_video_url.replace("?enablejsapi=1", "")
+    margin = "{margin: 0;}"
     html = f"""
-        <!DOCTYPE html>
         <html>
-        <head>
-          <title>Modificar iframe</title>
-        </head>
         <style>
-            {css}
+          p {margin}
         </style>
         <body>
           <script src="https://www.youtube.com/player_api"></script>
-          <p>{text}</p>
-          <br/>
           <p align="center">
-              <iframe id="player" type="text/html" src="{youtube_video_url}" scrolling="yes" frameborder="0" width="600" height="450"></iframe>
+              <iframe id="player_{i}" src="{youtube_video_url}" width="600" height="450"></iframe>
           </p>
-          <script>
-            {js}
-           </script>
         </body>
         </html>
     """
