@@ -49,7 +49,7 @@ def get_podcast_data(path):
     return podcast_url_video_df
 
 @st.cache_resource(experimental_allow_widgets=True)
-def get_basics_comp(emb_model, model, default_system_prompt_link, _logger, podcast_url_video_df, img_size=100):
+def get_basics_comp(emb_model, model, default_system_prompt_link, _logger, podcast_url_video_df, width, side, img_size=100):
     r    = requests.get("https://raw.githubusercontent.com/AlbertoUAH/Castena/main/media/castena-animated-icon.gif", stream=True)
     icon = Image.open(r.raw)
     icon = icon.resize((img_size, img_size))
@@ -140,7 +140,7 @@ def get_basics_comp(emb_model, model, default_system_prompt_link, _logger, podca
     together.Models.start(model)
 
     # -- 7. Initial video
-    container = st.columns([side, width, side])
+    _, container, _ = st.columns([side, width, side])
     with container:
         st_player(utils.typewrite(youtube_video_url))
     return together, translator, nlp, retriever, video_option, video_option_joined_path, default_system_prompt, youtube_video_url, llm_selector
@@ -169,7 +169,8 @@ def main():
 
     together, translator, nlp, retriever, video_option, video_option_joined_path, default_system_prompt, youtube_video_url, llm_selector = get_basics_comp(EMB_MODEL, MODEL, 
                                                                                                                                                            DEFAULT_SYSTEM_PROMPT_LINK, logger, 
-                                                                                                                                                           podcast_url_video_df, img_size=100)
+                                                                                                                                                           podcast_url_video_df, WIDTH, SIDE,
+                                                                                                                                                           img_size=100)
 
     # -- 6. Setup prompt template + llm chain
     instruction = """CONTEXTO:/n/n {context}/n
