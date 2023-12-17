@@ -26,7 +26,6 @@ def get_args():
     parser.add_argument('--TRANSCRIPTION', type=str, default='worldcast_roberto_vaquero', help='Name of the trascription')
     parser.add_argument('--MODEL', type=str, default='togethercomputer/llama-2-13b-chat', help='Model name')
     parser.add_argument('--EMB_MODEL', type=str, default='sentence-transformers/paraphrase-multilingual-mpnet-base-v2', help='Embedding model name')
-    os.system("python -m spacy download es_core_news_lg")
 
     # -- 2. Setup env and logger
     os.environ["TOGETHER_API_KEY"] = "6101599d6e33e3bda336b8d007ca22e35a64c72cfd52c2d8197f663389fc50c5"
