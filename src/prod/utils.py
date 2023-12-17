@@ -10,9 +10,6 @@ from   langchain.chains            import RetrievalQA
 from   langchain.document_loaders  import TextLoader
 from   langchain.embeddings        import HuggingFaceEmbeddings
 from   googletrans                 import Translator
-from   langchain.embeddings.openai import OpenAIEmbeddings
-from   langchain.chat_models       import ChatOpenAI
-from   langchain.chains.question_answering import load_qa_chain
 import streamlit as st
 import together
 import textwrap
@@ -21,57 +18,8 @@ import os
 import re
 
 os.environ["TOGETHER_API_KEY"] = "6101599d6e33e3bda336b8d007ca22e35a64c72cfd52c2d8197f663389fc50c5"
-os.environ["OPENAI_API_KEY"] = "6101599d6e33e3bda336b8d007ca22e35a64c72cfd52c2d8197f663389fc50c5"
 
-# -- LLM class (chat GPT)
-class openAIModel():
-    model: str = "gpt-3.5-turbo"
-    """model name"""
-
-    openai_api_key: str = os.environ["OPENAI_API_KEY"]
-    """Open AI API key"""
-
-    temperature: float = 0.1
-    """What sampling temperature to use."""
-
-    chunk_size: float = 1000
-    """Setup chunk size"""
-
-    chunk_overlap: float = 200
-    """Setup chunk overlap"""
-
-    separator: str = "\n"
-    """Separator"""
-
-    persist_directory: str = "db" 
-    """Directory to persist"""
-
-    def _process_text(self, path):
-        # Load text file
-        loader = TextLoader(path)
-        documents = loader.load()
-        # Splitting the text into chunks
-        text_splitter = RecursiveCharacterTextSplitter(separator=self.separator, chunk_size=self.chunk_size, chunk_overlap=self.chunk_overlap)
-        chunks = text_splitter.split_documents(documents)
-
-        # Convert the chunks of text into embeddings to form a knowledge base
-        embeddings    = OpenAIEmbeddings()
-        vectordb      = Chroma.from_documents(documents=chunks,
-                                              embedding=embeddings,
-                                              persist_directory=self.persist_directory)
-        return vectordb
-
-    def get_response(self, path, query):
-        knowledgeBase = self._process_text(path)
-        docs          = knowledgeBase.similarity_search(query)
-        llm           = ChatOpenAI(model_name=self.model, temperature=self.temperature)
-        chain         = load_qa_chain(llm, chain_type='stuff')
-        response      = chain.run(input_documents=docs, question=query)
-        return response
-
-
-
-# -- LLM class (LLAMA-2)
+# -- LLM class
 class TogetherLLM(LLM):
     """Together large language models."""
 
@@ -81,7 +29,7 @@ class TogetherLLM(LLM):
     together_api_key: str = os.environ["TOGETHER_API_KEY"]
     """Together API key"""
 
-    temperature: float = 0.1
+    temperature: float = 0.7
     """What sampling temperature to use."""
 
     max_tokens: int = 512
@@ -126,7 +74,7 @@ class TogetherLLM(LLM):
     ) -> str:
         """Call to Together endpoint."""
         regex_transcription = r'CONTEXTO:(\n.*)+PREGUNTA'
-        regex_init_transcription = r"Desde el instante [0-9]+:[0-9]+:[0-9]+(?:\.[0-9]+)? hasta [0-9]+:[0-9]+:[0-9]+(?:\.[0-9]+)? [a-zA-Z ]+ dice: ?"
+        regex_init_transcription = r"Desde el instante [0-9]+:[0-9]+:[0-9]+(?:\.[0-9]+)? hasta [0-9]+:[0-9]+:[0-9]+(?:\.[0-9]+)? [a-zA-Záéíóú ]+ dice: ?"
 
         # -- Extract transcription
         together.api_key = self.together_api_key
@@ -150,6 +98,7 @@ class TogetherLLM(LLM):
         new_cleaned_prompt = re.sub(regex_transcription, f"""CONTEXTO:
 {new_transcription}
 PREGUNTA:""", cleaned_prompt, re.DOTALL)
+        print(new_cleaned_prompt)
         output = together.Complete.create(new_cleaned_prompt,
                                           model=self.model,
                                           max_tokens=self.max_tokens,
@@ -173,12 +122,12 @@ def setup_app(transcription_path, emb_model, model, _logger):
     # List available models and descriptons
     models = together.Models.list()
     # Set llama2 7b LLM
-    # together.Models.start(model)
+    #together.Models.start(model)
     _logger.info('Setup environment and features - FINISHED!')
 
     # -- Read translated transcription
     _logger.info('Loading transcription...')
-    loader = TextLoader('./src/prod/' + transcription_path)
+    loader = TextLoader(transcription_path)
     documents = loader.load()
     # Splitting the text into chunks
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=100)
@@ -267,19 +216,15 @@ def time_to_seconds(time_str):
     return int((hours * 3600) + (minutes * 60) + seconds)
 
 # -- Extract seconds from transcription
-def add_hyperlink_and_convert_to_seconds(text, original_transcription_list):
+def add_hyperlink_and_convert_to_seconds(text):
     time_pattern = r'(\d{2}:\d{2}:\d{2}(?:.\d{6})?)'
     
-    def get_seconds(match, original_transcription_list):
-        if len(match) == 1:
-            start_time_str, end_time_str = match[0], match[1]
-        else:
-            start_time_str = match[0]
-            end_time_str   = [re.findall(start_time_str, text) for text in original_transcription_list][0]
-        end_time_seconds   = time_to_seconds(end_time_str)
+    def get_seconds(match):
+        start_time_str, end_time_str = match[0], match[1]
         start_time_seconds = time_to_seconds(start_time_str)
+        end_time_seconds   = time_to_seconds(end_time_str)
         return start_time_str, start_time_seconds, end_time_str, end_time_seconds
-    start_time_str, start_time_seconds, end_time_str, end_time_seconds = get_seconds(re.findall(time_pattern, text), original_transcription_list)
+    start_time_str, start_time_seconds, end_time_str, end_time_seconds = get_seconds(re.findall(time_pattern, text))
     return start_time_str, start_time_seconds, end_time_str, end_time_seconds
 
 # -- Streamlit HTML template
