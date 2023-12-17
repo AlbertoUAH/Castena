@@ -3,11 +3,6 @@ from   langchain.prompts           import PromptTemplate
 from   PIL                         import Image
 from   streamlit.logger            import get_logger
 from   streamlit_player            import st_player
-from   langchain.embeddings        import OpenAIEmbeddings
-from   langchain                   import VectorDBQA, OpenAI
-from   langchain.document_loaders  import TextLoader
-from   langchain.text_splitter     import RecursiveCharacterTextSplitter
-from   langchain.vectorstores      import Chroma
 import pandas                      as pd
 import streamlit                   as st
 import urllib.request
@@ -20,9 +15,7 @@ import spacy
 import time
 import os
 import re
-
 st.set_page_config(layout="wide")
-os.environ["OPENAI_API_KEY"] = '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'
 
 @st.cache_data
 def get_args():
@@ -49,7 +42,7 @@ def get_podcast_data(path):
     return podcast_url_video_df
 
 @st.cache_resource(experimental_allow_widgets=True)
-def get_basics_comp(emb_model, model, default_system_prompt_link, _logger, podcast_url_video_df, width, side, img_size=100):
+def get_basics_comp(emb_model, model, default_system_prompt_link, _logger, podcast_url_video_df, img_size=100):
     r    = requests.get("https://raw.githubusercontent.com/AlbertoUAH/Castena/main/media/castena-animated-icon.gif", stream=True)
     icon = Image.open(r.raw)
     icon = icon.resize((img_size, img_size))
@@ -75,7 +68,7 @@ def get_basics_comp(emb_model, model, default_system_prompt_link, _logger, podca
     )
 
 
-    llm_selector = st.sidebar.radio(
+    genre = st.sidebar.radio(
                         "Seleccione el LLM",
                         ["LLAMA", "GPT (not available yet)"]
                     )
@@ -138,12 +131,7 @@ def get_basics_comp(emb_model, model, default_system_prompt_link, _logger, podca
     # -- 6. Setup model
     together.api_key = os.environ["TOGETHER_API_KEY"]
     together.Models.start(model)
-
-    # -- 7. Initial video
-    _, container, _ = st.columns([side, width, side])
-    with container:
-        st_player(utils.typewrite(youtube_video_url))
-    return together, translator, nlp, retriever, video_option, video_option_joined_path, default_system_prompt, youtube_video_url, llm_selector
+    return together, translator, nlp, retriever, video_option, video_option_joined_path, default_system_prompt, youtube_video_url
 
 def clean_chat():
     st.session_state.conversation = None
@@ -167,10 +155,9 @@ def main():
     
     podcast_url_video_df = get_podcast_data(PODCAST_URL_VIDEO_PATH)
 
-    together, translator, nlp, retriever, video_option, video_option_joined_path, default_system_prompt, youtube_video_url, llm_selector = get_basics_comp(EMB_MODEL, MODEL, 
-                                                                                                                                                           DEFAULT_SYSTEM_PROMPT_LINK, logger, 
-                                                                                                                                                           podcast_url_video_df, WIDTH, SIDE,
-                                                                                                                                                           img_size=100)
+    together, translator, nlp, retriever, video_option, video_option_joined_path, default_system_prompt, youtube_video_url = get_basics_comp(EMB_MODEL, MODEL, 
+                                                                                                                                             DEFAULT_SYSTEM_PROMPT_LINK, logger, 
+                                                                                                                                             podcast_url_video_df, img_size=100)
 
     # -- 6. Setup prompt template + llm chain
     instruction = """CONTEXTO:/n/n {context}/n
@@ -188,6 +175,10 @@ RESPUESTA: """
     qa_chain = utils.create_llm_chain(MODEL, retriever, chain_type_kwargs, logger, video_option_joined_path)
 
     # ---------------------------------------------------------------------
+    _, container, _ = st.columns([SIDE, WIDTH, SIDE])
+    with container:
+        st_player(utils.typewrite(youtube_video_url))
+
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
@@ -195,36 +186,28 @@ RESPUESTA: """
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    with open(TRANSCRIPTION_PATH, 'r') as f:
-        transcription_text = f.read()
-    transcription_text_list = transcription_text.split('\n\n')
-
     if prompt := st.chat_input("¡Pregunta lo que quieras!"):
         with st.chat_message("user"):
             st.markdown(prompt)
         st.session_state.messages.append({"role": "user", "content": prompt})
-        if llm_selector == 'LLAMA':
-            with st.chat_message("assistant"):
-                llm_response = qa_chain(prompt)
-                llm_response = utils.process_llm_response(llm_response, nlp)
-                st.markdown(llm_response)
-                start_time_str_list = []; start_time_seconds_list = []; end_time_seconds_list = []
-                for response in llm_response.split('\n'):
-                    if re.search(r'(\d{2}:\d{2}:\d{2}(.\d{6})?)', response) != None:
-                        start_time_str, start_time_seconds, _, end_time_seconds = utils.add_hyperlink_and_convert_to_seconds(response, transcription_text_list)
-                        start_time_str_list.append(start_time_str)
-                        start_time_seconds_list.append(start_time_seconds)
-                        end_time_seconds_list.append(end_time_seconds)
+        with st.chat_message("assistant"):
+            llm_response = qa_chain(prompt)
+            llm_response = utils.process_llm_response(llm_response, nlp)
+            st.markdown(llm_response)
+            start_time_str_list = []; start_time_seconds_list = []; end_time_seconds_list = []
+            for response in llm_response.split('\n'):
+                if re.search(r'(\d{2}:\d{2}:\d{2}(.\d{6})?)', response) != None:
+                    start_time_str, start_time_seconds, _, end_time_seconds = utils.add_hyperlink_and_convert_to_seconds(response)
+                    start_time_str_list.append(start_time_str)
+                    start_time_seconds_list.append(start_time_seconds)
+                    end_time_seconds_list.append(end_time_seconds)
 
-                if start_time_str_list:
-                    for start_time_seconds, start_time_str, end_time_seconds in zip(start_time_seconds_list, start_time_str_list, end_time_seconds_list):
-                        st.markdown("__Fragmento: " + start_time_str + "__")
-                        _, container, _ = st.columns([SIDE, WIDTH, SIDE])
-                        with container:
-                            st_player(youtube_video_url.replace("?enablejsapi=1", "") + f'?start={start_time_seconds}&end={end_time_seconds}')
-    if llm_selector == 'GPT (not available yet)':
-        st.markdown(qa.run("¿Qué edad tiene Roberto Vaquero?"))
-
+            if start_time_str_list:
+                for start_time_seconds, start_time_str, end_time_seconds in zip(start_time_seconds_list, start_time_str_list, end_time_seconds_list):
+                    st.markdown("__Fragmento: " + start_time_str + "__")
+                    _, container, _ = st.columns([SIDE, WIDTH, SIDE])
+                    with container:
+                        st_player(youtube_video_url.replace("?enablejsapi=1", "") + f'?start={start_time_seconds}&end={end_time_seconds}')
 
         st.session_state.messages.append({"role": "assistant", "content": llm_response})
 # -- Sample: streamlit run app.py -- --DEFAULT_SYSTEM_PROMPT_LINK=https://raw.githubusercontent.com/AlbertoUAH/Castena/main/prompts/default_system_prompt.txt --PODCAST_URL_VIDEO_PATH=https://raw.githubusercontent.com/AlbertoUAH/Castena/main/data/podcast_youtube_video.csv --TRANSCRIPTION=worldcast_roberto_vaquero --MODEL=togethercomputer/llama-2-7b-chat --EMB_MODEL=BAAI/bge-base-en-v1.5
