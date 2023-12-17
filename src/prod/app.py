@@ -21,8 +21,9 @@ st.set_page_config(layout="wide")
 def get_args():
     # -- 1. Setup arguments
     parser = argparse.ArgumentParser()
-    parser.add_argument('--DEFAULT_SYSTEM_PROMPT_LINK', type=str, default="https://raw.githubusercontent.com/AlbertoUAH/Castena/main/prompts/default_system_prompt.txt", help='Valor para DEFAULT_SYSTEM_PROMPT_LINK')
-    parser.add_argument('--PODCAST_URL_VIDEO_PATH', type=str, default="https://raw.githubusercontent.com/AlbertoUAH/Castena/main/data/podcast_youtube_video.csv", help='Valor para PODCAST_URL_VIDEO_PATH')
+    # https://raw.githubusercontent.com/AlbertoUAH/Castena/main/prompts/default_system_prompt.txt
+    parser.add_argument('--DEFAULT_SYSTEM_PROMPT_LINK', type=str, default="./prompts/default_system_prompt.txt", help='Valor para DEFAULT_SYSTEM_PROMPT_LINK')
+    parser.add_argument('--PODCAST_URL_VIDEO_PATH', type=str, default="./data/podcast_youtube_video.csv", help='Valor para PODCAST_URL_VIDEO_PATH')
     parser.add_argument('--TRANSCRIPTION', type=str, default='worldcast_roberto_vaquero', help='Name of the trascription')
     parser.add_argument('--MODEL', type=str, default='togethercomputer/llama-2-13b-chat', help='Model name')
     parser.add_argument('--EMB_MODEL', type=str, default='sentence-transformers/paraphrase-multilingual-mpnet-base-v2', help='Embedding model name')
