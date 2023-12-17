@@ -80,6 +80,7 @@ def get_basics_comp(emb_model, model, default_system_prompt_link, _logger, podca
         on_change=clean_chat
     )
 
+    print("Add sidebar")
     # -- Add icons
     with st.sidebar.container():
         st.markdown(
@@ -120,12 +121,13 @@ def get_basics_comp(emb_model, model, default_system_prompt_link, _logger, podca
     video_option_joined_path = "{}_transcription.txt".format(video_option_joined)
     youtube_video_url   = list(podcast_url_video_df[podcast_url_video_df['podcast_name'].str.contains(video_option_joined)]['youtube_video_url'])[0].replace("\'", "")
     st.title("[Podcast: {}]({})".format(video_option.replace("'", "").title(), youtube_video_url))
-
+    print("Add system prompt file")
     # -- 4. Setup request for system prompt
     with open(default_system_prompt_link, 'r') as f:
         default_system_prompt = f.read()
     
     # -- 5. Setup app
+    print("SETUP APP")
     translator, nlp, retriever = utils.setup_app(video_option_joined_path, emb_model, model, _logger)
 
     # -- 6. Setup model
