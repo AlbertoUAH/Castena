@@ -21,7 +21,7 @@ import os
 import re
 
 os.environ["TOGETHER_API_KEY"] = "6101599d6e33e3bda336b8d007ca22e35a64c72cfd52c2d8197f663389fc50c5"
-#os.environ["OPENAI_API_KEY"] = "6101599d6e33e3bda336b8d007ca22e35a64c72cfd52c2d8197f663389fc50c5"
+os.environ["OPENAI_API_KEY"] = "6101599d6e33e3bda336b8d007ca22e35a64c72cfd52c2d8197f663389fc50c5"
 
 # -- LLM class (chat GPT)
 class openAIModel():
