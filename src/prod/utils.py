@@ -141,7 +141,7 @@ def setup_app(transcription_path, emb_model, model, _logger):
     _logger.info('Loading embedding...')
     encode_kwargs = {'normalize_embeddings': True} # set True to compute cosine similarity
     print("Load HuggingFace embeddings: {}".format(emb_model))
-    model_norm = SelfHostedHuggingFaceEmbeddings(
+    model_norm = HuggingFaceEmbeddings(
         model_name=emb_model,
         model_kwargs={'device': 'cpu'},
         encode_kwargs=encode_kwargs
