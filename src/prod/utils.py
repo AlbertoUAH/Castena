@@ -11,7 +11,7 @@ from   langchain.document_loaders  import TextLoader
 from   langchain.embeddings        import HuggingFaceEmbeddings
 from   googletrans                 import Translator
 from   langchain.embeddings.openai import OpenAIEmbeddings
-from   langchain.llms              import ChatOpenAI
+from   langchain.chat_models       import ChatOpenAI
 from   langchain.chains.question_answering import load_qa_chain
 import streamlit as st
 import together
