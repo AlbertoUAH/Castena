@@ -146,14 +146,17 @@ def setup_app(transcription_path, emb_model, model, _logger):
         model_kwargs={'device': 'cpu'},
         encode_kwargs=encode_kwargs
     )
+    print("Finished loading embedding")
     _logger.info('Loading embedding - FINISHED!')
 
     # -- Create document database
+    print("Before log")
     _logger.info('Creating document database...')
     # Embed and store the texts
     # Supplying a persist_directory will store the embeddings on disk
     persist_directory = 'db'
     ## Here is the nmew embeddings being used
+    print("embedding = model_norm")
     embedding = model_norm
     print("Load vector db")
     vectordb = Chroma.from_documents(documents=texts,
