@@ -154,12 +154,12 @@ def main():
 
     print("Loading podcast data")
     podcast_url_video_df = get_podcast_data(PODCAST_URL_VIDEO_PATH)
-    
+
+    print("Loading basic components")
     together, translator, nlp, retriever, video_option, video_option_joined_path, default_system_prompt, youtube_video_url = get_basics_comp(EMB_MODEL, MODEL, 
                                                                                                                                              DEFAULT_SYSTEM_PROMPT_LINK, logger, 
                                                                                                                                              podcast_url_video_df, img_size=100)
 
-    print("Loading basic components")
     # -- 6. Setup prompt template + llm chain
     instruction = """CONTEXTO:/n/n {context}/n
 
