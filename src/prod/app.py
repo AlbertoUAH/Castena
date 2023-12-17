@@ -122,9 +122,9 @@ def get_basics_comp(emb_model, model, default_system_prompt_link, _logger, podca
     st.title("[Podcast: {}]({})".format(video_option.replace("'", "").title(), youtube_video_url))
 
     # -- 4. Setup request for system prompt
-    f = urllib.request.urlopen(default_system_prompt_link)
-    default_system_prompt = str(f.read(), 'UTF-8')
-
+    with open(default_system_prompt_link, 'r') as f:
+        default_system_prompt = str(f.read(), 'UTF-8')
+    
     # -- 5. Setup app
     translator, nlp, retriever = utils.setup_app(video_option_joined_path, emb_model, model, _logger)
 
