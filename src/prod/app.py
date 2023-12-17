@@ -130,7 +130,7 @@ def get_basics_comp(emb_model, model, default_system_prompt_link, _logger, podca
 
     # -- 6. Setup model
     together.api_key = os.environ["TOGETHER_API_KEY"]
-    together.Models.start(model)
+    #together.Models.start(model)
     return together, translator, nlp, retriever, video_option, video_option_joined_path, default_system_prompt, youtube_video_url
 
 def clean_chat():
