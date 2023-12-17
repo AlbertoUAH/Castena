@@ -41,3 +41,4 @@ tqdm==4.66.1
 transformers==4.34.0
 urllib3==2.0.6
 streamlit_player==0.1.5
+https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.7.0/es_core_news_lg-3.7.0.tar.gz
