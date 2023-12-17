@@ -22,7 +22,6 @@ import re
 
 os.environ["TOGETHER_API_KEY"] = "6101599d6e33e3bda336b8d007ca22e35a64c72cfd52c2d8197f663389fc50c5"
 os.environ["OPENAI_API_KEY"] = "6101599d6e33e3bda336b8d007ca22e35a64c72cfd52c2d8197f663389fc50c5"
-os.system("python -m spacy download es_core_news_lg")
 
 # -- LLM class (chat GPT)
 class openAIModel():
@@ -179,7 +178,7 @@ def setup_app(transcription_path, emb_model, model, _logger):
 
     # -- Read translated transcription
     _logger.info('Loading transcription...')
-    loader = TextLoader('castena/src/prod/' + transcription_path)
+    loader = TextLoader('src/prod/' + transcription_path)
     documents = loader.load()
     # Splitting the text into chunks
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=100)
