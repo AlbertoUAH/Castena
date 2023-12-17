@@ -112,6 +112,7 @@ PREGUNTA:""", cleaned_prompt, re.DOTALL)
 @st.cache_resource
 def setup_app(transcription_path, emb_model, model, _logger):
     # -- Setup enviroment and features
+    print("Setup googletranslator")
     translator = Translator(service_urls=['translate.googleapis.com'])
     nlp        = spacy.load('es_core_news_lg')
 
@@ -120,6 +121,7 @@ def setup_app(transcription_path, emb_model, model, _logger):
     # -- Setup LLM
     together.api_key = os.environ["TOGETHER_API_KEY"]
     # List available models and descriptons
+    print("Setup models")
     models = together.Models.list()
     # Set llama2 7b LLM
     #together.Models.start(model)
@@ -127,6 +129,7 @@ def setup_app(transcription_path, emb_model, model, _logger):
 
     # -- Read translated transcription
     _logger.info('Loading transcription...')
+    print("Load text loader")
     loader = TextLoader('./src/prod/' + transcription_path)
     documents = loader.load()
     # Splitting the text into chunks
@@ -137,6 +140,7 @@ def setup_app(transcription_path, emb_model, model, _logger):
     # -- Load embedding
     _logger.info('Loading embedding...')
     encode_kwargs = {'normalize_embeddings': True} # set True to compute cosine similarity
+    print("Load HuggingFace embeddings")
     model_norm = HuggingFaceEmbeddings(
         model_name=emb_model,
         model_kwargs={'device': 'cpu'},
@@ -151,7 +155,7 @@ def setup_app(transcription_path, emb_model, model, _logger):
     persist_directory = 'db'
     ## Here is the nmew embeddings being used
     embedding = model_norm
-
+    print("Load vector db")
     vectordb = Chroma.from_documents(documents=texts,
                                      embedding=embedding,
                                      persist_directory=persist_directory)
