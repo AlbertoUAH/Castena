@@ -179,8 +179,7 @@ def setup_app(transcription_path, emb_model, model, _logger):
 
     # -- Read translated transcription
     _logger.info('Loading transcription...')
-    print("LA RUTA ES: " + str(os.listdir()))
-    loader = TextLoader(transcription_path)
+    loader = TextLoader('/mount/src/castena/src/prod/' + transcription_path)
     documents = loader.load()
     # Splitting the text into chunks
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=100)
