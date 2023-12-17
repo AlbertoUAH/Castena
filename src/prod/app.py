@@ -152,19 +152,22 @@ def main():
     WIDTH                      = 50
     SIDE                       = (100 - WIDTH) / 2
 
-    
+    print("Loading podcast data")
     podcast_url_video_df = get_podcast_data(PODCAST_URL_VIDEO_PATH)
-
+    
     together, translator, nlp, retriever, video_option, video_option_joined_path, default_system_prompt, youtube_video_url = get_basics_comp(EMB_MODEL, MODEL, 
                                                                                                                                              DEFAULT_SYSTEM_PROMPT_LINK, logger, 
                                                                                                                                              podcast_url_video_df, img_size=100)
 
+    print("Loading basic components")
     # -- 6. Setup prompt template + llm chain
     instruction = """CONTEXTO:/n/n {context}/n
 
 PREGUNTA: {question}
 
 RESPUESTA: """
+
+    print("Load prompts")
     prompt_template = utils.get_prompt(instruction, default_system_prompt, B_SYS, E_SYS, B_INST, E_INST, logger)
 
     llama_prompt = PromptTemplate(
@@ -172,6 +175,7 @@ RESPUESTA: """
     )
     chain_type_kwargs = {"prompt": llama_prompt}
 
+    print("Create LLM chain")
     qa_chain = utils.create_llm_chain(MODEL, retriever, chain_type_kwargs, logger, video_option_joined_path)
 
     # ---------------------------------------------------------------------
