@@ -8,7 +8,7 @@ from   langchain.vectorstores      import Chroma
 from   langchain.text_splitter     import RecursiveCharacterTextSplitter
 from   langchain.chains            import RetrievalQA
 from   langchain.document_loaders  import TextLoader
-from   langchain.embeddings        import HuggingFaceEmbeddings
+from   langchain.embeddings        import SelfHostedHuggingFaceEmbeddings
 from   googletrans                 import Translator
 import streamlit as st
 import together
@@ -141,7 +141,7 @@ def setup_app(transcription_path, emb_model, model, _logger):
     _logger.info('Loading embedding...')
     encode_kwargs = {'normalize_embeddings': True} # set True to compute cosine similarity
     print("Load HuggingFace embeddings: {}".format(emb_model))
-    model_norm = HuggingFaceEmbeddings(
+    model_norm = SelfHostedHuggingFaceEmbeddings(
         model_name=emb_model,
         model_kwargs={'device': 'cpu'},
         encode_kwargs=encode_kwargs
