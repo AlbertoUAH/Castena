@@ -174,7 +174,7 @@ def setup_app(transcription_path, emb_model, model, _logger):
     # List available models and descriptons
     models = together.Models.list()
     # Set llama2 7b LLM
-    together.Models.start(model)
+    # together.Models.start(model)
     _logger.info('Setup environment and features - FINISHED!')
 
     # -- Read translated transcription
