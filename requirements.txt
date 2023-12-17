@@ -16,7 +16,7 @@ oauthlib==3.2.2
 pandas==1.5.3
 py4j==0.10.9.7
 pyarrow==9.0.0
-pydantic==1.10.13
+pydantic==1.10.9
 pyproj==3.6.1
 pytensor==2.14.2
 requests==2.31.0
@@ -40,3 +40,4 @@ torchtext==0.15.2
 tqdm==4.66.1
 transformers==4.34.0
 urllib3==2.0.6
+streamlit_player==0.1.5
