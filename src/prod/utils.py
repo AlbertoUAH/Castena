@@ -45,10 +45,10 @@ class TogetherLLM(LLM):
     together_api_key: str = os.environ["TOGETHER_API_KEY"]
     """Together API key"""
 
-    temperature: float = 0.0
+    temperature: float = 0.7
     """What sampling temperature to use."""
 
-    max_tokens: int = 1024
+    max_tokens: int = 512
     """The maximum number of tokens to generate in the completion."""
 
     original_transcription: str = ""
@@ -467,17 +467,17 @@ def time_to_seconds(time_str):
 def add_hyperlink_and_convert_to_seconds(text):
     time_pattern = r'(\d{2}:\d{2}:\d{2}(?:.\d{6})?)'
     
-    def get_seconds(match):
+    def get_seconds(match, text):
         if len(match) == 2:
             start_time_str, end_time_str = match[0], match[1]
         else:
             start_time_str = match[0]
-            end_time_str   = re.findall(r"Desde el instante {} hasta {}".format(start_time_str, time_pattern))[0].split('hasta ')[-1]
+            end_time_str   = re.findall(r"Desde el instante {} hasta {}".format(start_time_str, time_pattern), text)[0].split('hasta ')[-1]
             
         start_time_seconds = time_to_seconds(start_time_str)
         end_time_seconds   = time_to_seconds(end_time_str)
         return start_time_str, start_time_seconds, end_time_str, end_time_seconds
-    start_time_str, start_time_seconds, end_time_str, end_time_seconds = get_seconds(re.findall(time_pattern, text))
+    start_time_str, start_time_seconds, end_time_str, end_time_seconds = get_seconds(re.findall(time_pattern, text), text)
     return start_time_str, start_time_seconds, end_time_str, end_time_seconds
 
 # -- Streamlit HTML template
