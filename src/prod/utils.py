@@ -45,10 +45,10 @@ class TogetherLLM(LLM):
     together_api_key: str = os.environ["TOGETHER_API_KEY"]
     """Together API key"""
 
-    temperature: float = 0.7
+    temperature: float = 0.0
     """What sampling temperature to use."""
 
-    max_tokens: int = 512
+    max_tokens: int = 1024
     """The maximum number of tokens to generate in the completion."""
 
     original_transcription: str = ""
