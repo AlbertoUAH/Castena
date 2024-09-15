@@ -146,4 +146,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * Colab notebooks (free tier)
 * [TogetherAI](https://together.ai/) (LLM support)
 
+## Resources
+
+* [Touvron Hugo, Martin Louis, Stone Kevin (2023). Llama 2: Open Foundation and Fine-Tuned Chat Models. GenAI, Meta](https://arxiv.org/abs/2307.09288)
+* [TogetherAl: an Al acceleration cloud](https://www.together.ai/)
+* [Langchain documentation](https://python.langchain.com/v0.2/docs/introduction/)
+* [Langchain Al Handbook, by James Briggs & Francisco Ingham](https://www.pinecone.io/learn/series/langchain/)
+* [OpenAl documentation](https://www.openal.org/documentation/)
+* [Chroma Database](https://www.trychroma.com/)
+* [Whisper: GitHub repository](https://github.com/openai/whisper)
+* [Pyannote - Speaker diarization: HuggingFace repository](https://huggingface.co/pyannote/speaker-diarization)
+* [Streamlit documentation](https://docs.streamlit.io/)
+* [Ortus Al - YouTube channel](https://www.youtube.com/@OrtusAI/about)
+* [Lex Friedman Podcast: Create Summaries of your favourite Podcasts using Al](https://medium.com/@felipecembranelli/lex-fridman-podcast-create-summaries-of-your-favorite-podcasts-using-ai-a29a5923a445)
+
 ## [Buy me a beer! 🍺](https://www.buymeacoffee.com/castena)
