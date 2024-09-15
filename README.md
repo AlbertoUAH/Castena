@@ -90,19 +90,14 @@ Before you begin, ensure you have the following requirements in place:
    streamlit run app.py --logger.level=warning 2 > 'app_log.log'
    ```
 
-## Usage
+## Directory structure
 
-  1. Launch the chatbot using the instructions in the "Installation" section.
-  
-  2. The chatbot will prompt you to enter the podcast name or URL you want to interact with.
-  
-  3. Choose one of the available interaction options, such as transcription, summarization, or search.
-  
-  4. Follow the chatbot's prompts to provide additional details or requests.
-  
-  5. Enjoy your enhanced podcast experience!
+prod/
+├── app.py
+├── utils.py
+└── requirements.txt
 
-## Evaluation
+## Evaluation (Coming soon)
 
 To evaluate our approach, labelled datasets are needed. To do so, we employ [Label Studio library](https://labelstud.io/)
 
@@ -114,7 +109,7 @@ To evaluate our approach, labelled datasets are needed. To do so, we employ [Lab
  <img src="./media/label_studio_sample.png" width="650px">
 </p>
 
-### Metrics
+### Metrics (Coming soon)
 
 To evaluate LLM performance, [QAEvalChain](https://api.python.langchain.com/en/latest/evaluation/langchain.evaluation.qa.eval_chain.QAEvalChain.html), [cosine_similarity](https://www.engati.com/glossary/cosine-similarity#:~:text=In%20NLP%2C%20Cosine%20similarity%20is,in%20a%20multi%2Ddimensional%20space.) and a [sentence similarity model](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) are used
 
