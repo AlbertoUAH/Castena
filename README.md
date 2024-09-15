@@ -92,10 +92,12 @@ Before you begin, ensure you have the following requirements in place:
 
 ## Directory structure
 
+```
 prod/
 ├── app.py
 ├── utils.py
 └── requirements.txt
+```
 
 ## Evaluation (Coming soon)
 
