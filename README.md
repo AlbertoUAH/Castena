@@ -24,7 +24,9 @@ This chatbot utilizes advanced natural language processing techniques to provide
 
 ## Proposal
 
-
+<p align="center">
+    <img src="./media/architecture.png" alt="Architecture" />
+</p>
 
 ## Objectives
 
