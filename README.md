@@ -22,6 +22,10 @@ The LLM Chatbot for Interacting with Spanish Podcasts is an AI-powered chatbot d
 
 This chatbot utilizes advanced natural language processing techniques to provide real-time text-based interactions with Spanish podcasts. Whether you want to generate transcripts, summarize episodes, or seek information about specific topics within a podcast, this chatbot is here to assist you.
 
+## Proposal
+
+
+
 ## Objectives
 
 <p align="center">
