@@ -48,9 +48,9 @@ This chatbot utilizes advanced natural language processing techniques to provide
 | Video Name            | Channel     | Topic  | Status |
 |-----------------------|-------------|--------|--------|
 | [Worldcast #45 - Roberto Vaquero](https://www.youtube.com/watch?v=4sXT1tHVbjE) | Worldcast   | Politics | Available |
-| [Marc Vidal - entrevista a Jose Luis Cava](https://www.youtube.com/watch?v=CBmTWyIbhI4&t=1513s) | Marc Vidal   | Economy and Politics | Available soon |
-| [Wall Street Wolverine - entrevista a Samuel Vázquez](https://www.youtube.com/watch?v=-JSF3nmPI-Y) | Wall Street Wolverine | Politics and Society | Available soon |
-| [The Wild Project - entrevista a Operador Nuclear](https://www.youtube.com/watch?v=k1PvPo8Qa9g) | The Wild Project | Society | Available soon |
+| [Marc Vidal - entrevista a Jose Luis Cava](https://www.youtube.com/watch?v=CBmTWyIbhI4&t=1513s) | Marc Vidal   | Economy and Politics | Available |
+| [Wall Street Wolverine - entrevista a Samuel Vázquez](https://www.youtube.com/watch?v=-JSF3nmPI-Y) | Wall Street Wolverine | Politics and Society | Available |
+| [The Wild Project - entrevista a Operador Nuclear](https://www.youtube.com/watch?v=k1PvPo8Qa9g) | The Wild Project | Society | Available |
 
 ## Features
 
@@ -90,13 +90,15 @@ Before you begin, ensure you have the following requirements in place:
    streamlit run app.py --logger.level=warning 2 > 'app_log.log'
    ```
 
-## Directory structure
+## Relevant files
 
 ```
-prod/
-├── app.py
-├── utils.py
-└── requirements.txt
+src/
+    ├── transcriptions_extraction_whipser.ipynb: notebook with the code for step1
+    ├── prod/
+        ├── app.py: main application
+        ├── utils.py
+        └── requirements.txt
 ```
 
 ## Evaluation (Coming soon)
